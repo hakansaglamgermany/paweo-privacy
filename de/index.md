@@ -1,16 +1,16 @@
-# Datenschutzerklärung von Petcare+
+# Datenschutzerklärung von Paweo
 
 [English](../) · Deutsch
 
 Stand: 2. Oktober 2026
 
-Petcare+ ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Gesundheitstagebuch und ein Gesundheitsbericht als PDF. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
+Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Gesundheitstagebuch und ein Gesundheitsbericht als PDF. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
 
-**Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Petcare+ hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
+**Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
 
 ## Verantwortlicher
 
-Petcare+ wird von Hakan Sağlam veröffentlicht, petcareplus.support@gmail.com („wir“).
+Paweo wird von Hakan Sağlam veröffentlicht, petcareplus.support@gmail.com („wir“).
 
 ## Was die App speichert und wo
 
@@ -21,7 +21,7 @@ Die App speichert nur, was du selbst eingibst, in einer Datenbank auf deinem Ger
 - **Erinnerungen:** Art, Titel, Zeitplan und wann du sie als erledigt markiert hast.
 - **Gesundheitstagebuch:** Gewichtseinträge und Notizen.
 
-Diese Angaben verlassen dein Gerät über Petcare+ nie, und wir erhalten sie nie. Wir können sie weder einsehen noch abrufen oder wiederherstellen.
+Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. Wir können sie weder einsehen noch abrufen oder wiederherstellen.
 
 ## Was die App nicht tut
 
@@ -36,7 +36,7 @@ Diese Angaben verlassen dein Gerät über Petcare+ nie, und wir erhalten sie nie
 - **Wecker und Erinnerungen (exakte Wecker):** damit Erinnerungen zur eingestellten Zeit ankommen. Du kannst das in den Geräteeinstellungen abschalten; Erinnerungen kommen dann eventuell später.
 - **Beim Start ausführen:** Nach einem Neustart des Geräts stellt die App deine Erinnerungen neu ein, weil Android geplante Wecker beim Neustart löscht.
 
-Die Anruftaste neben einer Telefonnummer öffnet deine Telefon-App mit der eingetragenen Nummer. Petcare+ führt selbst keine Anrufe aus.
+Die Anruftaste neben einer Telefonnummer öffnet deine Telefon-App mit der eingetragenen Nummer. Paweo führt selbst keine Anrufe aus.
 
 ## Einen Gesundheitsbericht teilen
 
@@ -44,7 +44,7 @@ Wenn du auf „Gesundheitsbericht teilen“ tippst, erstellt die App auf deinem 
 
 ## Sicherungen
 
-Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Petcare+ erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten.
+Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten.
 
 ## Wie lange Daten gespeichert werden und wie du sie löschst
 
@@ -56,7 +56,7 @@ Nach dem Datenschutzrecht, etwa der Datenschutz-Grundverordnung (DSGVO), hast du
 
 ## Kinder
 
-Petcare+ richtet sich nicht an Kinder unter 13 Jahren.
+Paweo richtet sich nicht an Kinder unter 13 Jahren.
 
 ## Änderungen dieser Erklärung
 

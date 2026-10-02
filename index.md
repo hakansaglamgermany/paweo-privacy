@@ -1,16 +1,16 @@
-# Petcare+ Privacy Policy
+# Paweo Privacy Policy
 
 English · [Deutsch](de/)
 
 Effective date: October 2, 2026
 
-Petcare+ is an app for keeping track of your pets' care: profiles, reminders, a health log and a PDF health report. This policy explains what happens to the information you enter.
+Paweo is an app for keeping track of your pets' care: profiles, reminders, a health log and a PDF health report. This policy explains what happens to the information you enter.
 
-**In short: everything you enter stays on your device. Petcare+ has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
+**In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
 
 ## Who is responsible
 
-Petcare+ is published by Hakan Sağlam, petcareplus.support@gmail.com ("we").
+Paweo is published by Hakan Sağlam, petcareplus.support@gmail.com ("we").
 
 ## What the app stores, and where
 
@@ -21,7 +21,7 @@ The app stores only what you type into it, in a database on your device:
 - **Reminders:** their type, title, schedule, and when you marked them as done.
 - **Health log:** weight entries and notes.
 
-This information never leaves your device through Petcare+, and we never receive it. We cannot see, access or recover it.
+This information never leaves your device through Paweo, and we never receive it. We cannot see, access or recover it.
 
 ## What the app does not do
 
@@ -36,7 +36,7 @@ This information never leaves your device through Petcare+, and we never receive
 - **Alarms and reminders (exact alarms):** so reminders arrive at the time you set. You can turn this off in your device settings; reminders may then arrive later.
 - **Run at startup:** after your device restarts, the app sets your reminders again, because Android clears scheduled alarms on restart.
 
-The call button next to a phone number opens your phone app with the number filled in. Petcare+ does not place calls itself.
+The call button next to a phone number opens your phone app with the number filled in. Paweo does not place calls itself.
 
 ## Sharing a health report
 
@@ -44,7 +44,7 @@ When you tap "Share health report", the app creates a PDF on your device and ope
 
 ## Backups
 
-If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Petcare+ allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings.
+If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings.
 
 ## How long data is kept, and how to delete it
 
@@ -56,7 +56,7 @@ Under data protection law, such as the EU General Data Protection Regulation (GD
 
 ## Children
 
-Petcare+ is not directed at children under 13.
+Paweo is not directed at children under 13.
 
 ## Changes to this policy
 
