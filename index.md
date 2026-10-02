@@ -10,7 +10,7 @@ Paweo is an app for keeping track of your pets' care: profiles, reminders, a hea
 
 ## Who is responsible
 
-Paweo is published by Hakan Sağlam, petcareplus.support@gmail.com ("we").
+Paweo is published by Hakan Sağlam, paweo.support@gmail.com ("we").
 
 ## What the app stores, and where
 
@@ -52,7 +52,7 @@ Your data stays on your device until you delete it. You can delete a pet (togeth
 
 ## Your rights
 
-Under data protection law, such as the EU General Data Protection Regulation (GDPR), you have rights to access, correct and delete your personal data. Because we never receive your data, you exercise these rights directly in the app: you can view, change and delete everything there. If you have questions, contact us at petcareplus.support@gmail.com. You also have the right to lodge a complaint with a data protection supervisory authority.
+Under data protection law, such as the EU General Data Protection Regulation (GDPR), you have rights to access, correct and delete your personal data. Because we never receive your data, you exercise these rights directly in the app: you can view, change and delete everything there. If you have questions, contact us at paweo.support@gmail.com. You also have the right to lodge a complaint with a data protection supervisory authority.
 
 ## Children
 
@@ -64,4 +64,4 @@ If this policy changes, we will publish the new version at this address with a n
 
 ## Contact
 
-petcareplus.support@gmail.com
+paweo.support@gmail.com

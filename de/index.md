@@ -10,7 +10,7 @@ Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profi
 
 ## Verantwortlicher
 
-Paweo wird von Hakan Sağlam veröffentlicht, petcareplus.support@gmail.com („wir“).
+Paweo wird von Hakan Sağlam veröffentlicht, paweo.support@gmail.com („wir“).
 
 ## Was die App speichert und wo
 
@@ -52,7 +52,7 @@ Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App
 
 ## Deine Rechte
 
-Nach dem Datenschutzrecht, etwa der Datenschutz-Grundverordnung (DSGVO), hast du das Recht auf Auskunft, Berichtigung und Löschung deiner personenbezogenen Daten. Da wir deine Daten nie erhalten, übst du diese Rechte direkt in der App aus: Dort kannst du alles ansehen, ändern und löschen. Bei Fragen erreichst du uns unter petcareplus.support@gmail.com. Außerdem hast du das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
+Nach dem Datenschutzrecht, etwa der Datenschutz-Grundverordnung (DSGVO), hast du das Recht auf Auskunft, Berichtigung und Löschung deiner personenbezogenen Daten. Da wir deine Daten nie erhalten, übst du diese Rechte direkt in der App aus: Dort kannst du alles ansehen, ändern und löschen. Bei Fragen erreichst du uns unter paweo.support@gmail.com. Außerdem hast du das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren.
 
 ## Kinder
 
@@ -64,4 +64,4 @@ Wenn sich diese Erklärung ändert, veröffentlichen wir die neue Fassung unter 
 
 ## Kontakt
 
-petcareplus.support@gmail.com
+paweo.support@gmail.com
