@@ -1,5 +1,7 @@
 # Petcare+ Privacy Policy
 
+English · [Deutsch](de/)
+
 Effective date: October 2, 2026
 
 Petcare+ is an app for keeping track of your pets' care: profiles, reminders, a health log and a PDF health report. This policy explains what happens to the information you enter.
