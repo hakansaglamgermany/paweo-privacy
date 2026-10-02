@@ -42,7 +42,7 @@ When you tap "Share health report", the app creates a PDF on your device and ope
 
 ## Backups
 
-If backup is turned on in your device settings, Android may include the app's data in your device backup (for example in your Google account) and restore it on a new phone. This backup is provided by Android and Google, not by us, and we have no access to it. You can turn backup off in your device settings.
+If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Petcare+ allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings.
 
 ## How long data is kept, and how to delete it
 
