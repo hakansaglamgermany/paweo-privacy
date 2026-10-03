@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · Português
 
-Data de entrada em vigor: 2 de outubro de 2026
+Data de entrada em vigor: 3 de outubro de 2026
 
 O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo de saúde e um relatório de saúde em PDF. Esta política explica o que acontece às informações que introduz.
 
@@ -17,6 +17,7 @@ O Paweo é publicado por Hakan Sağlam, paweo.support@gmail.com ("nós").
 A app guarda apenas o que escreve nela, numa base de dados no seu dispositivo:
 
 - **Perfis dos animais:** nome, espécie ou raça, data de nascimento, peso, número do microchip e o registo onde está inscrito, alergias e doenças crónicas.
+- **Fotos dos animais:** uma foto do seu animal, se adicionar uma.
 - **Contactos que adiciona:** o seu número de telefone e o nome e telefone do seu veterinário ou clínica.
 - **Lembretes:** o tipo, o título, o horário e quando os marcou como feitos.
 - **Registo de saúde:** pesos e notas.
@@ -28,7 +29,7 @@ Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca
 - Não cria nenhuma conta nem pede o seu nome ou e-mail.
 - Não se liga à internet (não tem permissão de internet).
 - Não usa publicidade, análises, relatórios de falhas nem nenhum SDK de terceiros que recolha dados.
-- Não usa o ID de publicidade, a sua localização, os seus contactos, a câmara nem as suas fotos.
+- Não usa o ID de publicidade, a sua localização, os seus contactos nem a câmara, e não pode explorar as suas fotos: se adicionar uma foto do seu animal, escolhe-a no seletor de fotos do Android e só essa foto é copiada para o armazenamento da app no seu dispositivo.
 
 ## Permissões
 

@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · Polski · [Português](../pt/)
 
-Data wejścia w życie: 2 października 2026 r.
+Data wejścia w życie: 3 października 2026 r.
 
 Paweo to aplikacja do prowadzenia opieki nad twoimi zwierzętami: profile, przypomnienia, dziennik zdrowia i raport zdrowia w formacie PDF. Ta polityka wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
@@ -17,6 +17,7 @@ Paweo publikuje Hakan Sağlam, paweo.support@gmail.com („my”).
 Aplikacja zapisuje tylko to, co sam w niej wpiszesz, w bazie danych na twoim urządzeniu:
 
 - **Profile zwierząt:** imię, gatunek lub rasa, data urodzenia, waga, numer chipa i rejestr, w którym jest zarejestrowany, alergie i choroby przewlekłe.
+- **Zdjęcia zwierząt:** zdjęcie twojego zwierzęcia, jeśli je dodasz.
 - **Dodane kontakty:** twój numer telefonu oraz nazwa i numer telefonu twojego weterynarza lub kliniki.
 - **Przypomnienia:** ich rodzaj, tytuł, harmonogram i to, kiedy oznaczyłeś je jako zrobione.
 - **Dziennik zdrowia:** pomiary wagi i notatki.
@@ -28,7 +29,7 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (nie ma uprawnienia do internetu).
 - Nie używa reklam, analityki, raportów o awariach ani żadnego zewnętrznego SDK, które zbiera dane.
-- Nie używa identyfikatora reklamowego, twojej lokalizacji, kontaktów, aparatu ani zdjęć.
+- Nie używa identyfikatora reklamowego, twojej lokalizacji, kontaktów ani aparatu i nie może przeglądać twoich zdjęć: jeśli dodasz zdjęcie zwierzęcia, wybierasz je w selektorze zdjęć Androida i tylko to zdjęcie jest kopiowane do pamięci aplikacji na twoim urządzeniu.
 
 ## Uprawnienia
 

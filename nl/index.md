@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · Nederlands · [Polski](../pl/) · [Português](../pt/)
 
-Ingangsdatum: 2 oktober 2026
+Ingangsdatum: 3 oktober 2026
 
 Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een gezondheidslogboek en een gezondheidsrapport als pdf. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
 
@@ -17,6 +17,7 @@ Paweo wordt uitgegeven door Hakan Sağlam, paweo.support@gmail.com ("wij").
 De app slaat alleen op wat je zelf invoert, in een database op je apparaat:
 
 - **Dierprofielen:** naam, diersoort of ras, geboortedatum, gewicht, chipnummer en de database waar het dier geregistreerd is, allergieën en chronische aandoeningen.
+- **Dierfoto's:** een foto van je dier, als je er een toevoegt.
 - **Contacten die je toevoegt:** je eigen telefoonnummer en de naam en het telefoonnummer van je dierenarts of kliniek.
 - **Herinneringen:** het soort, de titel, het schema en wanneer je ze als gedaan hebt gemarkeerd.
 - **Gezondheidslogboek:** gewichten en notities.
@@ -28,7 +29,7 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
 - Ze gebruikt geen advertenties, geen analyse, geen crashrapporten en geen enkele SDK van derden die gegevens verzamelt.
-- Ze gebruikt je advertentie-ID, locatie, contacten, camera en foto's niet.
+- Ze gebruikt je advertentie-ID, locatie, contacten en camera niet, en kan niet door je foto's bladeren: als je een foto van je dier toevoegt, kies je die in de fotokiezer van Android en wordt alleen die foto naar de opslag van de app op je apparaat gekopieerd.
 
 ## Toestemmingen
 

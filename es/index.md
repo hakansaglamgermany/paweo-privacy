@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · Español · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Fecha de entrada en vigor: 2 de octubre de 2026
+Fecha de entrada en vigor: 3 de octubre de 2026
 
 Paweo es una app para llevar el control del cuidado de tus mascotas: perfiles, recordatorios, un registro de salud y un informe de salud en PDF. Esta política explica qué pasa con la información que introduces.
 
@@ -17,6 +17,7 @@ Paweo la publica Hakan Sağlam, paweo.support@gmail.com («nosotros»).
 La app guarda solo lo que escribes en ella, en una base de datos de tu dispositivo:
 
 - **Perfiles de mascotas:** nombre, especie o raza, fecha de nacimiento, peso, número de microchip y el registro en el que está inscrito, alergias y enfermedades crónicas.
+- **Fotos de mascotas:** una foto de tu mascota, si añades una.
 - **Contactos que añades:** tu número de teléfono y el nombre y teléfono de tu veterinario o clínica.
 - **Recordatorios:** su tipo, título, programación y cuándo los marcaste como hechos.
 - **Registro de salud:** pesos y notas.
@@ -28,7 +29,7 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 - No crea ninguna cuenta ni te pide tu nombre o correo electrónico.
 - No se conecta a internet (no tiene permiso de internet).
 - No usa publicidad, análisis, informes de fallos ni ningún SDK de terceros que recopile datos.
-- No usa el ID de publicidad, tu ubicación, tus contactos, tu cámara ni tus fotos.
+- No usa el ID de publicidad, tu ubicación, tus contactos ni tu cámara, y no puede explorar tus fotos: si añades una foto de tu mascota, la eliges en el selector de fotos de Android y solo esa foto se copia en el almacenamiento de la app en tu dispositivo.
 
 ## Permisos
 

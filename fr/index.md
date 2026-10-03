@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · Français · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Date d'entrée en vigueur : 2 octobre 2026
+Date d'entrée en vigueur : 3 octobre 2026
 
 Paweo est une application pour suivre les soins de vos animaux : profils, rappels, journal de santé et bilan de santé en PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
 
@@ -17,6 +17,7 @@ Paweo est publiée par Hakan Sağlam, paweo.support@gmail.com (« nous »).
 L'application enregistre uniquement ce que vous y saisissez, dans une base de données sur votre appareil :
 
 - **Profils des animaux :** nom, espèce ou race, date de naissance, poids, numéro de puce et fichier où il est enregistré, allergies et maladies chroniques.
+- **Photos des animaux :** une photo de votre animal, si vous en ajoutez une.
 - **Contacts que vous ajoutez :** votre numéro de téléphone, ainsi que le nom et le numéro de votre vétérinaire ou de votre clinique.
 - **Rappels :** leur type, leur titre, leur programmation et le moment où vous les avez marqués comme faits.
 - **Journal de santé :** poids et notes.
@@ -28,7 +29,7 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
 - Elle n'utilise ni publicité, ni analyse, ni rapports de plantage, ni aucun SDK tiers qui collecte des données.
-- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, ni votre appareil photo, ni vos photos.
+- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, ni votre appareil photo, et elle ne peut pas parcourir vos photos : si vous ajoutez une photo de votre animal, vous la choisissez dans le sélecteur de photos d'Android, et seule cette photo est copiée dans le stockage de l'application sur votre appareil.
 
 ## Autorisations
 

@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · Türkçe · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Yürürlük tarihi: 2 Ekim 2026
+Yürürlük tarihi: 3 Ekim 2026
 
 Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, bir sağlık günlüğü ve PDF sağlık raporu. Bu politika, girdiğin bilgilere ne olduğunu açıklıyor.
 
@@ -17,6 +17,7 @@ Paweo, Hakan Sağlam tarafından yayımlanıyor, paweo.support@gmail.com ("biz")
 Uygulama yalnızca senin girdiklerini, cihazındaki bir veritabanında saklar:
 
 - **Hayvan profilleri:** ad, tür ya da cins, doğum tarihi, kilo, mikroçip numarası ve kayıtlı olduğu veritabanı, alerjiler ve kronik hastalıklar.
+- **Hayvan fotoğrafları:** eklersen, hayvanının bir fotoğrafı.
 - **Eklediğin iletişim bilgileri:** kendi telefon numaran, veterinerinin ya da kliniğin adı ve telefon numarası.
 - **Hatırlatıcılar:** türü, başlığı, zamanlaması ve ne zaman yapıldı olarak işaretlediğin.
 - **Sağlık günlüğü:** kilo kayıtları ve notlar.
@@ -28,7 +29,7 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
 - Reklam, analiz, çökme raporlama ya da veri toplayan hiçbir üçüncü taraf yazılım (SDK) kullanmaz.
-- Reklam kimliğini, konumunu, rehberini, kameranı ya da fotoğraflarını kullanmaz.
+- Reklam kimliğini, konumunu, rehberini ya da kameranı kullanmaz ve fotoğraflarına göz atamaz: Hayvanının fotoğrafını eklersen onu Android'in fotoğraf seçicisinde sen seçersin ve yalnızca o fotoğraf, cihazında uygulamanın klasörüne kopyalanır.
 
 ## İzinler
 
