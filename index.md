@@ -1,6 +1,6 @@
 # Paweo Privacy Policy
 
-English · [Deutsch](de/)
+English · [Deutsch](de/) · [Türkçe](tr/) · [Français](fr/) · [Español](es/) · [Italiano](it/) · [Nederlands](nl/) · [Polski](pl/) · [Português](pt/)
 
 Effective date: October 2, 2026
 

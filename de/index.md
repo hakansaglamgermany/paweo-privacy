@@ -1,6 +1,6 @@
 # Datenschutzerklärung von Paweo
 
-[English](../) · Deutsch
+[English](../) · Deutsch · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
 Stand: 2. Oktober 2026
 
