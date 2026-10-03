@@ -49,7 +49,7 @@ Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może 
 
 ## Eksport danych
 
-W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane i zdjęcia twoich zwierząt w jednym pliku, w wybranym przez ciebie miejscu, na przykład na Dysku Google lub komputerze, i może je przywrócić z takiego pliku na tym lub innym telefonie. Plik powstaje tylko na twoje żądanie i nigdy go nie otrzymujemy. Nie jest zaszyfrowany, więc przechowuj go w bezpiecznym miejscu. Przywrócenie pliku zastępuje dane w aplikacji.
+W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane i zdjęcia twoich zwierząt w jednym pliku, w wybranym przez ciebie miejscu, na przykład na Dysku Google lub komputerze, i może je przywrócić z takiego pliku na tym lub innym telefonie. Plik powstaje tylko na twoje żądanie i nigdy go nie otrzymujemy. Jeśli zabezpieczysz go hasłem, zostanie zaszyfrowany (AES-256) i da się go otworzyć tylko tym hasłem, którego nigdy nie widzimy i nie możemy odzyskać. Bez hasła plik nie jest zaszyfrowany, więc przechowuj go w bezpiecznym miejscu. Przywrócenie pliku zastępuje dane w aplikacji.
 
 ## Jak długo przechowywane są dane i jak je usunąć
 

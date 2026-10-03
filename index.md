@@ -49,7 +49,7 @@ If backup is turned on in your device settings, Android may include the app's da
 
 ## Exporting your data
 
-In the app, "Back up and restore" saves all your pets' data and photos into one file in a place you choose, for example Google Drive or your computer, and can restore them from such a file on this or another phone. The file is created only when you ask for it, and we never receive it. It is not encrypted, so keep it somewhere safe. Restoring a file replaces the data in the app.
+In the app, "Back up and restore" saves all your pets' data and photos into one file in a place you choose, for example Google Drive or your computer, and can restore them from such a file on this or another phone. The file is created only when you ask for it, and we never receive it. If you protect it with a password, it is encrypted (AES-256) and can only be opened with that password, which we never see and can't recover. Without a password the file is not encrypted, so keep it somewhere safe. Restoring a file replaces the data in the app.
 
 ## How long data is kept, and how to delete it
 

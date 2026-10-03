@@ -49,7 +49,7 @@ Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android di
 
 ## Deine Daten exportieren
 
-In der App speichert „Sichern und wiederherstellen“ alle Daten und Fotos deiner Tiere in einer Datei an einem Ort deiner Wahl, zum Beispiel in Google Drive oder auf deinem Computer, und kann sie aus einer solchen Datei auf diesem oder einem anderen Smartphone wiederherstellen. Die Datei entsteht nur, wenn du das möchtest, und wir erhalten sie nie. Sie ist nicht verschlüsselt, bewahre sie also sicher auf. Beim Wiederherstellen werden die Daten in der App ersetzt.
+In der App speichert „Sichern und wiederherstellen“ alle Daten und Fotos deiner Tiere in einer Datei an einem Ort deiner Wahl, zum Beispiel in Google Drive oder auf deinem Computer, und kann sie aus einer solchen Datei auf diesem oder einem anderen Smartphone wiederherstellen. Die Datei entsteht nur, wenn du das möchtest, und wir erhalten sie nie. Wenn du sie mit einem Passwort schützt, wird sie verschlüsselt (AES-256) und lässt sich nur mit diesem Passwort öffnen, das wir nie sehen und nicht wiederherstellen können. Ohne Passwort ist die Datei nicht verschlüsselt, bewahre sie also sicher auf. Beim Wiederherstellen werden die Daten in der App ersetzt.
 
 ## Wie lange Daten gespeichert werden und wie du sie löschst
 

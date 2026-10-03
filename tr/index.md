@@ -49,7 +49,7 @@ Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google he
 
 ## Verilerini dışa aktarma
 
-Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini ve fotoğraflarını senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
+Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini ve fotoğraflarını senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Parolayla korursan dosya şifrelenir (AES-256) ve yalnızca o parolayla açılabilir; parolayı biz hiçbir zaman görmeyiz ve kurtaramayız. Parola koymazsan dosya şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
 
 ## Veriler ne kadar saklanır ve nasıl silinir
 

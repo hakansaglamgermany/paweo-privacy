@@ -49,7 +49,7 @@ Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens
 
 ## Je gegevens exporteren
 
-In de app slaat "Back-up en herstellen" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Het is niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
+In de app slaat "Back-up en herstellen" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
 
 ## Hoe lang gegevens bewaard blijven en hoe je ze verwijdert
 

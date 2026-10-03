@@ -49,7 +49,7 @@ Se a cópia de segurança estiver ativada nas definições do dispositivo, o And
 
 ## Exportar os seus dados
 
-Na app, "Cópia de segurança e restauro" guarda todos os dados e fotos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app.
+Na app, "Cópia de segurança e restauro" guarda todos os dados e fotos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Se o proteger com uma palavra-passe, é encriptado (AES-256) e só pode ser aberto com essa palavra-passe, que nunca vemos nem conseguimos recuperar. Sem palavra-passe, o ficheiro não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app.
 
 ## Durante quanto tempo os dados são guardados e como os apagar
 

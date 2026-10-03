@@ -49,7 +49,7 @@ Si la sauvegarde est activée dans les paramètres de votre appareil, Android pe
 
 ## Exporter vos données
 
-Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données et photos de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Il n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
+Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données et photos de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Si vous le protégez par un mot de passe, il est chiffré (AES-256) et ne peut être ouvert qu'avec ce mot de passe, que nous ne voyons jamais et ne pouvons pas récupérer. Sans mot de passe, le fichier n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
 
 ## Durée de conservation et suppression
 

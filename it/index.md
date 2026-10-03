@@ -49,7 +49,7 @@ Se il backup è attivo nelle impostazioni del dispositivo, Android può includer
 
 ## Esportare i tuoi dati
 
-Nell'app, "Backup e ripristino" salva tutti i dati e le foto dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app.
+Nell'app, "Backup e ripristino" salva tutti i dati e le foto dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Se lo proteggi con una password, viene crittografato (AES-256) e si può aprire solo con quella password, che non vediamo mai e non possiamo recuperare. Senza password il file non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app.
 
 ## Per quanto tempo restano i dati e come eliminarli
 

@@ -49,7 +49,7 @@ Si la copia de seguridad está activada en los ajustes de tu dispositivo, Androi
 
 ## Exportar tus datos
 
-En la app, «Copia de seguridad y restauración» guarda todos los datos y fotos de tus mascotas en un solo archivo, en el lugar que elijas, por ejemplo Google Drive o tu ordenador, y puede restaurarlos desde ese archivo en este u otro teléfono. El archivo solo se crea cuando tú lo pides y nosotros nunca lo recibimos. No está cifrado, así que guárdalo en un lugar seguro. Restaurar un archivo sustituye los datos de la app.
+En la app, «Copia de seguridad y restauración» guarda todos los datos y fotos de tus mascotas en un solo archivo, en el lugar que elijas, por ejemplo Google Drive o tu ordenador, y puede restaurarlos desde ese archivo en este u otro teléfono. El archivo solo se crea cuando tú lo pides y nosotros nunca lo recibimos. Si lo proteges con una contraseña, se cifra (AES-256) y solo se puede abrir con esa contraseña, que nosotros nunca vemos ni podemos recuperar. Sin contraseña, el archivo no está cifrado, así que guárdalo en un lugar seguro. Restaurar un archivo sustituye los datos de la app.
 
 ## Cuánto tiempo se guardan los datos y cómo borrarlos
 
