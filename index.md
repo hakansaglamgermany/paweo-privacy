@@ -29,7 +29,7 @@ This information never leaves your device through Paweo, and we never receive it
 - It does not create an account or ask for your name or email.
 - It does not connect to the internet (it has no internet permission).
 - It does not use advertising, analytics, crash reporting or any third-party SDK that collects data.
-- It does not use the advertising ID, your location, your contacts or your camera, and it can't browse your photos: if you add a photo of your pet, you pick it in Android's photo picker, and only that photo is copied into the app's storage on your device.
+- It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos: if you add a photo of your pet, you take it with your camera app or pick it in Android's photo picker, and only that photo is copied into the app's storage on your device.
 
 ## Permissions
 

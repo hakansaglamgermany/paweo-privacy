@@ -29,7 +29,7 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 - No crea ninguna cuenta ni te pide tu nombre o correo electrónico.
 - No se conecta a internet (no tiene permiso de internet).
 - No usa publicidad, análisis, informes de fallos ni ningún SDK de terceros que recopile datos.
-- No usa el ID de publicidad, tu ubicación, tus contactos ni tu cámara, y no puede explorar tus fotos: si añades una foto de tu mascota, la eliges en el selector de fotos de Android y solo esa foto se copia en el almacenamiento de la app en tu dispositivo.
+- No usa el ID de publicidad, tu ubicación ni tus contactos, y no puede usar tu cámara ni explorar tus fotos: si añades una foto de tu mascota, la haces con tu app de cámara o la eliges en el selector de fotos de Android, y solo esa foto se copia en el almacenamiento de la app en tu dispositivo.
 
 ## Permisos
 

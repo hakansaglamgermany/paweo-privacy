@@ -29,7 +29,7 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
 - Ze gebruikt geen advertenties, geen analyse, geen crashrapporten en geen enkele SDK van derden die gegevens verzamelt.
-- Ze gebruikt je advertentie-ID, locatie, contacten en camera niet, en kan niet door je foto's bladeren: als je een foto van je dier toevoegt, kies je die in de fotokiezer van Android en wordt alleen die foto naar de opslag van de app op je apparaat gekopieerd.
+- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's bladeren: als je een foto van je dier toevoegt, maak je die met je camera-app of kies je die in de fotokiezer van Android, en wordt alleen die foto naar de opslag van de app op je apparaat gekopieerd.
 
 ## Toestemmingen
 

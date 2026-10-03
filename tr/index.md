@@ -29,7 +29,7 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
 - Reklam, analiz, çökme raporlama ya da veri toplayan hiçbir üçüncü taraf yazılım (SDK) kullanmaz.
-- Reklam kimliğini, konumunu, rehberini ya da kameranı kullanmaz ve fotoğraflarına göz atamaz: Hayvanının fotoğrafını eklersen onu Android'in fotoğraf seçicisinde sen seçersin ve yalnızca o fotoğraf, cihazında uygulamanın klasörüne kopyalanır.
+- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez ve fotoğraflarına göz atamaz: Hayvanının fotoğrafını eklersen onu kamera uygulamanla çekersin ya da Android'in fotoğraf seçicisinde sen seçersin ve yalnızca o fotoğraf, cihazında uygulamanın klasörüne kopyalanır.
 
 ## İzinler
 

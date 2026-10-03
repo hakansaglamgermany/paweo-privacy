@@ -29,7 +29,7 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (nie ma uprawnienia do internetu).
 - Nie używa reklam, analityki, raportów o awariach ani żadnego zewnętrznego SDK, które zbiera dane.
-- Nie używa identyfikatora reklamowego, twojej lokalizacji, kontaktów ani aparatu i nie może przeglądać twoich zdjęć: jeśli dodasz zdjęcie zwierzęcia, wybierasz je w selektorze zdjęć Androida i tylko to zdjęcie jest kopiowane do pamięci aplikacji na twoim urządzeniu.
+- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć: jeśli dodasz zdjęcie zwierzęcia, robisz je swoją aplikacją aparatu albo wybierasz w selektorze zdjęć Androida i tylko to zdjęcie jest kopiowane do pamięci aplikacji na twoim urządzeniu.
 
 ## Uprawnienia
 
