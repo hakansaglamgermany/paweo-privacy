@@ -47,6 +47,10 @@ Lorsque vous touchez « Partager le bilan de santé », l'application crée un
 
 Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil.
 
+## Exporter vos données
+
+Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données et photos de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Il n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
+
 ## Durée de conservation et suppression
 
 Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels et son journal de santé) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.

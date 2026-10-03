@@ -47,6 +47,10 @@ Wenn du auf „Gesundheitsbericht teilen“ tippst, erstellt die App auf deinem 
 
 Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten.
 
+## Deine Daten exportieren
+
+In der App speichert „Sichern und wiederherstellen“ alle Daten und Fotos deiner Tiere in einer Datei an einem Ort deiner Wahl, zum Beispiel in Google Drive oder auf deinem Computer, und kann sie aus einer solchen Datei auf diesem oder einem anderen Smartphone wiederherstellen. Die Datei entsteht nur, wenn du das möchtest, und wir erhalten sie nie. Sie ist nicht verschlüsselt, bewahre sie also sicher auf. Beim Wiederherstellen werden die Daten in der App ersetzt.
+
 ## Wie lange Daten gespeichert werden und wie du sie löschst
 
 Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App ein Tier löschen (zusammen mit seinen Erinnerungen und seinem Gesundheitstagebuch), die Daten der App in den Android-Einstellungen löschen oder die App deinstallieren. Kopien in einer Gerätesicherung richten sich nach deinen Sicherungseinstellungen.

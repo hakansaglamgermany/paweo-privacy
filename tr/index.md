@@ -47,6 +47,10 @@ Bir telefon numarasının yanındaki arama butonu, numara yazılı olarak telefo
 
 Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin.
 
+## Verilerini dışa aktarma
+
+Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini ve fotoğraflarını senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
+
 ## Veriler ne kadar saklanır ve nasıl silinir
 
 Verilerin sen silene kadar cihazında kalır. Uygulamada bir hayvanı (hatırlatıcıları ve sağlık günlüğüyle birlikte) silebilir, Android ayarlarından uygulamanın verilerini temizleyebilir ya da uygulamayı kaldırabilirsin. Cihaz yedeğindeki kopyalar yedekleme ayarlarına göre davranır.

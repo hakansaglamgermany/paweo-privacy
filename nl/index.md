@@ -47,6 +47,10 @@ Als je op "Gezondheidsrapport delen" tikt, maakt de app een pdf op je apparaat e
 
 Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat.
 
+## Je gegevens exporteren
+
+In de app slaat "Back-up en herstellen" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Het is niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
+
 ## Hoe lang gegevens bewaard blijven en hoe je ze verwijdert
 
 Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen en het gezondheidslogboek), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen.

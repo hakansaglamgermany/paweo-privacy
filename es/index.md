@@ -47,6 +47,10 @@ Cuando tocas «Compartir informe de salud», la app crea un PDF en tu dispositiv
 
 Si la copia de seguridad está activada en los ajustes de tu dispositivo, Android puede incluir los datos de la app en la copia de seguridad del dispositivo en tu cuenta de Google, para poder restaurarlos en un teléfono nuevo. Paweo solo lo permite cuando la copia está cifrada de extremo a extremo con el bloqueo de pantalla de tu dispositivo (PIN, patrón o contraseña); sin bloqueo de pantalla, los datos de la app no se guardan en la nube. Cifrada así, la copia no la podemos leer ni nosotros, ni Google, ni nadie más. También puedes pasar los datos directamente a un teléfono nuevo al configurarlo. Puedes desactivar la copia de seguridad en los ajustes de tu dispositivo.
 
+## Exportar tus datos
+
+En la app, «Copia de seguridad y restauración» guarda todos los datos y fotos de tus mascotas en un solo archivo, en el lugar que elijas, por ejemplo Google Drive o tu ordenador, y puede restaurarlos desde ese archivo en este u otro teléfono. El archivo solo se crea cuando tú lo pides y nosotros nunca lo recibimos. No está cifrado, así que guárdalo en un lugar seguro. Restaurar un archivo sustituye los datos de la app.
+
 ## Cuánto tiempo se guardan los datos y cómo borrarlos
 
 Tus datos se quedan en tu dispositivo hasta que los borres. Puedes eliminar una mascota (junto con sus recordatorios y su registro de salud) en la app, borrar los datos de la app en los ajustes de Android o desinstalar la app. Las copias en una copia de seguridad del dispositivo siguen tus ajustes de copia de seguridad.

@@ -47,6 +47,10 @@ Gdy dotkniesz „Udostępnij raport zdrowia”, aplikacja tworzy plik PDF na two
 
 Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie możemy odczytać ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia.
 
+## Eksport danych
+
+W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane i zdjęcia twoich zwierząt w jednym pliku, w wybranym przez ciebie miejscu, na przykład na Dysku Google lub komputerze, i może je przywrócić z takiego pliku na tym lub innym telefonie. Plik powstaje tylko na twoje żądanie i nigdy go nie otrzymujemy. Nie jest zaszyfrowany, więc przechowuj go w bezpiecznym miejscu. Przywrócenie pliku zastępuje dane w aplikacji.
+
 ## Jak długo przechowywane są dane i jak je usunąć
 
 Twoje dane zostają na urządzeniu, dopóki ich nie usuniesz. Możesz usunąć zwierzę (razem z jego przypomnieniami i dziennikiem zdrowia) w aplikacji, wyczyścić dane aplikacji w ustawieniach Androida albo odinstalować aplikację. Kopie w kopii zapasowej urządzenia podlegają twoim ustawieniom kopii zapasowej.

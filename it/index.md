@@ -47,6 +47,10 @@ Quando tocchi "Condividi il resoconto sanitario", l'app crea un PDF sul tuo disp
 
 Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo.
 
+## Esportare i tuoi dati
+
+Nell'app, "Backup e ripristino" salva tutti i dati e le foto dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app.
+
 ## Per quanto tempo restano i dati e come eliminarli
 
 I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria e al suo diario della salute) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup.

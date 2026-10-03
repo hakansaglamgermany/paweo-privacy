@@ -47,6 +47,10 @@ When you tap "Share health report", the app creates a PDF on your device and ope
 
 If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings.
 
+## Exporting your data
+
+In the app, "Back up and restore" saves all your pets' data and photos into one file in a place you choose, for example Google Drive or your computer, and can restore them from such a file on this or another phone. The file is created only when you ask for it, and we never receive it. It is not encrypted, so keep it somewhere safe. Restoring a file replaces the data in the app.
+
 ## How long data is kept, and how to delete it
 
 Your data stays on your device until you delete it. You can delete a pet (together with its reminders and health log) in the app, clear the app's data in Android settings, or uninstall the app. Copies in a device backup follow your backup settings.

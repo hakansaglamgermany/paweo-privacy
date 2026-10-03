@@ -47,6 +47,10 @@ Quando toca em "Partilhar relatório de saúde", a app cria um PDF no seu dispos
 
 Se a cópia de segurança estiver ativada nas definições do dispositivo, o Android pode incluir os dados da app na cópia de segurança do dispositivo na sua conta Google, para que possam ser restaurados num telefone novo. O Paweo só o permite quando a cópia está encriptada de ponta a ponta com o bloqueio de ecrã do seu dispositivo (PIN, padrão ou palavra-passe); sem bloqueio de ecrã, os dados da app não são copiados para a nuvem. Encriptada desta forma, a cópia não pode ser lida por nós, pela Google nem por mais ninguém. Também pode transferir os dados diretamente para um telefone novo ao configurá-lo. Pode desativar a cópia de segurança nas definições do dispositivo.
 
+## Exportar os seus dados
+
+Na app, "Cópia de segurança e restauro" guarda todos os dados e fotos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app.
+
 ## Durante quanto tempo os dados são guardados e como os apagar
 
 Os seus dados ficam no dispositivo até os apagar. Pode eliminar um animal (com os seus lembretes e o seu registo de saúde) na app, limpar os dados da app nas definições do Android ou desinstalar a app. As cópias numa cópia de segurança do dispositivo seguem as suas definições de cópia de segurança.
