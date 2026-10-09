@@ -8,6 +8,8 @@ Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profill
 
 **Kısacası: Girdiğin her şey cihazında kalır. Paweo'nun hesabı, sunucusu, reklamı, analizi ve takibi yok. Uygulamanın internete erişme izni bile yok.**
 
+Tek istisna isteğe bağlı: "Belge tara"yı kullanırsan Google'ın belge tarayıcısı, kullanımıyla ilgili teknik bilgileri Google'a gönderir (aşağıda "Belge tarayıcı"ya bak).
+
 ## Sorumlu kişi
 
 Paweo, Hakan Sağlam tarafından yayımlanıyor, paweo.support@gmail.com ("biz").
@@ -30,8 +32,8 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
-- Reklam, analiz, çökme raporlama ya da veri toplayan hiçbir üçüncü taraf yazılım (SDK) kullanmaz.
-- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır.
+- Reklam, analiz ya da çökme raporlama kullanmaz. Tek üçüncü taraf bileşen Google'ın belge tarayıcısıdır ve yalnızca "Belge tara"yı seçtiğinde kullanılır (aşağıya bak).
+- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla ya da Google'ın belge tarayıcısıyla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır.
 
 ## İzinler
 
@@ -40,6 +42,10 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - **Açılışta çalışma:** Cihazın yeniden başladıktan sonra uygulama hatırlatıcılarını yeniden kurar, çünkü Android yeniden başlatmada kurulu alarmları siler.
 
 Bir telefon numarasının yanındaki arama butonu, numara yazılı olarak telefon uygulamanı açar. Paweo kendisi arama yapmaz.
+
+## Belge tarayıcı
+
+"Belge tara", telefonundaki Google Play hizmetlerinin bir parçası olan Google belge tarayıcısını açar. Tarayıcı sayfanın kenarlarını bulur ve görüntüyü cihazında temizler; taranan sayfalar taramayı bitirdiğinde Paweo'ya döner ve Google'a gönderilmez. Google Play hizmetleri tarayıcıyı ilk kullanımda indirebilir. Sen kullanırken tarayıcı, kullanımıyla ilgili teknik bilgileri Google'a gönderir: cihaz modeli ve Android sürümü, Paweo'nun paket adı ve sürümü, performans ölçümleri, hata kodları ile cihaz ve kurulum tanımlayıcıları; amaç hata ayıklama ve kullanım istatistikleri. Google bu bilgileri aktarım sırasında şifreler ve üçüncü taraflarla paylaşmaz (Google'ın ML Kit veri açıklaması: developers.google.com/ml-kit/android-data-disclosure). Paweo'nun kendisi bunların hiçbirini almaz. Bunu istemezsen sayfaları "Fotoğraf çek", "Galeriden seç" ya da "Dosya seç" ile ekle.
 
 ## Sağlık raporunu, bakıcı özetini ya da bir belgeyi paylaşmak
 
@@ -53,7 +59,7 @@ Ana ekranına bir Paweo widget'ı eklersen, widget orada hayvanlarının adları
 
 ## Yedekler
 
-Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin. Belgeler bu bulut yedeğine girmez, çünkü Android orada uygulama başına yalnızca sınırlı miktarda veriye izin veriyor; verileri doğrudan yeni bir telefona aktardığında ve aşağıda anlatılan yedek dosyasında yer alırlar.
+Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin. Belgeler de dahildir. Android'in bulut yedeği uygulama başına en fazla 25 MB tutar ve Paweo'nun verileri daha büyükse yedeğini tümden atlar; bu yüzden çok sayıda büyük belge varsa bir yedek dosyası da sakla (aşağıya bak).
 
 ## Verilerini dışa aktarma
 

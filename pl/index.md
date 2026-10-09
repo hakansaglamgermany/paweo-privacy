@@ -8,6 +8,8 @@ Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypo
 
 **W skrócie: wszystko, co wprowadzasz, zostaje na twoim urządzeniu. Paweo nie ma konta, serwerów, reklam, analityki ani śledzenia. Aplikacja nie ma nawet uprawnienia do korzystania z internetu.**
 
+Jedyny wyjątek jest dobrowolny: jeśli użyjesz „Zeskanuj dokument”, skaner dokumentów Google wysyła do Google informacje techniczne o swoim użyciu (patrz „Skaner dokumentów” poniżej).
+
 ## Administrator
 
 Paweo publikuje Hakan Sağlam, paweo.support@gmail.com („my”).
@@ -30,8 +32,8 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (nie ma uprawnienia do internetu).
-- Nie używa reklam, analityki, raportów o awariach ani żadnego zewnętrznego SDK, które zbiera dane.
-- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je swoją aplikacją aparatu albo wybierasz w selektorze zdjęć lub plików Androida i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu.
+- Nie używa reklam, analityki ani raportów o awariach. Jedynym zewnętrznym komponentem jest skaner dokumentów Google, używany tylko wtedy, gdy wybierzesz „Zeskanuj dokument” (patrz poniżej).
+- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je swoją aplikacją aparatu lub skanerem dokumentów Google albo wybierasz w selektorze zdjęć lub plików Androida i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu.
 
 ## Uprawnienia
 
@@ -40,6 +42,10 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 - **Uruchamianie przy starcie:** po ponownym uruchomieniu urządzenia aplikacja ustawia twoje przypomnienia od nowa, ponieważ Android usuwa zaplanowane alarmy przy ponownym uruchomieniu.
 
 Przycisk połączenia obok numeru telefonu otwiera aplikację Telefon z wpisanym numerem. Paweo sama nie wykonuje połączeń.
+
+## Skaner dokumentów
+
+„Zeskanuj dokument” otwiera skaner dokumentów Google, który jest częścią Usług Google Play na twoim telefonie. Wykrywa krawędzie strony i oczyszcza obraz na twoim urządzeniu; zeskanowane strony wracają do Paweo po zakończeniu skanowania i nie są wysyłane do Google. Usługi Google Play mogą pobrać skaner przy pierwszym użyciu. Podczas używania skaner wysyła do Google informacje techniczne o swoim użyciu: model urządzenia i wersję Androida, nazwę pakietu i wersję Paweo, dane o wydajności, kody błędów oraz identyfikatory urządzenia i instalacji, w celach diagnostycznych i do statystyk użycia. Google szyfruje te informacje podczas przesyłania i nie udostępnia ich podmiotom trzecim (informacje Google o danych ML Kit: developers.google.com/ml-kit/android-data-disclosure). Sam Paweo nie otrzymuje żadnej z nich. Jeśli wolisz tego uniknąć, dodawaj strony przez „Zrób zdjęcie”, „Wybierz z galerii” lub „Wybierz plik”.
 
 ## Udostępnianie raportu zdrowia, karty dla opiekuna lub dokumentu
 
@@ -53,7 +59,7 @@ Jeśli dodasz widżet Paweo do ekranu głównego, pokazuje on tam imiona twoich 
 
 ## Kopie zapasowe
 
-Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie może odczytać nikt: ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia. Dokumenty nie trafiają do tej kopii w chmurze, ponieważ Android pozwala tam tylko na ograniczoną ilość danych na aplikację; są uwzględniane przy bezpośrednim przenoszeniu danych na nowy telefon oraz w pliku kopii zapasowej opisanym poniżej.
+Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie może odczytać nikt: ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia. Dokumenty również są uwzględniane. Kopia Androida w chmurze mieści najwyżej 25 MB na aplikację i całkowicie pomija kopię Paweo, jeśli dane są większe, dlatego przy wielu dużych dokumentach przechowuj też plik kopii zapasowej (patrz poniżej).
 
 ## Eksport danych
 

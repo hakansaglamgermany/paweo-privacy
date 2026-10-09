@@ -8,6 +8,8 @@ Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, her
 
 **Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
 
+De enige uitzondering is vrijwillig: als je „Document scannen” gebruikt, stuurt de documentscanner van Google technische gegevens over het gebruik naar Google (zie „Documentscanner” hieronder).
+
 ## Verantwoordelijke
 
 Paweo wordt uitgegeven door Hakan Sağlam, paweo.support@gmail.com ("wij").
@@ -30,8 +32,8 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
-- Ze gebruikt geen advertenties, geen analyse, geen crashrapporten en geen enkele SDK van derden die gegevens verzamelt.
-- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's en bestanden bladeren: als je een foto van je dier of een document toevoegt, maak je die met je camera-app of kies je die in de foto- of bestandskiezer van Android, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd.
+- Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. Het enige onderdeel van derden is de documentscanner van Google, die alleen wordt gebruikt als je „Document scannen” kiest (zie hieronder).
+- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's en bestanden bladeren: als je een foto van je dier of een document toevoegt, maak je die met je camera-app of de documentscanner van Google, of kies je die in de foto- of bestandskiezer van Android, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd.
 
 ## Toestemmingen
 
@@ -40,6 +42,10 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 - **Uitvoeren bij opstarten:** na een herstart van je apparaat zet de app je herinneringen opnieuw, omdat Android geplande wekkers bij een herstart wist.
 
 De belknop naast een telefoonnummer opent je Telefoon-app met het nummer al ingevuld. Paweo belt zelf niet.
+
+## Documentscanner
+
+„Document scannen” opent de documentscanner van Google, die deel uitmaakt van Google Play-services op je telefoon. Hij vindt de randen van de pagina en maakt het beeld op je apparaat schoon; de gescande pagina's komen terug in Paweo als je de scan afrondt en worden niet naar Google gestuurd. Google Play-services kan de scanner downloaden als je hem voor het eerst gebruikt. Terwijl je hem gebruikt, stuurt hij technische gegevens over het gebruik naar Google: apparaatmodel en Android-versie, pakketnaam en versie van Paweo, prestatiecijfers, foutcodes en apparaat- en installatie-ID's, voor diagnose en gebruiksstatistieken. Google versleutelt deze gegevens tijdens het verzenden en deelt ze niet met derden (gegevensverklaring van Google voor ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo zelf ontvangt daar niets van. Wil je dat liever niet, voeg pagina's dan toe met „Foto maken”, „Kiezen uit galerij” of „Bestand kiezen”.
 
 ## Een gezondheidsrapport, oppasblad of document delen
 
@@ -53,7 +59,7 @@ Als je een Paweo-widget aan je startscherm toevoegt, toont die daar de namen van
 
 ## Back-ups
 
-Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat. Documenten zitten niet in deze cloudback-up, omdat Android daar maar een beperkte hoeveelheid gegevens per app toestaat; ze gaan wel mee als je de gegevens rechtstreeks naar een nieuwe telefoon overzet en in het back-upbestand dat hieronder wordt beschreven.
+Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat. Ook documenten gaan mee. De cloudback-up van Android bewaart maximaal 25 MB per app en slaat de back-up van Paweo helemaal over als de gegevens groter zijn; bewaar bij veel grote documenten dus ook een back-upbestand (zie hieronder).
 
 ## Je gegevens exporteren
 

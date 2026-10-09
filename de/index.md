@@ -8,6 +8,8 @@ Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profi
 
 **Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
 
+Die einzige Ausnahme ist freiwillig: Wenn du „Dokument scannen“ nutzt, sendet der Dokumentenscanner von Google technische Angaben zu seiner Nutzung an Google (siehe „Dokumentenscanner“ unten).
+
 ## Verantwortlicher
 
 Paweo wird von Hakan Sağlam veröffentlicht, paweo.support@gmail.com („wir“).
@@ -30,8 +32,8 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 
 - Sie legt kein Konto an und fragt nicht nach deinem Namen oder deiner E-Mail-Adresse.
 - Sie verbindet sich nicht mit dem Internet (sie hat keine Internetberechtigung).
-- Sie nutzt keine Werbung, keine Analyse, keine Absturzberichte und kein Drittanbieter-SDK, das Daten sammelt.
-- Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und kann weder deine Kamera nutzen noch deine Fotos und Dateien durchsuchen: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit deiner Kamera-App auf oder wählst es in der Foto- oder Dateiauswahl von Android aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert.
+- Sie nutzt keine Werbung, keine Analyse und keine Absturzberichte. Die einzige Drittanbieter-Komponente ist der Dokumentenscanner von Google, der nur genutzt wird, wenn du „Dokument scannen“ wählst (siehe unten).
+- Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und kann weder deine Kamera nutzen noch deine Fotos und Dateien durchsuchen: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit deiner Kamera-App oder dem Dokumentenscanner von Google auf oder wählst es in der Foto- oder Dateiauswahl von Android aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert.
 
 ## Berechtigungen
 
@@ -40,6 +42,10 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 - **Beim Start ausführen:** Nach einem Neustart des Geräts stellt die App deine Erinnerungen neu ein, weil Android geplante Wecker beim Neustart löscht.
 
 Die Anruftaste neben einer Telefonnummer öffnet deine Telefon-App mit der eingetragenen Nummer. Paweo führt selbst keine Anrufe aus.
+
+## Dokumentenscanner
+
+„Dokument scannen“ öffnet den Dokumentenscanner von Google, der zu den Google Play-Diensten auf deinem Smartphone gehört. Er erkennt die Seitenränder und bereinigt das Bild auf deinem Gerät; die gescannten Seiten kommen zu Paweo zurück, wenn du den Scan abschließt, und werden nicht an Google gesendet. Die Google Play-Dienste laden den Scanner eventuell bei der ersten Nutzung herunter. Während du ihn nutzt, sendet er technische Angaben zu seiner Nutzung an Google: Gerätemodell und Android-Version, Paketname und Version von Paweo, Leistungswerte, Fehlercodes sowie Geräte- und Installationskennungen, zur Fehleranalyse und für Nutzungsstatistiken. Google verschlüsselt diese Angaben bei der Übertragung und gibt sie nicht an Dritte weiter (Datenoffenlegung von Google zu ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo selbst erhält davon nichts. Wenn du das vermeiden möchtest, füge Seiten stattdessen mit „Foto aufnehmen“, „Aus der Galerie wählen“ oder „Datei auswählen“ hinzu.
 
 ## Einen Gesundheitsbericht, ein Betreuungsblatt oder ein Dokument teilen
 
@@ -53,7 +59,7 @@ Wenn du ein Paweo-Widget auf deinem Startbildschirm hinzufügst, zeigt es dort d
 
 ## Sicherungen
 
-Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten. Dokumente sind von dieser Cloud-Sicherung ausgenommen, weil Android dort nur eine begrenzte Datenmenge pro App erlaubt; sie sind bei der direkten Übertragung auf ein neues Smartphone und in der unten beschriebenen Sicherungsdatei enthalten.
+Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten. Dokumente sind ebenfalls enthalten. Die Cloud-Sicherung von Android speichert höchstens 25 MB pro App und lässt die Sicherung von Paweo ganz aus, wenn die Daten größer sind; bewahre bei vielen großen Dokumenten daher zusätzlich eine Sicherungsdatei auf (siehe unten).
 
 ## Deine Daten exportieren
 

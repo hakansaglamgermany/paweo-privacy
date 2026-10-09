@@ -8,6 +8,8 @@ Paweo est une application pour suivre les soins de vos animaux : profils, rappe
 
 **En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application n'a même pas l'autorisation d'accéder à Internet.**
 
+La seule exception est facultative : si vous utilisez « Scanner un document », le scanner de documents de Google envoie à Google des informations techniques sur son utilisation (voir « Scanner de documents » ci-dessous).
+
 ## Responsable
 
 Paweo est publiée par Hakan Sağlam, paweo.support@gmail.com (« nous »).
@@ -30,8 +32,8 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
-- Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage, ni aucun SDK tiers qui collecte des données.
-- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil.
+- Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage. Le seul composant tiers est le scanner de documents de Google, utilisé uniquement lorsque vous choisissez « Scanner un document » (voir ci-dessous).
+- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le scanner de documents de Google, ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil.
 
 ## Autorisations
 
@@ -40,6 +42,10 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 - **Lancement au démarrage :** après un redémarrage de l'appareil, l'application reprogramme vos rappels, car Android efface les alarmes programmées au redémarrage.
 
 Le bouton d'appel à côté d'un numéro ouvre votre application Téléphone avec le numéro déjà saisi. Paweo ne passe aucun appel elle-même.
+
+## Scanner de documents
+
+« Scanner un document » ouvre le scanner de documents de Google, qui fait partie des services Google Play de votre téléphone. Il détecte les bords de la page et nettoie l'image sur votre appareil ; les pages numérisées reviennent dans Paweo à la fin de la numérisation et ne sont pas envoyées à Google. Les services Google Play peuvent télécharger le scanner lors de sa première utilisation. Pendant que vous l'utilisez, il envoie à Google des informations techniques sur son utilisation : modèle de l'appareil et version d'Android, nom de package et version de Paweo, mesures de performances, codes d'erreur ainsi que des identifiants d'appareil et d'installation, à des fins de diagnostic et de statistiques d'utilisation. Google chiffre ces informations pendant leur transfert et ne les partage pas avec des tiers (déclaration de Google sur les données de ML Kit : developers.google.com/ml-kit/android-data-disclosure). Paweo lui-même n'en reçoit aucune. Si vous préférez l'éviter, ajoutez plutôt des pages avec « Prendre une photo », « Choisir dans la galerie » ou « Choisir un fichier ».
 
 ## Partager un bilan de santé, une fiche pour le pet-sitter ou un document
 
@@ -53,7 +59,7 @@ Si vous ajoutez un widget Paweo à votre écran d'accueil, il y affiche le nom d
 
 ## Sauvegardes
 
-Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil. Les documents sont exclus de cette sauvegarde dans le cloud, car Android n'y autorise qu'un volume limité de données par application ; ils sont inclus lors d'un transfert direct vers un nouveau téléphone et dans le fichier de sauvegarde décrit ci-dessous.
+Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil. Les documents sont également inclus. La sauvegarde cloud d'Android conserve au plus 25 Mo par application et ignore entièrement la sauvegarde de Paweo si ses données dépassent cette taille ; si vous avez beaucoup de documents volumineux, conservez donc aussi un fichier de sauvegarde (voir ci-dessous).
 
 ## Exporter vos données
 

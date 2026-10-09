@@ -8,6 +8,8 @@ Paweo is an app for keeping track of your pets' care: profiles, reminders, a dai
 
 **In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
 
+The only exception is optional: if you use "Scan document", Google's document scanner sends Google technical information about its use (see "Document scanner" below).
+
 ## Who is responsible
 
 Paweo is published by Hakan Sağlam, paweo.support@gmail.com ("we").
@@ -30,8 +32,8 @@ This information never leaves your device through Paweo, and we never receive it
 
 - It does not create an account or ask for your name or email.
 - It does not connect to the internet (it has no internet permission).
-- It does not use advertising, analytics, crash reporting or any third-party SDK that collects data.
-- It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos and files: if you add a photo of your pet or a document, you take it with your camera app or pick it in Android's photo picker or file picker, and only what you pick is copied into the app's storage on your device.
+- It does not use advertising, analytics or crash reporting. The only third-party component is Google's document scanner, used only when you choose "Scan document" (see below).
+- It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos and files: if you add a photo of your pet or a document, you take it with your camera app or Google's document scanner, or pick it in Android's photo picker or file picker, and only what you pick is copied into the app's storage on your device.
 
 ## Permissions
 
@@ -40,6 +42,10 @@ This information never leaves your device through Paweo, and we never receive it
 - **Run at startup:** after your device restarts, the app sets your reminders again, because Android clears scheduled alarms on restart.
 
 The call button next to a phone number opens your phone app with the number filled in. Paweo does not place calls itself.
+
+## Document scanner
+
+"Scan document" opens Google's document scanner, which is part of Google Play services on your phone. It finds the page edges and cleans up the image on your device; the scanned pages come back to Paweo when you finish the scan, and they are not sent to Google. Google Play services may download the scanner the first time you use it. While you use it, it sends Google technical information about its use: device model and Android version, Paweo's package name and version, performance figures, error codes, and device and installation identifiers, for diagnostics and usage statistics. Google encrypts this information in transit and does not share it with third parties (Google's ML Kit data disclosure: developers.google.com/ml-kit/android-data-disclosure). Paweo itself receives none of it. If you'd rather avoid this, add pages with "Take photo", "Choose from gallery" or "Choose a file" instead.
 
 ## Sharing a health report, sitter sheet or document
 
@@ -53,7 +59,7 @@ If you add a Paweo widget to your home screen, it shows your pets' names and tod
 
 ## Backups
 
-If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings. Documents are left out of the cloud backup, because Android allows only a limited amount of data per app there; they are included when you move data directly to a new phone and in the backup file described below.
+If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings. Documents are included too. Android's cloud backup holds at most 25 MB per app and skips Paweo's backup entirely if its data is larger, so with many large documents, also keep a backup file (see below).
 
 ## Exporting your data
 

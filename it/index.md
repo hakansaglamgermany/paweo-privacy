@@ -8,6 +8,8 @@ Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un di
 
 **In breve: tutto ciò che inserisci resta sul tuo dispositivo. Paweo non ha account, server, pubblicità, analisi né tracciamento. L'app non ha nemmeno l'autorizzazione ad accedere a Internet.**
 
+L'unica eccezione è facoltativa: se usi «Scansiona documento», lo scanner di documenti di Google invia a Google informazioni tecniche sul suo utilizzo (vedi «Scanner di documenti» più sotto).
+
 ## Titolare
 
 Paweo è pubblicata da Hakan Sağlam, paweo.support@gmail.com ("noi").
@@ -30,8 +32,8 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 
 - Non crea account e non chiede il tuo nome o il tuo indirizzo email.
 - Non si connette a Internet (non ha l'autorizzazione Internet).
-- Non usa pubblicità, analisi, segnalazioni di arresti anomali né alcun SDK di terze parti che raccolga dati.
-- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la tua app Fotocamera o lo scegli nel selettore di foto o di file di Android, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo.
+- Non usa pubblicità, analisi né segnalazioni di arresti anomali. L'unico componente di terze parti è lo scanner di documenti di Google, usato solo quando scegli «Scansiona documento» (vedi sotto).
+- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la tua app Fotocamera o con lo scanner di documenti di Google, o lo scegli nel selettore di foto o di file di Android, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo.
 
 ## Autorizzazioni
 
@@ -40,6 +42,10 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 - **Avvio all'accensione:** dopo il riavvio del dispositivo l'app reimposta i tuoi promemoria, perché Android cancella le sveglie programmate al riavvio.
 
 Il pulsante di chiamata accanto a un numero apre l'app Telefono con il numero già inserito. Paweo non effettua chiamate da sola.
+
+## Scanner di documenti
+
+«Scansiona documento» apre lo scanner di documenti di Google, che fa parte dei servizi Google Play sul tuo telefono. Trova i bordi della pagina e ripulisce l'immagine sul dispositivo; le pagine scansionate tornano in Paweo quando termini la scansione e non vengono inviate a Google. I servizi Google Play possono scaricare lo scanner al primo utilizzo. Mentre lo usi, invia a Google informazioni tecniche sul suo utilizzo: modello del dispositivo e versione di Android, nome del pacchetto e versione di Paweo, dati sulle prestazioni, codici di errore e identificatori del dispositivo e dell'installazione, per diagnostica e statistiche d'uso. Google cripta queste informazioni durante il trasferimento e non le condivide con terze parti (informativa sui dati di ML Kit di Google: developers.google.com/ml-kit/android-data-disclosure). Paweo non ne riceve nessuna. Se preferisci evitarlo, aggiungi le pagine con «Scatta una foto», «Scegli dalla galleria» o «Scegli un file».
 
 ## Condividere un resoconto sanitario, una scheda per il pet sitter o un documento
 
@@ -53,7 +59,7 @@ Se aggiungi un widget di Paweo alla schermata Home, lì compaiono i nomi dei tuo
 
 ## Backup
 
-Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo. I documenti sono esclusi da questo backup nel cloud, perché lì Android consente solo una quantità limitata di dati per app; sono inclusi quando trasferisci i dati direttamente su un nuovo telefono e nel file di backup descritto qui sotto.
+Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo. Anche i documenti sono inclusi. Il backup nel cloud di Android conserva al massimo 25 MB per app e salta del tutto il backup di Paweo se i dati occupano di più; con molti documenti grandi, conserva quindi anche un file di backup (vedi sotto).
 
 ## Esportare i tuoi dati
 
