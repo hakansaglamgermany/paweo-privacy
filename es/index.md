@@ -2,9 +2,9 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · Español · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Fecha de entrada en vigor: 3 de octubre de 2026
+Fecha de entrada en vigor: 9 de octubre de 2026
 
-Paweo es una app para llevar el control del cuidado de tus mascotas: perfiles, recordatorios, un registro de salud y un informe de salud en PDF. Esta política explica qué pasa con la información que introduces.
+Paweo es una app para llevar el control del cuidado de tus mascotas: perfiles, recordatorios, un registro diario, un registro de salud e informes en PDF. Esta política explica qué pasa con la información que introduces.
 
 **En resumen: todo lo que introduces se queda en tu dispositivo. Paweo no tiene cuenta, ni servidores, ni anuncios, ni análisis, ni rastreo. La app ni siquiera tiene permiso para acceder a internet.**
 
@@ -20,7 +20,8 @@ La app guarda solo lo que escribes en ella, en una base de datos de tu dispositi
 - **Fotos de mascotas:** una foto de tu mascota, si añades una.
 - **Contactos que añades:** tu número de teléfono y el nombre y teléfono de tu veterinario o clínica.
 - **Recordatorios:** su tipo, título, programación y cuándo los marcaste como hechos.
-- **Registro de salud:** pesos y notas.
+- **Registro diario:** paseos, comidas, pis y caca, síntomas como vómitos o diarrea, medicación y notas, con la hora en que los registraste.
+- **Registro de salud:** pesos, valoraciones de la condición corporal y notas.
 
 Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nunca la recibimos. No podemos verla, acceder a ella ni recuperarla.
 
@@ -39,9 +40,13 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 
 El botón de llamada junto a un número de teléfono abre tu app de Teléfono con el número ya escrito. Paweo no hace llamadas por sí misma.
 
-## Compartir un informe de salud
+## Compartir un informe de salud o la hoja para el cuidador
 
-Cuando tocas «Compartir informe de salud», la app crea un PDF en tu dispositivo y abre el menú de compartir de Android. El informe va solo adonde tú decidas enviarlo, por ejemplo a tu veterinario por correo electrónico. A partir de ahí, la app o la persona con quien lo compartiste lo trata según sus propias condiciones. El PDF se guarda en el almacenamiento temporal de la app, que Android puede vaciar en cualquier momento.
+Cuando tocas «Compartir informe de salud» o «Hoja para el cuidador», la app crea un PDF en tu dispositivo y abre el menú de compartir de Android. El PDF va solo adonde tú decidas enviarlo, por ejemplo a tu veterinario o a la persona que cuida de tu mascota, por correo electrónico. A partir de ahí, la app o la persona con quien lo compartiste lo trata según sus propias condiciones. El PDF se guarda en el almacenamiento temporal de la app, que Android puede vaciar en cualquier momento.
+
+## Widgets de la pantalla de inicio
+
+Si añades un widget de Paweo a tu pantalla de inicio, muestra allí los nombres de tus mascotas y los recordatorios de hoy o los recuentos del registro diario, así que cualquiera que pueda ver tu pantalla desbloqueada puede verlos. Los widgets leen los datos de tu dispositivo; no se envía nada a ningún sitio.
 
 ## Copias de seguridad
 
@@ -53,7 +58,7 @@ En la app, «Copia de seguridad y restauración» guarda todos los datos y fotos
 
 ## Cuánto tiempo se guardan los datos y cómo borrarlos
 
-Tus datos se quedan en tu dispositivo hasta que los borres. Puedes eliminar una mascota (junto con sus recordatorios y su registro de salud) en la app, borrar los datos de la app en los ajustes de Android o desinstalar la app. Las copias en una copia de seguridad del dispositivo siguen tus ajustes de copia de seguridad.
+Tus datos se quedan en tu dispositivo hasta que los borres. Puedes eliminar una mascota (junto con sus recordatorios, su registro diario y su registro de salud) en la app, borrar los datos de la app en los ajustes de Android o desinstalar la app. Los datos incluidos en una copia de seguridad del dispositivo se rigen por tus ajustes de copia de seguridad.
 
 ## Tus derechos
 

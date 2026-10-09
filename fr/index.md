@@ -2,11 +2,11 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · Français · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Date d'entrée en vigueur : 3 octobre 2026
+Date d'entrée en vigueur : 9 octobre 2026
 
-Paweo est une application pour suivre les soins de vos animaux : profils, rappels, journal de santé et bilan de santé en PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
+Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé et documents PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
 
-**En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni analyse, ni suivi. L'application n'a même pas l'autorisation d'accéder à Internet.**
+**En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application n'a même pas l'autorisation d'accéder à Internet.**
 
 ## Responsable
 
@@ -20,7 +20,8 @@ L'application enregistre uniquement ce que vous y saisissez, dans une base de do
 - **Photos des animaux :** une photo de votre animal, si vous en ajoutez une.
 - **Contacts que vous ajoutez :** votre numéro de téléphone, ainsi que le nom et le numéro de votre vétérinaire ou de votre clinique.
 - **Rappels :** leur type, leur titre, leur programmation et le moment où vous les avez marqués comme faits.
-- **Journal de santé :** poids et notes.
+- **Suivi quotidien :** promenades, repas, pipi et selles, symptômes comme les vomissements ou la diarrhée, médicaments et notes, avec l'heure à laquelle vous les avez saisis.
+- **Suivi santé :** poids, évaluations de l'état corporel et notes.
 
 Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo, et nous ne les recevons jamais. Nous ne pouvons ni les voir, ni y accéder, ni les récupérer.
 
@@ -28,7 +29,7 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
-- Elle n'utilise ni publicité, ni analyse, ni rapports de plantage, ni aucun SDK tiers qui collecte des données.
+- Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage, ni aucun SDK tiers qui collecte des données.
 - Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos : si vous ajoutez une photo de votre animal, vous la prenez avec votre application Appareil photo ou la choisissez dans le sélecteur de photos d'Android, et seule cette photo est copiée dans le stockage de l'application sur votre appareil.
 
 ## Autorisations
@@ -39,9 +40,13 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 Le bouton d'appel à côté d'un numéro ouvre votre application Téléphone avec le numéro déjà saisi. Paweo ne passe aucun appel elle-même.
 
-## Partager un bilan de santé
+## Partager un bilan de santé ou une fiche pour le pet-sitter
 
-Lorsque vous touchez « Partager le bilan de santé », l'application crée un PDF sur votre appareil et ouvre le menu de partage d'Android. Le bilan va uniquement là où vous choisissez de l'envoyer, par exemple à votre vétérinaire par e-mail. Ensuite, l'application ou la personne avec qui vous l'avez partagé le traite selon ses propres conditions. Le PDF est conservé dans la mémoire temporaire de l'application, qu'Android peut vider à tout moment.
+Lorsque vous touchez « Partager le bilan de santé » ou « Fiche pour le pet-sitter », l'application crée un PDF sur votre appareil et ouvre le menu de partage d'Android. Le PDF va uniquement là où vous choisissez de l'envoyer, par exemple à votre vétérinaire ou à votre pet-sitter par e-mail. Ensuite, l'application ou la personne avec qui vous l'avez partagé le traite selon ses propres conditions. Le PDF est conservé dans la mémoire temporaire de l'application, qu'Android peut vider à tout moment.
+
+## Widgets de l'écran d'accueil
+
+Si vous ajoutez un widget Paweo à votre écran d'accueil, il y affiche le nom de vos animaux et les rappels du jour ou le nombre de saisies du suivi quotidien : toute personne qui peut voir votre écran déverrouillé peut donc les voir. Les widgets lisent les données présentes sur votre appareil ; rien n'est envoyé nulle part.
 
 ## Sauvegardes
 
@@ -53,7 +58,7 @@ Dans l'application, « Sauvegarder et restaurer » enregistre toutes les donn�
 
 ## Durée de conservation et suppression
 
-Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels et son journal de santé) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.
+Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels, son suivi quotidien et son suivi santé) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.
 
 ## Vos droits
 

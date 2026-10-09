@@ -2,9 +2,9 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · Nederlands · [Polski](../pl/) · [Português](../pt/)
 
-Ingangsdatum: 3 oktober 2026
+Ingangsdatum: 9 oktober 2026
 
-Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een gezondheidslogboek en een gezondheidsrapport als pdf. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
+Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek en pdf-rapporten. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
 
 **Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
 
@@ -20,7 +20,8 @@ De app slaat alleen op wat je zelf invoert, in een database op je apparaat:
 - **Dierfoto's:** een foto van je dier, als je er een toevoegt.
 - **Contacten die je toevoegt:** je eigen telefoonnummer en de naam en het telefoonnummer van je dierenarts of kliniek.
 - **Herinneringen:** het soort, de titel, het schema en wanneer je ze als gedaan hebt gemarkeerd.
-- **Gezondheidslogboek:** gewichten en notities.
+- **Dagboek:** wandelingen, maaltijden, plassen en poepen, symptomen zoals braken of diarree, medicatie en notities, met het tijdstip waarop je ze hebt vastgelegd.
+- **Gezondheidslogboek:** gewichten, scores voor lichaamsconditie en notities.
 
 Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. We kunnen ze niet zien, er niet bij en ze niet herstellen.
 
@@ -39,9 +40,13 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 
 De belknop naast een telefoonnummer opent je Telefoon-app met het nummer al ingevuld. Paweo belt zelf niet.
 
-## Een gezondheidsrapport delen
+## Een gezondheidsrapport of oppasblad delen
 
-Als je op "Gezondheidsrapport delen" tikt, maakt de app een pdf op je apparaat en opent ze het deelmenu van Android. Het rapport gaat alleen naar waar jij het naartoe stuurt, bijvoorbeeld per e-mail naar je dierenarts. Vanaf dat moment behandelt de app of de persoon met wie je het deelde het volgens de eigen voorwaarden. De pdf staat in de tijdelijke opslag van de app, die Android op elk moment kan leegmaken.
+Als je op "Gezondheidsrapport delen" of "Oppasblad" tikt, maakt de app een pdf op je apparaat en opent ze het deelmenu van Android. De pdf gaat alleen naar de bestemming die jij kiest, bijvoorbeeld per e-mail naar je dierenarts of je oppas. Vanaf dat moment gaat de app of de persoon met wie je de pdf deelde ermee om volgens de eigen voorwaarden. De pdf staat in de tijdelijke opslag van de app, die Android op elk moment kan leegmaken.
+
+## Widgets op het startscherm
+
+Als je een Paweo-widget aan je startscherm toevoegt, toont die daar de namen van je dieren en de herinneringen van vandaag of de aantallen uit het dagboek, dus iedereen die je ontgrendelde scherm kan zien, ziet ze ook. Widgets lezen de gegevens op je apparaat; er wordt niets verstuurd.
 
 ## Back-ups
 
@@ -49,11 +54,11 @@ Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens
 
 ## Je gegevens exporteren
 
-In de app slaat "Back-up en herstellen" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
+In de app slaat "Back-up en terugzetten" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
 
 ## Hoe lang gegevens bewaard blijven en hoe je ze verwijdert
 
-Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen en het gezondheidslogboek), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen.
+Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen, het dagboek en het gezondheidslogboek), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen.
 
 ## Je rechten
 

@@ -2,9 +2,9 @@
 
 [English](../) · Deutsch · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Stand: 3. Oktober 2026
+Stand: 9. Oktober 2026
 
-Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Gesundheitstagebuch und ein Gesundheitsbericht als PDF. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
+Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Tagebuch, Gesundheitseinträge und PDF-Berichte. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
 
 **Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
 
@@ -20,7 +20,8 @@ Die App speichert nur, was du selbst eingibst, in einer Datenbank auf deinem Ger
 - **Tierfotos:** ein Foto deines Tiers, wenn du eines hinzufügst.
 - **Kontakte, die du hinzufügst:** deine Telefonnummer sowie Name und Telefonnummer deines Tierarztes oder deiner Tierklinik.
 - **Erinnerungen:** Art, Titel, Zeitplan und wann du sie als erledigt markiert hast.
-- **Gesundheitstagebuch:** Gewichtseinträge und Notizen.
+- **Tagebuch:** Gassirunden, Futter, Pipi und Kot, Symptome wie Erbrechen oder Durchfall, Medikamente und Notizen, jeweils mit der Uhrzeit, zu der du sie erfasst hast.
+- **Gesundheitseinträge:** Gewichtseinträge, Angaben zur Körperkondition und Notizen.
 
 Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. Wir können sie weder einsehen noch abrufen oder wiederherstellen.
 
@@ -39,9 +40,13 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 
 Die Anruftaste neben einer Telefonnummer öffnet deine Telefon-App mit der eingetragenen Nummer. Paweo führt selbst keine Anrufe aus.
 
-## Einen Gesundheitsbericht teilen
+## Einen Gesundheitsbericht oder ein Betreuungsblatt teilen
 
-Wenn du auf „Gesundheitsbericht teilen“ tippst, erstellt die App auf deinem Gerät ein PDF und öffnet das Teilen-Menü von Android. Der Bericht geht nur dorthin, wohin du ihn schickst, zum Beispiel per E-Mail an deinen Tierarzt. Ab dann gelten die Bedingungen der App oder der Person, mit der du ihn geteilt hast. Das PDF liegt im temporären Speicher der App, den Android jederzeit leeren kann.
+Wenn du auf „Gesundheitsbericht teilen“ oder „Betreuungsblatt“ tippst, erstellt die App auf deinem Gerät ein PDF und öffnet das Teilen-Menü von Android. Das PDF geht nur dorthin, wohin du es schickst, zum Beispiel per E-Mail an deinen Tierarzt oder an die Tierbetreuung. Ab dann gelten die Bedingungen der App oder der Person, mit der du es geteilt hast. Das PDF liegt im temporären Speicher der App, den Android jederzeit leeren kann.
+
+## Widgets auf dem Startbildschirm
+
+Wenn du ein Paweo-Widget auf deinem Startbildschirm hinzufügst, zeigt es dort die Namen deiner Tiere und die heutigen Erinnerungen oder die Zahl der heutigen Tagebucheinträge, sodass jeder, der deinen entsperrten Bildschirm sehen kann, sie ebenfalls sieht. Widgets lesen die Daten auf deinem Gerät; es wird nichts irgendwohin gesendet.
 
 ## Sicherungen
 
@@ -53,7 +58,7 @@ In der App speichert „Sichern und wiederherstellen“ alle Daten und Fotos dei
 
 ## Wie lange Daten gespeichert werden und wie du sie löschst
 
-Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App ein Tier löschen (zusammen mit seinen Erinnerungen und seinem Gesundheitstagebuch), die Daten der App in den Android-Einstellungen löschen oder die App deinstallieren. Kopien in einer Gerätesicherung richten sich nach deinen Sicherungseinstellungen.
+Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App ein Tier löschen (zusammen mit seinen Erinnerungen, seinem Tagebuch und seinen Gesundheitseinträgen), die Daten der App in den Android-Einstellungen löschen oder die App deinstallieren. Kopien in einer Gerätesicherung richten sich nach deinen Sicherungseinstellungen.
 
 ## Deine Rechte
 

@@ -2,9 +2,9 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · Italiano · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Data di entrata in vigore: 3 ottobre 2026
+Data di entrata in vigore: 9 ottobre 2026
 
-Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario della salute e un resoconto sanitario in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
+Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute e resoconti in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
 
 **In breve: tutto ciò che inserisci resta sul tuo dispositivo. Paweo non ha account, server, pubblicità, analisi né tracciamento. L'app non ha nemmeno l'autorizzazione ad accedere a Internet.**
 
@@ -20,7 +20,8 @@ L'app salva solo ciò che vi scrivi, in un database sul tuo dispositivo:
 - **Foto degli animali:** una foto del tuo animale, se ne aggiungi una.
 - **Contatti che aggiungi:** il tuo numero di telefono e il nome e il numero del tuo veterinario o della clinica.
 - **Promemoria:** tipo, titolo, programmazione e quando li hai segnati come fatti.
-- **Diario della salute:** pesi e note.
+- **Diario giornaliero:** passeggiate, pasti, pipì e feci, sintomi come vomito o diarrea, farmaci e note, con l'ora in cui li hai registrati.
+- **Diario della salute:** pesi, punteggi della condizione corporea e note.
 
 Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non le riceviamo mai. Non possiamo vederle, accedervi né recuperarle.
 
@@ -34,14 +35,18 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 ## Autorizzazioni
 
 - **Notifiche:** per mostrare i tuoi promemoria.
-- **Sveglie e promemoria (sveglie esatte):** perché i promemoria arrivino all'ora impostata. Puoi disattivarla nelle impostazioni del dispositivo; in quel caso i promemoria possono arrivare più tardi.
+- **Sveglie e promemoria (sveglie esatte):** perché i promemoria arrivino all'ora impostata. Puoi disattivare questa autorizzazione nelle impostazioni del dispositivo; in quel caso i promemoria possono arrivare più tardi.
 - **Avvio all'accensione:** dopo il riavvio del dispositivo l'app reimposta i tuoi promemoria, perché Android cancella le sveglie programmate al riavvio.
 
 Il pulsante di chiamata accanto a un numero apre l'app Telefono con il numero già inserito. Paweo non effettua chiamate da sola.
 
-## Condividere un resoconto sanitario
+## Condividere un resoconto sanitario o una scheda per il pet sitter
 
-Quando tocchi "Condividi il resoconto sanitario", l'app crea un PDF sul tuo dispositivo e apre il menu di condivisione di Android. Il resoconto va solo dove scegli di inviarlo, per esempio al tuo veterinario via email. Da quel momento, l'app o la persona con cui lo hai condiviso lo gestisce secondo le proprie condizioni. Il PDF resta nella memoria temporanea dell'app, che Android può svuotare in qualsiasi momento.
+Quando tocchi "Condividi il resoconto sanitario" o "Scheda per il pet sitter", l'app crea un PDF sul tuo dispositivo e apre il menu di condivisione di Android. Il PDF va solo dove scegli di inviarlo, per esempio al tuo veterinario o al tuo pet sitter via email. Da quel momento, l'app o la persona con cui lo hai condiviso lo gestisce secondo le proprie condizioni. Il PDF resta nella memoria temporanea dell'app, che Android può svuotare in qualsiasi momento.
+
+## Widget nella schermata Home
+
+Se aggiungi un widget di Paweo alla schermata Home, lì compaiono i nomi dei tuoi animali e i promemoria di oggi o i conteggi del diario giornaliero, quindi chiunque veda il tuo schermo sbloccato può vederli. I widget leggono i dati sul tuo dispositivo; non viene inviato nulla.
 
 ## Backup
 
@@ -53,7 +58,7 @@ Nell'app, "Backup e ripristino" salva tutti i dati e le foto dei tuoi animali in
 
 ## Per quanto tempo restano i dati e come eliminarli
 
-I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria e al suo diario della salute) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup.
+I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria, al suo diario giornaliero e al suo diario della salute) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup.
 
 ## I tuoi diritti
 

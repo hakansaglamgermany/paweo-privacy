@@ -2,9 +2,9 @@
 
 English · [Deutsch](de/) · [Türkçe](tr/) · [Français](fr/) · [Español](es/) · [Italiano](it/) · [Nederlands](nl/) · [Polski](pl/) · [Português](pt/)
 
-Effective date: October 3, 2026
+Effective date: October 9, 2026
 
-Paweo is an app for keeping track of your pets' care: profiles, reminders, a health log and a PDF health report. This policy explains what happens to the information you enter.
+Paweo is an app for keeping track of your pets' care: profiles, reminders, a daily log, a health log and PDF reports. This policy explains what happens to the information you enter.
 
 **In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
 
@@ -20,7 +20,8 @@ The app stores only what you type into it, in a database on your device:
 - **Pet photos:** a photo of your pet, if you add one.
 - **Contacts you add:** your phone number, and your vet's or clinic's name and phone number.
 - **Reminders:** their type, title, schedule, and when you marked them as done.
-- **Health log:** weight entries and notes.
+- **Daily log:** walks, meals, pee and poop, symptoms such as vomiting or diarrhea, medication and notes, with the time you logged them.
+- **Health log:** weight entries, body condition scores and notes.
 
 This information never leaves your device through Paweo, and we never receive it. We cannot see, access or recover it.
 
@@ -39,9 +40,13 @@ This information never leaves your device through Paweo, and we never receive it
 
 The call button next to a phone number opens your phone app with the number filled in. Paweo does not place calls itself.
 
-## Sharing a health report
+## Sharing a health report or sitter sheet
 
-When you tap "Share health report", the app creates a PDF on your device and opens Android's share menu. The report goes only where you choose to send it, for example to your vet by email. From then on, the app or person you shared it with handles it under their own terms. The PDF is kept in the app's temporary storage, which Android may clear at any time.
+When you tap "Share health report" or "Sitter sheet", the app creates a PDF on your device and opens Android's share menu. The PDF goes only where you choose to send it, for example to your vet or your pet sitter by email. From then on, the app or person you shared it with handles it under their own terms. The PDF is kept in the app's temporary storage, which Android may clear at any time.
+
+## Home screen widgets
+
+If you add a Paweo widget to your home screen, it shows your pets' names and today's reminders or daily log counts there, so anyone who can see your unlocked screen can see them. Widgets read the data on your device; nothing is sent anywhere.
 
 ## Backups
 
@@ -53,7 +58,7 @@ In the app, "Back up and restore" saves all your pets' data and photos into one 
 
 ## How long data is kept, and how to delete it
 
-Your data stays on your device until you delete it. You can delete a pet (together with its reminders and health log) in the app, clear the app's data in Android settings, or uninstall the app. Copies in a device backup follow your backup settings.
+Your data stays on your device until you delete it. You can delete a pet (together with its reminders, daily log and health log) in the app, clear the app's data in Android settings, or uninstall the app. Copies in a device backup follow your backup settings.
 
 ## Your rights
 

@@ -2,9 +2,9 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · Polski · [Português](../pt/)
 
-Data wejścia w życie: 3 października 2026 r.
+Data wejścia w życie: 9 października 2026 r.
 
-Paweo to aplikacja do prowadzenia opieki nad twoimi zwierzętami: profile, przypomnienia, dziennik zdrowia i raport zdrowia w formacie PDF. Ta polityka wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
+Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypomnienia, codzienne wpisy, dziennik zdrowia i raporty w formacie PDF. Ta polityka wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
 **W skrócie: wszystko, co wprowadzasz, zostaje na twoim urządzeniu. Paweo nie ma konta, serwerów, reklam, analityki ani śledzenia. Aplikacja nie ma nawet uprawnienia do korzystania z internetu.**
 
@@ -19,8 +19,9 @@ Aplikacja zapisuje tylko to, co sam w niej wpiszesz, w bazie danych na twoim urz
 - **Profile zwierząt:** imię, gatunek lub rasa, data urodzenia, waga, numer chipa i rejestr, w którym jest zarejestrowany, alergie i choroby przewlekłe.
 - **Zdjęcia zwierząt:** zdjęcie twojego zwierzęcia, jeśli je dodasz.
 - **Dodane kontakty:** twój numer telefonu oraz nazwa i numer telefonu twojego weterynarza lub kliniki.
-- **Przypomnienia:** ich rodzaj, tytuł, harmonogram i to, kiedy oznaczyłeś je jako zrobione.
-- **Dziennik zdrowia:** pomiary wagi i notatki.
+- **Przypomnienia:** ich rodzaj, tytuł, harmonogram i to, kiedy oznaczono je jako wykonane.
+- **Codzienne wpisy:** spacery, posiłki, siku i kupa, objawy takie jak wymioty czy biegunka, leki i notatki, wraz z godziną wpisu.
+- **Dziennik zdrowia:** pomiary wagi, oceny kondycji ciała i notatki.
 
 Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo i nigdy ich nie otrzymujemy. Nie możemy ich zobaczyć, uzyskać do nich dostępu ani ich odzyskać.
 
@@ -39,13 +40,17 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 
 Przycisk połączenia obok numeru telefonu otwiera aplikację Telefon z wpisanym numerem. Paweo sama nie wykonuje połączeń.
 
-## Udostępnianie raportu zdrowia
+## Udostępnianie raportu zdrowia lub karty dla opiekuna
 
-Gdy dotkniesz „Udostępnij raport zdrowia”, aplikacja tworzy plik PDF na twoim urządzeniu i otwiera menu udostępniania Androida. Raport trafia tylko tam, gdzie zdecydujesz się go wysłać, na przykład e-mailem do weterynarza. Od tej chwili aplikacja lub osoba, której go udostępniłeś, postępuje z nim według własnych zasad. Plik PDF jest przechowywany w pamięci tymczasowej aplikacji, którą Android może w każdej chwili wyczyścić.
+Gdy dotkniesz „Udostępnij raport zdrowia” lub „Karta dla opiekuna”, aplikacja tworzy plik PDF na twoim urządzeniu i otwiera menu udostępniania Androida. Plik PDF trafia tylko tam, gdzie zdecydujesz się go wysłać, na przykład e-mailem do weterynarza lub opiekuna zwierzęcia. Od tej chwili aplikacja lub osoba, której go udostępniłeś, postępuje z nim według własnych zasad. Plik PDF jest przechowywany w pamięci tymczasowej aplikacji, którą Android może w każdej chwili wyczyścić.
+
+## Widżety na ekranie głównym
+
+Jeśli dodasz widżet Paweo do ekranu głównego, pokazuje on tam imiona twoich zwierząt oraz dzisiejsze przypomnienia lub liczbę codziennych wpisów, więc może je zobaczyć każdy, kto widzi twój odblokowany ekran. Widżety odczytują dane na twoim urządzeniu; nic nie jest nigdzie wysyłane.
 
 ## Kopie zapasowe
 
-Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie możemy odczytać ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia.
+Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie może odczytać nikt: ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia.
 
 ## Eksport danych
 
@@ -53,7 +58,7 @@ W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane i 
 
 ## Jak długo przechowywane są dane i jak je usunąć
 
-Twoje dane zostają na urządzeniu, dopóki ich nie usuniesz. Możesz usunąć zwierzę (razem z jego przypomnieniami i dziennikiem zdrowia) w aplikacji, wyczyścić dane aplikacji w ustawieniach Androida albo odinstalować aplikację. Kopie w kopii zapasowej urządzenia podlegają twoim ustawieniom kopii zapasowej.
+Twoje dane zostają na urządzeniu, dopóki ich nie usuniesz. Możesz usunąć zwierzę (razem z jego przypomnieniami, codziennymi wpisami i dziennikiem zdrowia) w aplikacji, wyczyścić dane aplikacji w ustawieniach Androida albo odinstalować aplikację. Kopie w kopii zapasowej urządzenia podlegają twoim ustawieniom kopii zapasowej.
 
 ## Twoje prawa
 
@@ -61,7 +66,7 @@ Zgodnie z przepisami o ochronie danych, takimi jak ogólne rozporządzenie o och
 
 ## Dzieci
 
-Paweo nie jest przeznaczona dla dzieci poniżej 13 roku życia.
+Paweo nie jest przeznaczona dla dzieci poniżej 13. roku życia.
 
 ## Zmiany tej polityki
 
