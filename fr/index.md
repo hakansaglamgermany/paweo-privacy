@@ -4,7 +4,7 @@
 
 Date d'entrée en vigueur : 9 octobre 2026
 
-Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé et documents PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
+Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé, documents et rapports PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
 
 **En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application n'a même pas l'autorisation d'accéder à Internet.**
 
@@ -22,6 +22,7 @@ L'application enregistre uniquement ce que vous y saisissez, dans une base de do
 - **Rappels :** leur type, leur titre, leur programmation et le moment où vous les avez marqués comme faits.
 - **Suivi quotidien :** promenades, repas, pipi et selles, symptômes comme les vomissements ou la diarrhée, médicaments et notes, avec l'heure à laquelle vous les avez saisis.
 - **Suivi santé :** poids, évaluations de l'état corporel et notes.
+- **Documents :** photos et PDF que vous ajoutez à un animal, par exemple un carnet de vaccination, des résultats d'analyses ou des factures, avec le titre, le type, la date et la note que vous leur donnez.
 
 Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo, et nous ne les recevons jamais. Nous ne pouvons ni les voir, ni y accéder, ni les récupérer.
 
@@ -30,7 +31,7 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
 - Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage, ni aucun SDK tiers qui collecte des données.
-- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos : si vous ajoutez une photo de votre animal, vous la prenez avec votre application Appareil photo ou la choisissez dans le sélecteur de photos d'Android, et seule cette photo est copiée dans le stockage de l'application sur votre appareil.
+- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil.
 
 ## Autorisations
 
@@ -40,9 +41,11 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 Le bouton d'appel à côté d'un numéro ouvre votre application Téléphone avec le numéro déjà saisi. Paweo ne passe aucun appel elle-même.
 
-## Partager un bilan de santé ou une fiche pour le pet-sitter
+## Partager un bilan de santé, une fiche pour le pet-sitter ou un document
 
 Lorsque vous touchez « Partager le bilan de santé » ou « Fiche pour le pet-sitter », l'application crée un PDF sur votre appareil et ouvre le menu de partage d'Android. Le PDF va uniquement là où vous choisissez de l'envoyer, par exemple à votre vétérinaire ou à votre pet-sitter par e-mail. Ensuite, l'application ou la personne avec qui vous l'avez partagé le traite selon ses propres conditions. Le PDF est conservé dans la mémoire temporaire de l'application, qu'Android peut vider à tout moment.
+
+Lorsque vous partagez un document, l'application place des copies de ses pages dans la même mémoire temporaire et ouvre le menu de partage ; elles aussi vont uniquement là où vous choisissez de les envoyer.
 
 ## Widgets de l'écran d'accueil
 
@@ -50,15 +53,15 @@ Si vous ajoutez un widget Paweo à votre écran d'accueil, il y affiche le nom d
 
 ## Sauvegardes
 
-Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil.
+Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil. Les documents sont exclus de cette sauvegarde dans le cloud, car Android n'y autorise qu'un volume limité de données par application ; ils sont inclus lors d'un transfert direct vers un nouveau téléphone et dans le fichier de sauvegarde décrit ci-dessous.
 
 ## Exporter vos données
 
-Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données et photos de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Si vous le protégez par un mot de passe, il est chiffré (AES-256) et ne peut être ouvert qu'avec ce mot de passe, que nous ne voyons jamais et ne pouvons pas récupérer. Sans mot de passe, le fichier n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
+Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données, photos et documents de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Si vous le protégez par un mot de passe, il est chiffré (AES-256) et ne peut être ouvert qu'avec ce mot de passe, que nous ne voyons jamais et ne pouvons pas récupérer. Sans mot de passe, le fichier n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
 
 ## Durée de conservation et suppression
 
-Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels, son suivi quotidien et son suivi santé) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.
+Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels, son suivi quotidien, son suivi santé et ses documents) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.
 
 ## Vos droits
 

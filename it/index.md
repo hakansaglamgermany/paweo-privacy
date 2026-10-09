@@ -4,7 +4,7 @@
 
 Data di entrata in vigore: 9 ottobre 2026
 
-Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute e resoconti in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
+Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute, documenti e resoconti in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
 
 **In breve: tutto ciò che inserisci resta sul tuo dispositivo. Paweo non ha account, server, pubblicità, analisi né tracciamento. L'app non ha nemmeno l'autorizzazione ad accedere a Internet.**
 
@@ -22,6 +22,7 @@ L'app salva solo ciò che vi scrivi, in un database sul tuo dispositivo:
 - **Promemoria:** tipo, titolo, programmazione e quando li hai segnati come fatti.
 - **Diario giornaliero:** passeggiate, pasti, pipì e feci, sintomi come vomito o diarrea, farmaci e note, con l'ora in cui li hai registrati.
 - **Diario della salute:** pesi, punteggi della condizione corporea e note.
+- **Documenti:** foto e PDF che aggiungi a un animale, per esempio il libretto delle vaccinazioni, esami di laboratorio o fatture, con il titolo, il tipo, la data e la nota che gli assegni.
 
 Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non le riceviamo mai. Non possiamo vederle, accedervi né recuperarle.
 
@@ -30,7 +31,7 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 - Non crea account e non chiede il tuo nome o il tuo indirizzo email.
 - Non si connette a Internet (non ha l'autorizzazione Internet).
 - Non usa pubblicità, analisi, segnalazioni di arresti anomali né alcun SDK di terze parti che raccolga dati.
-- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto: se aggiungi una foto del tuo animale, la scatti con la tua app Fotocamera o la scegli nel selettore di foto di Android, e solo quella foto viene copiata nello spazio dell'app sul tuo dispositivo.
+- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la tua app Fotocamera o lo scegli nel selettore di foto o di file di Android, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo.
 
 ## Autorizzazioni
 
@@ -40,9 +41,11 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 
 Il pulsante di chiamata accanto a un numero apre l'app Telefono con il numero già inserito. Paweo non effettua chiamate da sola.
 
-## Condividere un resoconto sanitario o una scheda per il pet sitter
+## Condividere un resoconto sanitario, una scheda per il pet sitter o un documento
 
 Quando tocchi "Condividi il resoconto sanitario" o "Scheda per il pet sitter", l'app crea un PDF sul tuo dispositivo e apre il menu di condivisione di Android. Il PDF va solo dove scegli di inviarlo, per esempio al tuo veterinario o al tuo pet sitter via email. Da quel momento, l'app o la persona con cui lo hai condiviso lo gestisce secondo le proprie condizioni. Il PDF resta nella memoria temporanea dell'app, che Android può svuotare in qualsiasi momento.
+
+Quando condividi un documento, l'app mette copie delle sue pagine nella stessa memoria temporanea e apre il menu di condivisione; anche queste vanno solo dove scegli di inviarle.
 
 ## Widget nella schermata Home
 
@@ -50,15 +53,15 @@ Se aggiungi un widget di Paweo alla schermata Home, lì compaiono i nomi dei tuo
 
 ## Backup
 
-Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo.
+Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo. I documenti sono esclusi da questo backup nel cloud, perché lì Android consente solo una quantità limitata di dati per app; sono inclusi quando trasferisci i dati direttamente su un nuovo telefono e nel file di backup descritto qui sotto.
 
 ## Esportare i tuoi dati
 
-Nell'app, "Backup e ripristino" salva tutti i dati e le foto dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Se lo proteggi con una password, viene crittografato (AES-256) e si può aprire solo con quella password, che non vediamo mai e non possiamo recuperare. Senza password il file non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app.
+Nell'app, "Backup e ripristino" salva tutti i dati, le foto e i documenti dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Se lo proteggi con una password, viene crittografato (AES-256) e si può aprire solo con quella password, che non vediamo mai e non possiamo recuperare. Senza password il file non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app.
 
 ## Per quanto tempo restano i dati e come eliminarli
 
-I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria, al suo diario giornaliero e al suo diario della salute) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup.
+I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria, al suo diario giornaliero, al suo diario della salute e ai suoi documenti) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup.
 
 ## I tuoi diritti
 

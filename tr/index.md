@@ -4,7 +4,7 @@
 
 Yürürlük tarihi: 9 Ekim 2026
 
-Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü ve PDF raporlar. Bu politika, girdiğin bilgilere ne olduğunu açıklıyor.
+Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü, belgeler ve PDF raporlar. Bu politika, girdiğin bilgilere ne olduğunu açıklıyor.
 
 **Kısacası: Girdiğin her şey cihazında kalır. Paweo'nun hesabı, sunucusu, reklamı, analizi ve takibi yok. Uygulamanın internete erişme izni bile yok.**
 
@@ -22,6 +22,7 @@ Uygulama yalnızca senin girdiklerini, cihazındaki bir veritabanında saklar:
 - **Hatırlatıcılar:** türü, başlığı, zamanlaması ve ne zaman yapıldı olarak işaretlediğin.
 - **Günlük kayıtlar:** yürüyüş, mama, çiş ve kaka, kusma ya da ishal gibi belirtiler, ilaç ve notlar; her biri kaydettiğin saatle birlikte.
 - **Sağlık günlüğü:** kilo kayıtları, vücut kondisyonu skorları ve notlar.
+- **Belgeler:** hayvanına eklediğin fotoğraflar ve PDF'ler (örneğin aşı karnesi, tahlil sonuçları ya da faturalar), onlara verdiğin başlık, tür, tarih ve notla birlikte.
 
 Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ulaşmaz. Onları göremez, erişemez ve geri getiremeyiz.
 
@@ -30,7 +31,7 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
 - Reklam, analiz, çökme raporlama ya da veri toplayan hiçbir üçüncü taraf yazılım (SDK) kullanmaz.
-- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez ve fotoğraflarına göz atamaz: Hayvanının fotoğrafını eklersen onu kamera uygulamanla çekersin ya da Android'in fotoğraf seçicisinde sen seçersin ve yalnızca o fotoğraf, cihazında uygulamanın klasörüne kopyalanır.
+- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır.
 
 ## İzinler
 
@@ -40,9 +41,11 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 
 Bir telefon numarasının yanındaki arama butonu, numara yazılı olarak telefon uygulamanı açar. Paweo kendisi arama yapmaz.
 
-## Sağlık raporunu ya da bakıcı özetini paylaşmak
+## Sağlık raporunu, bakıcı özetini ya da bir belgeyi paylaşmak
 
 "Sağlık raporunu paylaş"a ya da "Bakıcı özeti"ne dokunduğunda uygulama cihazında bir PDF oluşturur ve Android'in paylaşım menüsünü açar. PDF yalnızca senin seçtiğin yere gider, örneğin e-postayla veterinerine ya da hayvanının bakıcısına. Bundan sonrası, paylaştığın uygulamanın ya da kişinin kendi koşullarına tabidir. PDF, uygulamanın geçici belleğinde durur; Android bu belleği istediği zaman temizleyebilir.
+
+Bir belgeyi paylaştığında uygulama sayfalarının kopyalarını aynı geçici belleğe koyar ve paylaşım menüsünü açar; onlar da yalnızca senin seçtiğin yere gider.
 
 ## Ana ekran widget'ları
 
@@ -50,15 +53,15 @@ Ana ekranına bir Paweo widget'ı eklersen, widget orada hayvanlarının adları
 
 ## Yedekler
 
-Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin.
+Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin. Belgeler bu bulut yedeğine girmez, çünkü Android orada uygulama başına yalnızca sınırlı miktarda veriye izin veriyor; verileri doğrudan yeni bir telefona aktardığında ve aşağıda anlatılan yedek dosyasında yer alırlar.
 
 ## Verilerini dışa aktarma
 
-Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini ve fotoğraflarını senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Parolayla korursan dosya şifrelenir (AES-256) ve yalnızca o parolayla açılabilir; parolayı biz hiçbir zaman görmeyiz ve kurtaramayız. Parola koymazsan dosya şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
+Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini, fotoğraflarını ve belgelerini senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Parolayla korursan dosya şifrelenir (AES-256) ve yalnızca o parolayla açılabilir; parolayı biz hiçbir zaman görmeyiz ve kurtaramayız. Parola koymazsan dosya şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
 
 ## Veriler ne kadar saklanır ve nasıl silinir
 
-Verilerin sen silene kadar cihazında kalır. Uygulamada bir hayvanı (hatırlatıcıları, günlük kayıtları ve sağlık günlüğüyle birlikte) silebilir, Android ayarlarından uygulamanın verilerini temizleyebilir ya da uygulamayı kaldırabilirsin. Cihaz yedeğindeki kopyalar yedekleme ayarlarına göre davranır.
+Verilerin sen silene kadar cihazında kalır. Uygulamada bir hayvanı (hatırlatıcıları, günlük kayıtları, sağlık günlüğü ve belgeleriyle birlikte) silebilir, Android ayarlarından uygulamanın verilerini temizleyebilir ya da uygulamayı kaldırabilirsin. Cihaz yedeğindeki kopyalar yedekleme ayarlarına göre davranır.
 
 ## Hakların
 

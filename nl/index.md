@@ -4,7 +4,7 @@
 
 Ingangsdatum: 9 oktober 2026
 
-Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek en pdf-rapporten. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
+Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
 
 **Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
 
@@ -22,6 +22,7 @@ De app slaat alleen op wat je zelf invoert, in een database op je apparaat:
 - **Herinneringen:** het soort, de titel, het schema en wanneer je ze als gedaan hebt gemarkeerd.
 - **Dagboek:** wandelingen, maaltijden, plassen en poepen, symptomen zoals braken of diarree, medicatie en notities, met het tijdstip waarop je ze hebt vastgelegd.
 - **Gezondheidslogboek:** gewichten, scores voor lichaamsconditie en notities.
+- **Documenten:** foto's en pdf's die je aan een dier toevoegt, zoals een vaccinatieboekje, labuitslagen of facturen, met de titel, soort, datum en notitie die je ze geeft.
 
 Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. We kunnen ze niet zien, er niet bij en ze niet herstellen.
 
@@ -30,7 +31,7 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
 - Ze gebruikt geen advertenties, geen analyse, geen crashrapporten en geen enkele SDK van derden die gegevens verzamelt.
-- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's bladeren: als je een foto van je dier toevoegt, maak je die met je camera-app of kies je die in de fotokiezer van Android, en wordt alleen die foto naar de opslag van de app op je apparaat gekopieerd.
+- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's en bestanden bladeren: als je een foto van je dier of een document toevoegt, maak je die met je camera-app of kies je die in de foto- of bestandskiezer van Android, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd.
 
 ## Toestemmingen
 
@@ -40,9 +41,11 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 
 De belknop naast een telefoonnummer opent je Telefoon-app met het nummer al ingevuld. Paweo belt zelf niet.
 
-## Een gezondheidsrapport of oppasblad delen
+## Een gezondheidsrapport, oppasblad of document delen
 
 Als je op "Gezondheidsrapport delen" of "Oppasblad" tikt, maakt de app een pdf op je apparaat en opent ze het deelmenu van Android. De pdf gaat alleen naar de bestemming die jij kiest, bijvoorbeeld per e-mail naar je dierenarts of je oppas. Vanaf dat moment gaat de app of de persoon met wie je de pdf deelde ermee om volgens de eigen voorwaarden. De pdf staat in de tijdelijke opslag van de app, die Android op elk moment kan leegmaken.
+
+Als je een document deelt, zet de app kopieën van de pagina's in dezelfde tijdelijke opslag en opent ze het deelmenu; ook die gaan alleen naar de bestemming die jij kiest.
 
 ## Widgets op het startscherm
 
@@ -50,15 +53,15 @@ Als je een Paweo-widget aan je startscherm toevoegt, toont die daar de namen van
 
 ## Back-ups
 
-Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat.
+Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat. Documenten zitten niet in deze cloudback-up, omdat Android daar maar een beperkte hoeveelheid gegevens per app toestaat; ze gaan wel mee als je de gegevens rechtstreeks naar een nieuwe telefoon overzet en in het back-upbestand dat hieronder wordt beschreven.
 
 ## Je gegevens exporteren
 
-In de app slaat "Back-up en terugzetten" alle gegevens en foto's van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
+In de app slaat "Back-up en terugzetten" alle gegevens, foto's en documenten van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app.
 
 ## Hoe lang gegevens bewaard blijven en hoe je ze verwijdert
 
-Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen, het dagboek en het gezondheidslogboek), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen.
+Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen, het dagboek, het gezondheidslogboek en de documenten), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen.
 
 ## Je rechten
 
