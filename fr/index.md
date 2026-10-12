@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · Français · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Date d'entrée en vigueur : 9 octobre 2026
+Date d'entrée en vigueur : 12 octobre 2026
 
 Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé, documents et rapports PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
 
 **En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application n'a même pas l'autorisation d'accéder à Internet.**
 
-La seule exception est facultative : si vous utilisez « Scanner un document », le scanner de documents de Google envoie à Google des informations techniques sur son utilisation (voir « Scanner de documents » ci-dessous).
+Les seules exceptions sont facultatives : si vous utilisez « Scanner un document » ou « Lire les vaccinations », le scanner de documents ou la reconnaissance de texte de Google envoient à Google des informations techniques sur leur utilisation (voir « Scanner de documents et reconnaissance de texte » ci-dessous).
 
 ## Responsable
 
@@ -32,7 +32,7 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
-- Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage. Le seul composant tiers est le scanner de documents de Google, utilisé uniquement lorsque vous choisissez « Scanner un document » (voir ci-dessous).
+- Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage. Les seuls composants tiers sont le scanner de documents et la reconnaissance de texte de Google, utilisés uniquement lorsque vous choisissez « Scanner un document » ou « Lire les vaccinations » (voir ci-dessous).
 - Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le scanner de documents de Google, ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil.
 
 ## Autorisations
@@ -43,9 +43,11 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 
 Le bouton d'appel à côté d'un numéro ouvre votre application Téléphone avec le numéro déjà saisi. Paweo ne passe aucun appel elle-même.
 
-## Scanner de documents
+## Scanner de documents et reconnaissance de texte
 
 « Scanner un document » ouvre le scanner de documents de Google, qui fait partie des services Google Play de votre téléphone. Il détecte les bords de la page et nettoie l'image sur votre appareil ; les pages numérisées reviennent dans Paweo à la fin de la numérisation et ne sont pas envoyées à Google. Les services Google Play peuvent télécharger le scanner lors de sa première utilisation. Pendant que vous l'utilisez, il envoie à Google des informations techniques sur son utilisation : modèle de l'appareil et version d'Android, nom de package et version de Paweo, mesures de performances, codes d'erreur ainsi que des identifiants d'appareil et d'installation, à des fins de diagnostic et de statistiques d'utilisation. Google chiffre ces informations pendant leur transfert et ne les partage pas avec des tiers (déclaration de Google sur les données de ML Kit : developers.google.com/ml-kit/android-data-disclosure). Paweo lui-même n'en reçoit aucune. Si vous préférez l'éviter, ajoutez plutôt des pages avec « Prendre une photo », « Choisir dans la galerie » ou « Choisir un fichier ».
+
+« Lire les vaccinations », sur un document de vaccination, utilise la reconnaissance de texte de Google, qui fait elle aussi partie des services Google Play, pour trouver les noms de vaccins et les dates sur les pages du document. La reconnaissance se fait sur votre appareil : ni les pages ni le texte qui en est lu ne sont envoyés à Google, et rien n'est enregistré avant que vous l'ayez vérifié. Les services Google Play peuvent d'abord télécharger le modèle de reconnaissance. Pendant son fonctionnement, la reconnaissance de texte envoie à Google le même type d'informations techniques que le scanner, aux mêmes conditions. Si vous préférez l'éviter, saisissez les vaccinations à la main.
 
 ## Partager un bilan de santé, une fiche pour le pet-sitter ou un document
 

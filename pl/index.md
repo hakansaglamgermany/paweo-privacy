@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · Polski · [Português](../pt/)
 
-Data wejścia w życie: 9 października 2026 r.
+Data wejścia w życie: 12 października 2026 r.
 
 Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypomnienia, codzienne wpisy, dziennik zdrowia, dokumenty i raporty w formacie PDF. Ta polityka wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
 **W skrócie: wszystko, co wprowadzasz, zostaje na twoim urządzeniu. Paweo nie ma konta, serwerów, reklam, analityki ani śledzenia. Aplikacja nie ma nawet uprawnienia do korzystania z internetu.**
 
-Jedyny wyjątek jest dobrowolny: jeśli użyjesz „Zeskanuj dokument”, skaner dokumentów Google wysyła do Google informacje techniczne o swoim użyciu (patrz „Skaner dokumentów” poniżej).
+Jedyne wyjątki są dobrowolne: jeśli użyjesz „Zeskanuj dokument” lub „Odczytaj szczepienia”, skaner dokumentów lub rozpoznawanie tekstu Google wysyłają do Google informacje techniczne o swoim użyciu (patrz „Skaner dokumentów i rozpoznawanie tekstu” poniżej).
 
 ## Administrator
 
@@ -32,7 +32,7 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (nie ma uprawnienia do internetu).
-- Nie używa reklam, analityki ani raportów o awariach. Jedynym zewnętrznym komponentem jest skaner dokumentów Google, używany tylko wtedy, gdy wybierzesz „Zeskanuj dokument” (patrz poniżej).
+- Nie używa reklam, analityki ani raportów o awariach. Jedynymi zewnętrznymi komponentami są skaner dokumentów i rozpoznawanie tekstu Google, używane tylko wtedy, gdy wybierzesz „Zeskanuj dokument” lub „Odczytaj szczepienia” (patrz poniżej).
 - Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je swoją aplikacją aparatu lub skanerem dokumentów Google albo wybierasz w selektorze zdjęć lub plików Androida i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu.
 
 ## Uprawnienia
@@ -43,9 +43,11 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 
 Przycisk połączenia obok numeru telefonu otwiera aplikację Telefon z wpisanym numerem. Paweo sama nie wykonuje połączeń.
 
-## Skaner dokumentów
+## Skaner dokumentów i rozpoznawanie tekstu
 
 „Zeskanuj dokument” otwiera skaner dokumentów Google, który jest częścią Usług Google Play na twoim telefonie. Wykrywa krawędzie strony i oczyszcza obraz na twoim urządzeniu; zeskanowane strony wracają do Paweo po zakończeniu skanowania i nie są wysyłane do Google. Usługi Google Play mogą pobrać skaner przy pierwszym użyciu. Podczas używania skaner wysyła do Google informacje techniczne o swoim użyciu: model urządzenia i wersję Androida, nazwę pakietu i wersję Paweo, dane o wydajności, kody błędów oraz identyfikatory urządzenia i instalacji, w celach diagnostycznych i do statystyk użycia. Google szyfruje te informacje podczas przesyłania i nie udostępnia ich podmiotom trzecim (informacje Google o danych ML Kit: developers.google.com/ml-kit/android-data-disclosure). Sam Paweo nie otrzymuje żadnej z nich. Jeśli wolisz tego uniknąć, dodawaj strony przez „Zrób zdjęcie”, „Wybierz z galerii” lub „Wybierz plik”.
+
+„Odczytaj szczepienia” w dokumencie szczepień korzysta z rozpoznawania tekstu Google, które również jest częścią Usług Google Play, aby znaleźć nazwy szczepionek i daty na stronach dokumentu. Rozpoznawanie odbywa się na twoim urządzeniu: ani strony, ani odczytany z nich tekst nie są wysyłane do Google i nic nie zostaje zapisane, zanim tego nie sprawdzisz. Usługi Google Play mogą najpierw pobrać model rozpoznawania. Podczas działania rozpoznawanie tekstu wysyła do Google ten sam rodzaj informacji technicznych co skaner, na tych samych warunkach. Jeśli wolisz tego uniknąć, wpisz szczepienia ręcznie.
 
 ## Udostępnianie raportu zdrowia, karty dla opiekuna lub dokumentu
 

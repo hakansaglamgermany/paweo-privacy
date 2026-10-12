@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · Italiano · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Data di entrata in vigore: 9 ottobre 2026
+Data di entrata in vigore: 12 ottobre 2026
 
 Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute, documenti e resoconti in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
 
 **In breve: tutto ciò che inserisci resta sul tuo dispositivo. Paweo non ha account, server, pubblicità, analisi né tracciamento. L'app non ha nemmeno l'autorizzazione ad accedere a Internet.**
 
-L'unica eccezione è facoltativa: se usi «Scansiona documento», lo scanner di documenti di Google invia a Google informazioni tecniche sul suo utilizzo (vedi «Scanner di documenti» più sotto).
+Le uniche eccezioni sono facoltative: se usi «Scansiona documento» o «Leggi le vaccinazioni», lo scanner di documenti o il riconoscimento del testo di Google inviano a Google informazioni tecniche sul loro utilizzo (vedi «Scanner di documenti e riconoscimento del testo» più sotto).
 
 ## Titolare
 
@@ -32,7 +32,7 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 
 - Non crea account e non chiede il tuo nome o il tuo indirizzo email.
 - Non si connette a Internet (non ha l'autorizzazione Internet).
-- Non usa pubblicità, analisi né segnalazioni di arresti anomali. L'unico componente di terze parti è lo scanner di documenti di Google, usato solo quando scegli «Scansiona documento» (vedi sotto).
+- Non usa pubblicità, analisi né segnalazioni di arresti anomali. Gli unici componenti di terze parti sono lo scanner di documenti e il riconoscimento del testo di Google, usati solo quando scegli «Scansiona documento» o «Leggi le vaccinazioni» (vedi sotto).
 - Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la tua app Fotocamera o con lo scanner di documenti di Google, o lo scegli nel selettore di foto o di file di Android, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo.
 
 ## Autorizzazioni
@@ -43,9 +43,11 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 
 Il pulsante di chiamata accanto a un numero apre l'app Telefono con il numero già inserito. Paweo non effettua chiamate da sola.
 
-## Scanner di documenti
+## Scanner di documenti e riconoscimento del testo
 
 «Scansiona documento» apre lo scanner di documenti di Google, che fa parte dei servizi Google Play sul tuo telefono. Trova i bordi della pagina e ripulisce l'immagine sul dispositivo; le pagine scansionate tornano in Paweo quando termini la scansione e non vengono inviate a Google. I servizi Google Play possono scaricare lo scanner al primo utilizzo. Mentre lo usi, invia a Google informazioni tecniche sul suo utilizzo: modello del dispositivo e versione di Android, nome del pacchetto e versione di Paweo, dati sulle prestazioni, codici di errore e identificatori del dispositivo e dell'installazione, per diagnostica e statistiche d'uso. Google cripta queste informazioni durante il trasferimento e non le condivide con terze parti (informativa sui dati di ML Kit di Google: developers.google.com/ml-kit/android-data-disclosure). Paweo non ne riceve nessuna. Se preferisci evitarlo, aggiungi le pagine con «Scatta una foto», «Scegli dalla galleria» o «Scegli un file».
+
+«Leggi le vaccinazioni», in un documento di vaccinazione, usa il riconoscimento del testo di Google, anch'esso parte di Google Play Services, per trovare i nomi dei vaccini e le date nelle pagine del documento. Il riconoscimento avviene sul tuo dispositivo: né le pagine né il testo letto vengono inviati a Google, e nulla viene salvato prima che tu l'abbia controllato. Google Play Services potrebbe prima scaricare il modello di riconoscimento. Mentre funziona, il riconoscimento del testo invia a Google lo stesso tipo di informazioni tecniche dello scanner, alle stesse condizioni. Se preferisci evitarlo, inserisci le vaccinazioni a mano.
 
 ## Condividere un resoconto sanitario, una scheda per il pet sitter o un documento
 

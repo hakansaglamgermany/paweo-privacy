@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · Português
 
-Data de entrada em vigor: 9 de outubro de 2026
+Data de entrada em vigor: 12 de outubro de 2026
 
 O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo diário, um registo de saúde, documentos e relatórios em PDF. Esta política explica o que acontece às informações que insere.
 
 **Em resumo: tudo o que insere fica no seu dispositivo. O Paweo não tem conta, servidores, anúncios, análises nem rastreio. A app nem sequer tem permissão de acesso à internet.**
 
-A única exceção é opcional: se usar "Digitalizar documento", o digitalizador de documentos da Google envia à Google informações técnicas sobre a sua utilização (ver "Digitalizador de documentos" abaixo).
+As únicas exceções são opcionais: se usar "Digitalizar documento" ou "Ler vacinas", o digitalizador de documentos ou o reconhecimento de texto da Google enviam à Google informações técnicas sobre a sua utilização (ver "Digitalizador de documentos e reconhecimento de texto" abaixo).
 
 ## Responsável
 
@@ -32,7 +32,7 @@ Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca
 
 - Não cria nenhuma conta nem pede o seu nome ou e-mail.
 - Não se liga à internet (não tem permissão de internet).
-- Não usa publicidade, análises nem relatórios de falhas. O único componente de terceiros é o digitalizador de documentos da Google, usado apenas quando escolhe "Digitalizar documento" (ver abaixo).
+- Não usa publicidade, análises nem relatórios de falhas. Os únicos componentes de terceiros são o digitalizador de documentos e o reconhecimento de texto da Google, usados apenas quando escolhe "Digitalizar documento" ou "Ler vacinas" (ver abaixo).
 - Não usa o ID de publicidade, a sua localização nem os seus contactos, e não pode usar a câmara nem explorar as suas fotos e ficheiros: se adicionar uma foto do seu animal ou um documento, tira-a com a sua app de câmara ou com o digitalizador de documentos da Google, ou escolhe-a no seletor de fotos ou de ficheiros do Android, e só o que escolher é copiado para o armazenamento da app no seu dispositivo.
 
 ## Permissões
@@ -43,9 +43,11 @@ Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca
 
 O botão de chamada ao lado de um número de telefone abre a app Telefone com o número já escrito. O Paweo não faz chamadas sozinho.
 
-## Digitalizador de documentos
+## Digitalizador de documentos e reconhecimento de texto
 
 "Digitalizar documento" abre o digitalizador de documentos da Google, que faz parte dos Serviços do Google Play no seu telefone. Deteta os limites da página e limpa a imagem no seu dispositivo; as páginas digitalizadas voltam ao Paweo quando termina a digitalização e não são enviadas à Google. Os Serviços do Google Play podem transferir o digitalizador na primeira utilização. Enquanto o usa, envia à Google informações técnicas sobre a sua utilização: modelo do dispositivo e versão do Android, nome do pacote e versão do Paweo, dados de desempenho, códigos de erro e identificadores do dispositivo e da instalação, para diagnóstico e estatísticas de utilização. A Google encripta estas informações durante a transmissão e não as partilha com terceiros (divulgação de dados do ML Kit da Google: developers.google.com/ml-kit/android-data-disclosure). O próprio Paweo não recebe nenhuma delas. Se preferir evitar isto, adicione páginas com "Tirar foto", "Escolher da galeria" ou "Escolher ficheiro".
+
+"Ler vacinas", num documento de vacinação, usa o reconhecimento de texto da Google, que também faz parte dos serviços do Google Play, para encontrar nomes de vacinas e datas nas páginas do documento. O reconhecimento é feito no seu dispositivo: nem as páginas nem o texto lido são enviados à Google, e nada é guardado antes de o verificar. Os serviços do Google Play podem primeiro transferir o modelo de reconhecimento. Enquanto funciona, o reconhecimento de texto envia à Google o mesmo tipo de informações técnicas que o digitalizador, nas mesmas condições. Se preferir evitar isto, introduza as vacinas à mão.
 
 ## Partilhar um relatório de saúde, uma ficha para o cuidador ou um documento
 

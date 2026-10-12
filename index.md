@@ -2,13 +2,13 @@
 
 English · [Deutsch](de/) · [Türkçe](tr/) · [Français](fr/) · [Español](es/) · [Italiano](it/) · [Nederlands](nl/) · [Polski](pl/) · [Português](pt/)
 
-Effective date: October 9, 2026
+Effective date: October 12, 2026
 
 Paweo is an app for keeping track of your pets' care: profiles, reminders, a daily log, a health log, documents and PDF reports. This policy explains what happens to the information you enter.
 
 **In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
 
-The only exception is optional: if you use "Scan document", Google's document scanner sends Google technical information about its use (see "Document scanner" below).
+The only exceptions are optional: if you use "Scan document" or "Read vaccinations", Google's document scanner or text recognition sends Google technical information about its use (see "Document scanner and text recognition" below).
 
 ## Who is responsible
 
@@ -32,7 +32,7 @@ This information never leaves your device through Paweo, and we never receive it
 
 - It does not create an account or ask for your name or email.
 - It does not connect to the internet (it has no internet permission).
-- It does not use advertising, analytics or crash reporting. The only third-party component is Google's document scanner, used only when you choose "Scan document" (see below).
+- It does not use advertising, analytics or crash reporting. The only third-party components are Google's document scanner and text recognition, used only when you choose "Scan document" or "Read vaccinations" (see below).
 - It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos and files: if you add a photo of your pet or a document, you take it with your camera app or Google's document scanner, or pick it in Android's photo picker or file picker, and only what you pick is copied into the app's storage on your device.
 
 ## Permissions
@@ -43,9 +43,11 @@ This information never leaves your device through Paweo, and we never receive it
 
 The call button next to a phone number opens your phone app with the number filled in. Paweo does not place calls itself.
 
-## Document scanner
+## Document scanner and text recognition
 
 "Scan document" opens Google's document scanner, which is part of Google Play services on your phone. It finds the page edges and cleans up the image on your device; the scanned pages come back to Paweo when you finish the scan, and they are not sent to Google. Google Play services may download the scanner the first time you use it. While you use it, it sends Google technical information about its use: device model and Android version, Paweo's package name and version, performance figures, error codes, and device and installation identifiers, for diagnostics and usage statistics. Google encrypts this information in transit and does not share it with third parties (Google's ML Kit data disclosure: developers.google.com/ml-kit/android-data-disclosure). Paweo itself receives none of it. If you'd rather avoid this, add pages with "Take photo", "Choose from gallery" or "Choose a file" instead.
+
+"Read vaccinations" on a vaccination document uses Google's text recognition, also part of Google Play services, to find vaccine names and dates on the document's pages. The recognition runs on your device: neither the pages nor the text read from them are sent to Google, and nothing is saved until you have checked it. Google Play services may download the recognition model first. While it runs, it sends Google the same kind of technical information as the scanner, under the same terms. If you'd rather avoid this, enter vaccinations by hand.
 
 ## Sharing a health report, sitter sheet or document
 

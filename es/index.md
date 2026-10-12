@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · Español · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Fecha de entrada en vigor: 9 de octubre de 2026
+Fecha de entrada en vigor: 12 de octubre de 2026
 
 Paweo es una app para llevar el control del cuidado de tus mascotas: perfiles, recordatorios, un registro diario, un registro de salud, documentos e informes en PDF. Esta política explica qué pasa con la información que introduces.
 
 **En resumen: todo lo que introduces se queda en tu dispositivo. Paweo no tiene cuenta, ni servidores, ni anuncios, ni análisis, ni rastreo. La app ni siquiera tiene permiso para acceder a internet.**
 
-La única excepción es opcional: si usas «Escanear documento», el escáner de documentos de Google envía a Google información técnica sobre su uso (consulta «Escáner de documentos» más abajo).
+Las únicas excepciones son opcionales: si usas «Escanear documento» o «Leer vacunas», el escáner de documentos o el reconocimiento de texto de Google envían a Google información técnica sobre su uso (consulta «Escáner de documentos y reconocimiento de texto» más abajo).
 
 ## Responsable
 
@@ -32,7 +32,7 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 
 - No crea ninguna cuenta ni te pide tu nombre o correo electrónico.
 - No se conecta a internet (no tiene permiso de internet).
-- No usa publicidad, análisis ni informes de fallos. El único componente de terceros es el escáner de documentos de Google, que solo se usa cuando eliges «Escanear documento» (ver más abajo).
+- No usa publicidad, análisis ni informes de fallos. Los únicos componentes de terceros son el escáner de documentos y el reconocimiento de texto de Google, que solo se usan cuando eliges «Escanear documento» o «Leer vacunas» (ver más abajo).
 - No usa el ID de publicidad, tu ubicación ni tus contactos, y no puede usar tu cámara ni explorar tus fotos y archivos: si añades una foto de tu mascota o un documento, lo haces con tu app de cámara o el escáner de documentos de Google, o lo eliges en el selector de fotos o de archivos de Android, y solo lo que eliges se copia en el almacenamiento de la app en tu dispositivo.
 
 ## Permisos
@@ -43,9 +43,11 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 
 El botón de llamada junto a un número de teléfono abre tu app de Teléfono con el número ya escrito. Paweo no hace llamadas por sí misma.
 
-## Escáner de documentos
+## Escáner de documentos y reconocimiento de texto
 
 «Escanear documento» abre el escáner de documentos de Google, que forma parte de los servicios de Google Play de tu teléfono. Detecta los bordes de la página y limpia la imagen en tu dispositivo; las páginas escaneadas vuelven a Paweo cuando terminas el escaneo y no se envían a Google. Los servicios de Google Play pueden descargar el escáner la primera vez que lo usas. Mientras lo usas, envía a Google información técnica sobre su uso: modelo del dispositivo y versión de Android, nombre de paquete y versión de Paweo, datos de rendimiento, códigos de error e identificadores del dispositivo y de la instalación, para diagnóstico y estadísticas de uso. Google cifra esta información durante la transmisión y no la comparte con terceros (declaración de datos de ML Kit de Google: developers.google.com/ml-kit/android-data-disclosure). Paweo no recibe nada de ello. Si prefieres evitarlo, añade las páginas con «Hacer foto», «Elegir de la galería» o «Elegir archivo».
+
+«Leer vacunas», en un documento de vacunación, usa el reconocimiento de texto de Google, que también forma parte de los servicios de Google Play, para encontrar nombres de vacunas y fechas en las páginas del documento. El reconocimiento se hace en tu dispositivo: ni las páginas ni el texto leído de ellas se envían a Google, y no se guarda nada hasta que lo hayas revisado. Los servicios de Google Play pueden descargar primero el modelo de reconocimiento. Mientras funciona, el reconocimiento de texto envía a Google el mismo tipo de información técnica que el escáner, en las mismas condiciones. Si prefieres evitarlo, introduce las vacunas a mano.
 
 ## Compartir un informe de salud, la hoja para el cuidador o un documento
 

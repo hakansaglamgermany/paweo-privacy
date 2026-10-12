@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · Türkçe · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Yürürlük tarihi: 9 Ekim 2026
+Yürürlük tarihi: 12 Ekim 2026
 
 Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü, belgeler ve PDF raporlar. Bu politika, girdiğin bilgilere ne olduğunu açıklıyor.
 
 **Kısacası: Girdiğin her şey cihazında kalır. Paweo'nun hesabı, sunucusu, reklamı, analizi ve takibi yok. Uygulamanın internete erişme izni bile yok.**
 
-Tek istisna isteğe bağlı: "Belge tara"yı kullanırsan Google'ın belge tarayıcısı, kullanımıyla ilgili teknik bilgileri Google'a gönderir (aşağıda "Belge tarayıcı"ya bak).
+Tek istisnalar isteğe bağlı: "Belge tara"yı ya da "Aşıları oku"yu kullanırsan Google'ın belge tarayıcısı ya da metin tanıması, kullanımıyla ilgili teknik bilgileri Google'a gönderir (aşağıda "Belge tarayıcı ve metin tanıma"ya bak).
 
 ## Sorumlu kişi
 
@@ -32,7 +32,7 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
-- Reklam, analiz ya da çökme raporlama kullanmaz. Tek üçüncü taraf bileşen Google'ın belge tarayıcısıdır ve yalnızca "Belge tara"yı seçtiğinde kullanılır (aşağıya bak).
+- Reklam, analiz ya da çökme raporlama kullanmaz. Tek üçüncü taraf bileşenler Google'ın belge tarayıcısı ve metin tanımasıdır; yalnızca "Belge tara"yı ya da "Aşıları oku"yu seçtiğinde kullanılırlar (aşağıya bak).
 - Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla ya da Google'ın belge tarayıcısıyla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır.
 
 ## İzinler
@@ -43,9 +43,11 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 
 Bir telefon numarasının yanındaki arama butonu, numara yazılı olarak telefon uygulamanı açar. Paweo kendisi arama yapmaz.
 
-## Belge tarayıcı
+## Belge tarayıcı ve metin tanıma
 
 "Belge tara", telefonundaki Google Play hizmetlerinin bir parçası olan Google belge tarayıcısını açar. Tarayıcı sayfanın kenarlarını bulur ve görüntüyü cihazında temizler; taranan sayfalar taramayı bitirdiğinde Paweo'ya döner ve Google'a gönderilmez. Google Play hizmetleri tarayıcıyı ilk kullanımda indirebilir. Sen kullanırken tarayıcı, kullanımıyla ilgili teknik bilgileri Google'a gönderir: cihaz modeli ve Android sürümü, Paweo'nun paket adı ve sürümü, performans ölçümleri, hata kodları ile cihaz ve kurulum tanımlayıcıları; amaç hata ayıklama ve kullanım istatistikleri. Google bu bilgileri aktarım sırasında şifreler ve üçüncü taraflarla paylaşmaz (Google'ın ML Kit veri açıklaması: developers.google.com/ml-kit/android-data-disclosure). Paweo'nun kendisi bunların hiçbirini almaz. Bunu istemezsen sayfaları "Fotoğraf çek", "Galeriden seç" ya da "Dosya seç" ile ekle.
+
+Bir aşı belgesindeki "Aşıları oku", belgenin sayfalarında aşı adlarını ve tarihlerini bulmak için Google'ın metin tanımasını kullanır; bu da Google Play hizmetlerinin bir parçasıdır. Tanıma cihazında çalışır: ne sayfalar ne de onlardan okunan metin Google'a gönderilir ve sen kontrol etmeden hiçbir şey kaydedilmez. Google Play hizmetleri önce tanıma modelini indirebilir. Metin tanıma çalışırken Google'a tarayıcıyla aynı türden teknik bilgileri, aynı koşullarla gönderir. Bundan kaçınmak istersen aşıları elle gir.
 
 ## Sağlık raporunu, bakıcı özetini ya da bir belgeyi paylaşmak
 

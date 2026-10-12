@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · Nederlands · [Polski](../pl/) · [Português](../pt/)
 
-Ingangsdatum: 9 oktober 2026
+Ingangsdatum: 12 oktober 2026
 
 Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
 
 **Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
 
-De enige uitzondering is vrijwillig: als je „Document scannen” gebruikt, stuurt de documentscanner van Google technische gegevens over het gebruik naar Google (zie „Documentscanner” hieronder).
+De enige uitzonderingen zijn vrijwillig: als je „Document scannen” of „Vaccinaties uitlezen” gebruikt, sturen de documentscanner of de tekstherkenning van Google technische gegevens over het gebruik naar Google (zie „Documentscanner en tekstherkenning” hieronder).
 
 ## Verantwoordelijke
 
@@ -32,7 +32,7 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
-- Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. Het enige onderdeel van derden is de documentscanner van Google, die alleen wordt gebruikt als je „Document scannen” kiest (zie hieronder).
+- Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. De enige onderdelen van derden zijn de documentscanner en de tekstherkenning van Google, die alleen worden gebruikt als je „Document scannen” of „Vaccinaties uitlezen” kiest (zie hieronder).
 - Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's en bestanden bladeren: als je een foto van je dier of een document toevoegt, maak je die met je camera-app of de documentscanner van Google, of kies je die in de foto- of bestandskiezer van Android, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd.
 
 ## Toestemmingen
@@ -43,9 +43,11 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 
 De belknop naast een telefoonnummer opent je Telefoon-app met het nummer al ingevuld. Paweo belt zelf niet.
 
-## Documentscanner
+## Documentscanner en tekstherkenning
 
 „Document scannen” opent de documentscanner van Google, die deel uitmaakt van Google Play-services op je telefoon. Hij vindt de randen van de pagina en maakt het beeld op je apparaat schoon; de gescande pagina's komen terug in Paweo als je de scan afrondt en worden niet naar Google gestuurd. Google Play-services kan de scanner downloaden als je hem voor het eerst gebruikt. Terwijl je hem gebruikt, stuurt hij technische gegevens over het gebruik naar Google: apparaatmodel en Android-versie, pakketnaam en versie van Paweo, prestatiecijfers, foutcodes en apparaat- en installatie-ID's, voor diagnose en gebruiksstatistieken. Google versleutelt deze gegevens tijdens het verzenden en deelt ze niet met derden (gegevensverklaring van Google voor ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo zelf ontvangt daar niets van. Wil je dat liever niet, voeg pagina's dan toe met „Foto maken”, „Kiezen uit galerij” of „Bestand kiezen”.
+
+„Vaccinaties uitlezen” bij een vaccinatiedocument gebruikt de tekstherkenning van Google, eveneens onderdeel van Google Play-services, om namen van vaccins en datums op de pagina's van het document te vinden. De herkenning gebeurt op je apparaat: de pagina's en de gelezen tekst worden niet naar Google gestuurd, en er wordt niets opgeslagen voordat je het hebt gecontroleerd. Google Play-services downloadt mogelijk eerst het herkenningsmodel. Tijdens het gebruik stuurt de tekstherkenning Google dezelfde soort technische gegevens als de scanner, onder dezelfde voorwaarden. Wil je dat liever vermijden, voer vaccinaties dan met de hand in.
 
 ## Een gezondheidsrapport, oppasblad of document delen
 

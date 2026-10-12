@@ -2,13 +2,13 @@
 
 [English](../) · Deutsch · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Stand: 9. Oktober 2026
+Stand: 12. Oktober 2026
 
 Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Tagebuch, Gesundheitseinträge, Dokumente und PDF-Berichte. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
 
 **Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
 
-Die einzige Ausnahme ist freiwillig: Wenn du „Dokument scannen“ nutzt, sendet der Dokumentenscanner von Google technische Angaben zu seiner Nutzung an Google (siehe „Dokumentenscanner“ unten).
+Die einzigen Ausnahmen sind freiwillig: Wenn du „Dokument scannen“ oder „Impfungen auslesen“ nutzt, senden der Dokumentenscanner bzw. die Texterkennung von Google technische Angaben zu ihrer Nutzung an Google (siehe „Dokumentenscanner und Texterkennung“ unten).
 
 ## Verantwortlicher
 
@@ -32,7 +32,7 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 
 - Sie legt kein Konto an und fragt nicht nach deinem Namen oder deiner E-Mail-Adresse.
 - Sie verbindet sich nicht mit dem Internet (sie hat keine Internetberechtigung).
-- Sie nutzt keine Werbung, keine Analyse und keine Absturzberichte. Die einzige Drittanbieter-Komponente ist der Dokumentenscanner von Google, der nur genutzt wird, wenn du „Dokument scannen“ wählst (siehe unten).
+- Sie nutzt keine Werbung, keine Analyse und keine Absturzberichte. Die einzigen Drittanbieter-Komponenten sind der Dokumentenscanner und die Texterkennung von Google, die nur genutzt werden, wenn du „Dokument scannen“ oder „Impfungen auslesen“ wählst (siehe unten).
 - Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und kann weder deine Kamera nutzen noch deine Fotos und Dateien durchsuchen: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit deiner Kamera-App oder dem Dokumentenscanner von Google auf oder wählst es in der Foto- oder Dateiauswahl von Android aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert.
 
 ## Berechtigungen
@@ -43,9 +43,11 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 
 Die Anruftaste neben einer Telefonnummer öffnet deine Telefon-App mit der eingetragenen Nummer. Paweo führt selbst keine Anrufe aus.
 
-## Dokumentenscanner
+## Dokumentenscanner und Texterkennung
 
 „Dokument scannen“ öffnet den Dokumentenscanner von Google, der zu den Google Play-Diensten auf deinem Smartphone gehört. Er erkennt die Seitenränder und bereinigt das Bild auf deinem Gerät; die gescannten Seiten kommen zu Paweo zurück, wenn du den Scan abschließt, und werden nicht an Google gesendet. Die Google Play-Dienste laden den Scanner eventuell bei der ersten Nutzung herunter. Während du ihn nutzt, sendet er technische Angaben zu seiner Nutzung an Google: Gerätemodell und Android-Version, Paketname und Version von Paweo, Leistungswerte, Fehlercodes sowie Geräte- und Installationskennungen, zur Fehleranalyse und für Nutzungsstatistiken. Google verschlüsselt diese Angaben bei der Übertragung und gibt sie nicht an Dritte weiter (Datenoffenlegung von Google zu ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo selbst erhält davon nichts. Wenn du das vermeiden möchtest, füge Seiten stattdessen mit „Foto aufnehmen“, „Aus der Galerie wählen“ oder „Datei auswählen“ hinzu.
+
+„Impfungen auslesen“ bei einem Impfdokument nutzt die Texterkennung von Google, ebenfalls Teil der Google Play-Dienste, um Impfstoffnamen und Daten auf den Seiten des Dokuments zu finden. Die Erkennung läuft auf deinem Gerät: Weder die Seiten noch der daraus gelesene Text werden an Google gesendet, und nichts wird gespeichert, bevor du es geprüft hast. Die Google Play-Dienste laden das Erkennungsmodell eventuell zuerst herunter. Während die Texterkennung läuft, sendet sie Google dieselbe Art technischer Angaben wie der Scanner, zu denselben Bedingungen. Wenn du das vermeiden möchtest, trag Impfungen von Hand ein.
 
 ## Einen Gesundheitsbericht, ein Betreuungsblatt oder ein Dokument teilen
 
