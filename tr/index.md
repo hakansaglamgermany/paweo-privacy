@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · Türkçe · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Yürürlük tarihi: 12 Ekim 2026
+Yürürlük tarihi: 13 Ekim 2026
 
 Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü, belgeler ve PDF raporlar. Bu politika, girdiğin bilgilere ne olduğunu açıklıyor.
 
@@ -23,8 +23,10 @@ Uygulama yalnızca senin girdiklerini, cihazındaki bir veritabanında saklar:
 - **Eklediğin iletişim bilgileri:** kendi telefon numaran, veterinerinin ya da kliniğin adı ve telefon numarası.
 - **Hatırlatıcılar:** türü, başlığı, zamanlaması ve ne zaman yapıldı olarak işaretlediğin.
 - **Günlük kayıtlar:** yürüyüş, mama, çiş ve kaka, kusma ya da ishal gibi belirtiler, ilaç ve notlar; her biri kaydettiğin saatle birlikte.
-- **Sağlık günlüğü:** kilo kayıtları, vücut kondisyonu skorları ve notlar.
+- **Sağlık günlüğü:** kilo kayıtları, vücut kondisyonu skorları, vücut ısısı, kaydın bir veteriner ziyareti olup olmadığı ve notlar.
 - **Belgeler:** hayvanına eklediğin fotoğraflar ve PDF'ler (örneğin aşı karnesi, tahlil sonuçları ya da faturalar), onlara verdiğin başlık, tür, tarih ve notla birlikte.
+- **Albüm:** hayvanının albümüne eklediğin fotoğraflar, her biri çekildiği günle birlikte.
+- **Mama:** evindeki mamalar ve ne kadar kaldığı, her mama hatırlatıcısının porsiyonu ve kaydettiğin bir öğünün miktarı.
 
 Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ulaşmaz. Onları göremez, erişemez ve geri getiremeyiz.
 
@@ -33,7 +35,7 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (internet izni yoktur).
 - Reklam, analiz ya da çökme raporlama kullanmaz. Tek üçüncü taraf bileşenler Google'ın belge tarayıcısı ve metin tanımasıdır; yalnızca "Belge tara"yı ya da "Aşıları oku"yu seçtiğinde kullanılırlar (aşağıya bak).
-- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla ya da Google'ın belge tarayıcısıyla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır.
+- Reklam kimliğini, konumunu ya da rehberini kullanmaz; kamerana erişemez, fotoğraflarına ve dosyalarına göz atamaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamera uygulamanla ya da Google'ın belge tarayıcısıyla çekersin ya da Android'in fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır. Albüm fotoğrafları da aynı yolla eklenir.
 
 ## İzinler
 
@@ -61,15 +63,15 @@ Ana ekranına bir Paweo widget'ı eklersen, widget orada hayvanlarının adları
 
 ## Yedekler
 
-Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin. Belgeler de dahildir. Android'in bulut yedeği uygulama başına en fazla 25 MB tutar ve Paweo'nun verileri daha büyükse yedeğini tümden atlar; bu yüzden çok sayıda büyük belge varsa bir yedek dosyası da sakla (aşağıya bak).
+Cihaz ayarlarında yedekleme açıksa Android, uygulamanın verilerini Google hesabındaki cihaz yedeğine ekleyebilir; böylece veriler yeni bir telefona geri yüklenebilir. Paweo buna yalnızca yedek, cihazının ekran kilidiyle (PIN, desen ya da şifre) uçtan uca şifrelendiğinde izin verir; ekran kilidi yoksa uygulamanın verileri buluta yedeklenmez. Bu şekilde şifrelenen yedeği ne biz, ne Google, ne de başka biri okuyabilir. Yeni bir telefonu kurarken verileri doğrudan da aktarabilirsin. Yedeklemeyi cihaz ayarlarından kapatabilirsin. Belgeler de dahildir. Android'in bulut yedeği uygulama başına en fazla 25 MB tutar ve Paweo'nun verileri daha büyükse yedeğini tümden atlar; bu yüzden çok sayıda büyük belge varsa bir yedek dosyası da sakla (aşağıya bak). Albümün fotoğrafları bu alanı kısa sürede dolduracağı için bulut yedeğine alınmaz; yeni telefona doğrudan aktarımda ve yedek dosyasında taşınır.
 
 ## Verilerini dışa aktarma
 
-Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini, fotoğraflarını ve belgelerini senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Parolayla korursan dosya şifrelenir (AES-256) ve yalnızca o parolayla açılabilir; parolayı biz hiçbir zaman görmeyiz ve kurtaramayız. Parola koymazsan dosya şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer.
+Uygulamadaki "Yedekle ve geri yükle", dostlarının bütün verilerini, fotoğraflarını ve belgelerini senin seçtiğin bir yerde, örneğin Google Drive'da ya da bilgisayarında, tek bir dosyaya kaydeder ve böyle bir dosyadan bu ya da başka bir telefonda geri yükleyebilir. Dosya yalnızca sen istediğinde oluşturulur ve bize hiçbir zaman ulaşmaz. Parolayla korursan dosya şifrelenir (AES-256) ve yalnızca o parolayla açılabilir; parolayı biz hiçbir zaman görmeyiz ve kurtaramayız. Parola koymazsan dosya şifreli değildir, bu yüzden güvenli bir yerde sakla. Bir dosyayı geri yüklemek, uygulamadaki verilerin yerine geçer. Albümün fotoğrafları da dosyaya dahildir.
 
 ## Veriler ne kadar saklanır ve nasıl silinir
 
-Verilerin sen silene kadar cihazında kalır. Uygulamada bir hayvanı (hatırlatıcıları, günlük kayıtları, sağlık günlüğü ve belgeleriyle birlikte) silebilir, Android ayarlarından uygulamanın verilerini temizleyebilir ya da uygulamayı kaldırabilirsin. Cihaz yedeğindeki kopyalar yedekleme ayarlarına göre davranır.
+Verilerin sen silene kadar cihazında kalır. Uygulamada bir hayvanı (hatırlatıcıları, günlük kayıtları, sağlık günlüğü ve belgeleriyle birlikte) silebilir, Android ayarlarından uygulamanın verilerini temizleyebilir ya da uygulamayı kaldırabilirsin. Cihaz yedeğindeki kopyalar yedekleme ayarlarına göre davranır. Bir hayvanı silince albümü de silinir.
 
 ## Hakların
 

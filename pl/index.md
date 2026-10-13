@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · Polski · [Português](../pt/)
 
-Data wejścia w życie: 12 października 2026 r.
+Data wejścia w życie: 13 października 2026 r.
 
 Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypomnienia, codzienne wpisy, dziennik zdrowia, dokumenty i raporty w formacie PDF. Ta polityka wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
@@ -23,8 +23,10 @@ Aplikacja zapisuje tylko to, co sam w niej wpiszesz, w bazie danych na twoim urz
 - **Dodane kontakty:** twój numer telefonu oraz nazwa i numer telefonu twojego weterynarza lub kliniki.
 - **Przypomnienia:** ich rodzaj, tytuł, harmonogram i to, kiedy oznaczono je jako wykonane.
 - **Codzienne wpisy:** spacery, posiłki, siku i kupa, objawy takie jak wymioty czy biegunka, leki i notatki, wraz z godziną wpisu.
-- **Dziennik zdrowia:** pomiary wagi, oceny kondycji ciała i notatki.
+- **Dziennik zdrowia:** pomiary wagi, oceny kondycji ciała, temperatury ciała, informacja, czy wpis był wizytą u weterynarza, oraz notatki.
 - **Dokumenty:** zdjęcia i pliki PDF, które dodajesz do zwierzęcia, na przykład książeczka szczepień, wyniki badań lub faktury, wraz z nadanym przez ciebie tytułem, rodzajem, datą i notatką.
+- **Album:** zdjęcia, które dodajesz do albumu zwierzęcia, każde z dniem, w którym zostało zrobione.
+- **Karma:** karma w twoim domu i ile jej zostało, porcja każdego przypomnienia o karmieniu oraz ilość zapisanego posiłku.
 
 Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo i nigdy ich nie otrzymujemy. Nie możemy ich zobaczyć, uzyskać do nich dostępu ani ich odzyskać.
 
@@ -33,7 +35,7 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (nie ma uprawnienia do internetu).
 - Nie używa reklam, analityki ani raportów o awariach. Jedynymi zewnętrznymi komponentami są skaner dokumentów i rozpoznawanie tekstu Google, używane tylko wtedy, gdy wybierzesz „Zeskanuj dokument” lub „Odczytaj szczepienia” (patrz poniżej).
-- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je swoją aplikacją aparatu lub skanerem dokumentów Google albo wybierasz w selektorze zdjęć lub plików Androida i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu.
+- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie może korzystać z aparatu ani przeglądać twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je swoją aplikacją aparatu lub skanerem dokumentów Google albo wybierasz w selektorze zdjęć lub plików Androida i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu. Zdjęcia do albumu dodaje się w ten sam sposób.
 
 ## Uprawnienia
 
@@ -61,15 +63,15 @@ Jeśli dodasz widżet Paweo do ekranu głównego, pokazuje on tam imiona twoich 
 
 ## Kopie zapasowe
 
-Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie może odczytać nikt: ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia. Dokumenty również są uwzględniane. Kopia Androida w chmurze mieści najwyżej 25 MB na aplikację i całkowicie pomija kopię Paweo, jeśli dane są większe, dlatego przy wielu dużych dokumentach przechowuj też plik kopii zapasowej (patrz poniżej).
+Jeśli w ustawieniach urządzenia włączona jest kopia zapasowa, Android może dołączyć dane aplikacji do kopii zapasowej urządzenia na twoim koncie Google, aby można je było przywrócić na nowym telefonie. Paweo pozwala na to tylko wtedy, gdy kopia jest szyfrowana end-to-end blokadą ekranu twojego urządzenia (PIN, wzór lub hasło); bez blokady ekranu dane aplikacji nie trafiają do kopii w chmurze. Tak zaszyfrowanej kopii nie może odczytać nikt: ani my, ani Google, ani nikt inny. Podczas konfiguracji nowego telefonu możesz też przenieść dane bezpośrednio. Kopię zapasową możesz wyłączyć w ustawieniach urządzenia. Dokumenty również są uwzględniane. Kopia Androida w chmurze mieści najwyżej 25 MB na aplikację i całkowicie pomija kopię Paweo, jeśli dane są większe, dlatego przy wielu dużych dokumentach przechowuj też plik kopii zapasowej (patrz poniżej). Zdjęcia z albumu nie trafiają do kopii w chmurze, bo szybko zapełniłyby to miejsce; przenoszą się przy bezpośrednim przenoszeniu danych na nowy telefon i w pliku kopii zapasowej.
 
 ## Eksport danych
 
-W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane, zdjęcia i dokumenty twoich zwierząt w jednym pliku, w wybranym przez ciebie miejscu, na przykład na Dysku Google lub komputerze, i może je przywrócić z takiego pliku na tym lub innym telefonie. Plik powstaje tylko na twoje żądanie i nigdy go nie otrzymujemy. Jeśli zabezpieczysz go hasłem, zostanie zaszyfrowany (AES-256) i da się go otworzyć tylko tym hasłem, którego nigdy nie widzimy i nie możemy odzyskać. Bez hasła plik nie jest zaszyfrowany, więc przechowuj go w bezpiecznym miejscu. Przywrócenie pliku zastępuje dane w aplikacji.
+W aplikacji opcja „Kopia zapasowa i przywracanie” zapisuje wszystkie dane, zdjęcia i dokumenty twoich zwierząt w jednym pliku, w wybranym przez ciebie miejscu, na przykład na Dysku Google lub komputerze, i może je przywrócić z takiego pliku na tym lub innym telefonie. Plik powstaje tylko na twoje żądanie i nigdy go nie otrzymujemy. Jeśli zabezpieczysz go hasłem, zostanie zaszyfrowany (AES-256) i da się go otworzyć tylko tym hasłem, którego nigdy nie widzimy i nie możemy odzyskać. Bez hasła plik nie jest zaszyfrowany, więc przechowuj go w bezpiecznym miejscu. Przywrócenie pliku zastępuje dane w aplikacji. Zdjęcia z albumu są w nim zawarte.
 
 ## Jak długo przechowywane są dane i jak je usunąć
 
-Twoje dane zostają na urządzeniu, dopóki ich nie usuniesz. Możesz usunąć zwierzę (razem z jego przypomnieniami, codziennymi wpisami, dziennikiem zdrowia i dokumentami) w aplikacji, wyczyścić dane aplikacji w ustawieniach Androida albo odinstalować aplikację. Kopie w kopii zapasowej urządzenia podlegają twoim ustawieniom kopii zapasowej.
+Twoje dane zostają na urządzeniu, dopóki ich nie usuniesz. Możesz usunąć zwierzę (razem z jego przypomnieniami, codziennymi wpisami, dziennikiem zdrowia i dokumentami) w aplikacji, wyczyścić dane aplikacji w ustawieniach Androida albo odinstalować aplikację. Kopie w kopii zapasowej urządzenia podlegają twoim ustawieniom kopii zapasowej. Usunięcie zwierzęcia usuwa też jego album.
 
 ## Twoje prawa
 

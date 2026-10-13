@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · Português
 
-Data de entrada em vigor: 12 de outubro de 2026
+Data de entrada em vigor: 13 de outubro de 2026
 
 O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo diário, um registo de saúde, documentos e relatórios em PDF. Esta política explica o que acontece às informações que insere.
 
@@ -23,8 +23,10 @@ A app guarda apenas o que escreve nela, numa base de dados no seu dispositivo:
 - **Contactos que adiciona:** o seu número de telefone e o nome e telefone do seu veterinário ou clínica.
 - **Lembretes:** o tipo, o título, o horário e quando os marcou como feitos.
 - **Registo diário:** passeios, refeições, xixi e cocó, sintomas como vómitos ou diarreia, medicamentos e notas, com a hora em que os registou.
-- **Registo de saúde:** pesos, avaliações da condição corporal e notas.
+- **Registo de saúde:** pesos, avaliações da condição corporal, temperaturas corporais, se uma entrada foi uma visita ao veterinário e notas.
 - **Documentos:** fotos e PDF que adiciona a um animal, por exemplo o boletim de vacinas, resultados de análises ou faturas, com o título, o tipo, a data e a nota que lhes der.
+- **Álbum:** as fotos que adiciona ao álbum de um animal, cada uma com o dia em que foi tirada.
+- **Comida:** a comida que tem em casa e quanto resta, a porção de cada lembrete de refeição e a quantidade de uma refeição que regista.
 
 Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca as recebemos. Não podemos vê-las, consultá-las nem recuperá-las.
 
@@ -33,7 +35,7 @@ Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca
 - Não cria nenhuma conta nem pede o seu nome ou e-mail.
 - Não se liga à internet (não tem permissão de internet).
 - Não usa publicidade, análises nem relatórios de falhas. Os únicos componentes de terceiros são o digitalizador de documentos e o reconhecimento de texto da Google, usados apenas quando escolhe "Digitalizar documento" ou "Ler vacinas" (ver abaixo).
-- Não usa o ID de publicidade, a sua localização nem os seus contactos, e não pode usar a câmara nem explorar as suas fotos e ficheiros: se adicionar uma foto do seu animal ou um documento, tira-a com a sua app de câmara ou com o digitalizador de documentos da Google, ou escolhe-a no seletor de fotos ou de ficheiros do Android, e só o que escolher é copiado para o armazenamento da app no seu dispositivo.
+- Não usa o ID de publicidade, a sua localização nem os seus contactos, e não pode usar a câmara nem explorar as suas fotos e ficheiros: se adicionar uma foto do seu animal ou um documento, tira-a com a sua app de câmara ou com o digitalizador de documentos da Google, ou escolhe-a no seletor de fotos ou de ficheiros do Android, e só o que escolher é copiado para o armazenamento da app no seu dispositivo. As fotos do álbum entram da mesma forma.
 
 ## Permissões
 
@@ -61,15 +63,15 @@ Se adicionar um widget do Paweo à página inicial do telefone, o widget mostra 
 
 ## Cópias de segurança
 
-Se a cópia de segurança estiver ativada nas definições do dispositivo, o Android pode incluir os dados da app na cópia de segurança do dispositivo na sua conta Google, para que possam ser restaurados num telefone novo. O Paweo só o permite quando a cópia está encriptada de ponta a ponta com o bloqueio do seu dispositivo (PIN, padrão ou palavra-passe); sem bloqueio do dispositivo, os dados da app não são copiados para a nuvem. Encriptada desta forma, a cópia não pode ser lida por nós, pela Google nem por mais ninguém. Também pode transferir os dados diretamente para um telefone novo ao configurá-lo. Pode desativar a cópia de segurança nas definições do dispositivo. Os documentos também são incluídos. A cópia na nuvem do Android guarda no máximo 25 MB por app e ignora por completo a cópia do Paweo se os dados forem maiores; por isso, com muitos documentos grandes, guarde também um ficheiro de cópia de segurança (ver abaixo).
+Se a cópia de segurança estiver ativada nas definições do dispositivo, o Android pode incluir os dados da app na cópia de segurança do dispositivo na sua conta Google, para que possam ser restaurados num telefone novo. O Paweo só o permite quando a cópia está encriptada de ponta a ponta com o bloqueio do seu dispositivo (PIN, padrão ou palavra-passe); sem bloqueio do dispositivo, os dados da app não são copiados para a nuvem. Encriptada desta forma, a cópia não pode ser lida por nós, pela Google nem por mais ninguém. Também pode transferir os dados diretamente para um telefone novo ao configurá-lo. Pode desativar a cópia de segurança nas definições do dispositivo. Os documentos também são incluídos. A cópia na nuvem do Android guarda no máximo 25 MB por app e ignora por completo a cópia do Paweo se os dados forem maiores; por isso, com muitos documentos grandes, guarde também um ficheiro de cópia de segurança (ver abaixo). As fotos do álbum ficam fora da cópia na nuvem, porque depressa encheriam esse espaço; seguem na transferência direta para um telemóvel novo e num ficheiro de cópia de segurança.
 
 ## Exportar os seus dados
 
-Na app, "Cópia de segurança e restauro" guarda todos os dados, fotos e documentos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Se o proteger com uma palavra-passe, é encriptado (AES-256) e só pode ser aberto com essa palavra-passe, que nunca vemos nem conseguimos recuperar. Sem palavra-passe, o ficheiro não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app.
+Na app, "Cópia de segurança e restauro" guarda todos os dados, fotos e documentos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Se o proteger com uma palavra-passe, é encriptado (AES-256) e só pode ser aberto com essa palavra-passe, que nunca vemos nem conseguimos recuperar. Sem palavra-passe, o ficheiro não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app. As fotos do álbum estão incluídas.
 
 ## Durante quanto tempo os dados são guardados e como os apagar
 
-Os seus dados ficam no dispositivo até os apagar. Pode eliminar um animal (com os seus lembretes, o seu registo diário, o seu registo de saúde e os seus documentos) na app, limpar os dados da app nas definições do Android ou desinstalar a app. Os dados incluídos numa cópia de segurança do dispositivo seguem as suas definições de cópia de segurança.
+Os seus dados ficam no dispositivo até os apagar. Pode eliminar um animal (com os seus lembretes, o seu registo diário, o seu registo de saúde e os seus documentos) na app, limpar os dados da app nas definições do Android ou desinstalar a app. Os dados incluídos numa cópia de segurança do dispositivo seguem as suas definições de cópia de segurança. Eliminar um animal elimina também o seu álbum.
 
 ## Os seus direitos
 

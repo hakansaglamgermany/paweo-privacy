@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · Español · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Fecha de entrada en vigor: 12 de octubre de 2026
+Fecha de entrada en vigor: 13 de octubre de 2026
 
 Paweo es una app para llevar el control del cuidado de tus mascotas: perfiles, recordatorios, un registro diario, un registro de salud, documentos e informes en PDF. Esta política explica qué pasa con la información que introduces.
 
@@ -23,8 +23,10 @@ La app guarda solo lo que escribes en ella, en una base de datos de tu dispositi
 - **Contactos que añades:** tu número de teléfono y el nombre y teléfono de tu veterinario o clínica.
 - **Recordatorios:** su tipo, título, programación y cuándo los marcaste como hechos.
 - **Registro diario:** paseos, comidas, pis y caca, síntomas como vómitos o diarrea, medicación y notas, con la hora en que los registraste.
-- **Registro de salud:** pesos, valoraciones de la condición corporal y notas.
+- **Registro de salud:** pesos, valoraciones de la condición corporal, temperaturas corporales, si una entrada fue una visita al veterinario y notas.
 - **Documentos:** fotos y PDF que añades a una mascota, como la cartilla de vacunación, resultados de análisis o facturas, con el título, el tipo, la fecha y la nota que les pongas.
+- **Álbum:** las fotos que añades al álbum de una mascota, cada una con el día en que se hizo.
+- **Comida:** la comida de tu casa y cuánto queda, la ración de cada recordatorio de comida y la cantidad de una comida que registras.
 
 Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nunca la recibimos. No podemos verla, acceder a ella ni recuperarla.
 
@@ -33,7 +35,7 @@ Esta información nunca sale de tu dispositivo a través de Paweo y nosotros nun
 - No crea ninguna cuenta ni te pide tu nombre o correo electrónico.
 - No se conecta a internet (no tiene permiso de internet).
 - No usa publicidad, análisis ni informes de fallos. Los únicos componentes de terceros son el escáner de documentos y el reconocimiento de texto de Google, que solo se usan cuando eliges «Escanear documento» o «Leer vacunas» (ver más abajo).
-- No usa el ID de publicidad, tu ubicación ni tus contactos, y no puede usar tu cámara ni explorar tus fotos y archivos: si añades una foto de tu mascota o un documento, lo haces con tu app de cámara o el escáner de documentos de Google, o lo eliges en el selector de fotos o de archivos de Android, y solo lo que eliges se copia en el almacenamiento de la app en tu dispositivo.
+- No usa el ID de publicidad, tu ubicación ni tus contactos, y no puede usar tu cámara ni explorar tus fotos y archivos: si añades una foto de tu mascota o un documento, lo haces con tu app de cámara o el escáner de documentos de Google, o lo eliges en el selector de fotos o de archivos de Android, y solo lo que eliges se copia en el almacenamiento de la app en tu dispositivo. Las fotos del álbum llegan de la misma forma.
 
 ## Permisos
 
@@ -61,15 +63,15 @@ Si añades un widget de Paweo a tu pantalla de inicio, muestra allí los nombres
 
 ## Copias de seguridad
 
-Si la copia de seguridad está activada en los ajustes de tu dispositivo, Android puede incluir los datos de la app en la copia de seguridad del dispositivo en tu cuenta de Google, para poder restaurarlos en un teléfono nuevo. Paweo solo lo permite cuando la copia está cifrada de extremo a extremo con el bloqueo de pantalla de tu dispositivo (PIN, patrón o contraseña); sin bloqueo de pantalla, los datos de la app no se guardan en la nube. Cifrada así, la copia no la podemos leer ni nosotros, ni Google, ni nadie más. También puedes pasar los datos directamente a un teléfono nuevo al configurarlo. Puedes desactivar la copia de seguridad en los ajustes de tu dispositivo. Los documentos también se incluyen. La copia en la nube de Android guarda como máximo 25 MB por app y omite por completo la copia de Paweo si sus datos ocupan más, así que, si tienes muchos documentos grandes, guarda también un archivo de copia de seguridad (ver más abajo).
+Si la copia de seguridad está activada en los ajustes de tu dispositivo, Android puede incluir los datos de la app en la copia de seguridad del dispositivo en tu cuenta de Google, para poder restaurarlos en un teléfono nuevo. Paweo solo lo permite cuando la copia está cifrada de extremo a extremo con el bloqueo de pantalla de tu dispositivo (PIN, patrón o contraseña); sin bloqueo de pantalla, los datos de la app no se guardan en la nube. Cifrada así, la copia no la podemos leer ni nosotros, ni Google, ni nadie más. También puedes pasar los datos directamente a un teléfono nuevo al configurarlo. Puedes desactivar la copia de seguridad en los ajustes de tu dispositivo. Los documentos también se incluyen. La copia en la nube de Android guarda como máximo 25 MB por app y omite por completo la copia de Paweo si sus datos ocupan más, así que, si tienes muchos documentos grandes, guarda también un archivo de copia de seguridad (ver más abajo). Las fotos del álbum quedan fuera de la copia en la nube, porque pronto llenarían ese espacio; se llevan en la transferencia directa a un teléfono nuevo y en un archivo de copia de seguridad.
 
 ## Exportar tus datos
 
-En la app, «Copia de seguridad y restauración» guarda todos los datos, fotos y documentos de tus mascotas en un solo archivo, en el lugar que elijas, por ejemplo Google Drive o tu ordenador, y puede restaurarlos desde ese archivo en este u otro teléfono. El archivo solo se crea cuando tú lo pides y nosotros nunca lo recibimos. Si lo proteges con una contraseña, se cifra (AES-256) y solo se puede abrir con esa contraseña, que nosotros nunca vemos ni podemos recuperar. Sin contraseña, el archivo no está cifrado, así que guárdalo en un lugar seguro. Restaurar un archivo sustituye los datos de la app.
+En la app, «Copia de seguridad y restauración» guarda todos los datos, fotos y documentos de tus mascotas en un solo archivo, en el lugar que elijas, por ejemplo Google Drive o tu ordenador, y puede restaurarlos desde ese archivo en este u otro teléfono. El archivo solo se crea cuando tú lo pides y nosotros nunca lo recibimos. Si lo proteges con una contraseña, se cifra (AES-256) y solo se puede abrir con esa contraseña, que nosotros nunca vemos ni podemos recuperar. Sin contraseña, el archivo no está cifrado, así que guárdalo en un lugar seguro. Restaurar un archivo sustituye los datos de la app. Las fotos del álbum se incluyen.
 
 ## Cuánto tiempo se guardan los datos y cómo borrarlos
 
-Tus datos se quedan en tu dispositivo hasta que los borres. Puedes eliminar una mascota (junto con sus recordatorios, su registro diario, su registro de salud y sus documentos) en la app, borrar los datos de la app en los ajustes de Android o desinstalar la app. Los datos incluidos en una copia de seguridad del dispositivo se rigen por tus ajustes de copia de seguridad.
+Tus datos se quedan en tu dispositivo hasta que los borres. Puedes eliminar una mascota (junto con sus recordatorios, su registro diario, su registro de salud y sus documentos) en la app, borrar los datos de la app en los ajustes de Android o desinstalar la app. Los datos incluidos en una copia de seguridad del dispositivo se rigen por tus ajustes de copia de seguridad. Al eliminar una mascota también se elimina su álbum.
 
 ## Tus derechos
 

@@ -2,7 +2,7 @@
 
 English · [Deutsch](de/) · [Türkçe](tr/) · [Français](fr/) · [Español](es/) · [Italiano](it/) · [Nederlands](nl/) · [Polski](pl/) · [Português](pt/)
 
-Effective date: October 12, 2026
+Effective date: October 13, 2026
 
 Paweo is an app for keeping track of your pets' care: profiles, reminders, a daily log, a health log, documents and PDF reports. This policy explains what happens to the information you enter.
 
@@ -23,8 +23,10 @@ The app stores only what you type into it, in a database on your device:
 - **Contacts you add:** your phone number, and your vet's or clinic's name and phone number.
 - **Reminders:** their type, title, schedule, and when you marked them as done.
 - **Daily log:** walks, meals, pee and poop, symptoms such as vomiting or diarrhea, medication and notes, with the time you logged them.
-- **Health log:** weight entries, body condition scores and notes.
+- **Health log:** weight entries, body condition scores, body temperatures, whether an entry was a vet visit, and notes.
 - **Documents:** photos and PDFs you add to a pet, such as a vaccination card, lab results or invoices, with the title, type, date and note you give them.
+- **Album:** photos you add to a pet's album, each with the day it was taken.
+- **Food:** the foods in your house with how much is left, the portion of each feeding reminder and the amount of a meal you log.
 
 This information never leaves your device through Paweo, and we never receive it. We cannot see, access or recover it.
 
@@ -33,7 +35,7 @@ This information never leaves your device through Paweo, and we never receive it
 - It does not create an account or ask for your name or email.
 - It does not connect to the internet (it has no internet permission).
 - It does not use advertising, analytics or crash reporting. The only third-party components are Google's document scanner and text recognition, used only when you choose "Scan document" or "Read vaccinations" (see below).
-- It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos and files: if you add a photo of your pet or a document, you take it with your camera app or Google's document scanner, or pick it in Android's photo picker or file picker, and only what you pick is copied into the app's storage on your device.
+- It does not use the advertising ID, your location or your contacts, and it can't use your camera or browse your photos and files: if you add a photo of your pet or a document, you take it with your camera app or Google's document scanner, or pick it in Android's photo picker or file picker, and only what you pick is copied into the app's storage on your device. Album photos come in the same way.
 
 ## Permissions
 
@@ -61,15 +63,15 @@ If you add a Paweo widget to your home screen, it shows your pets' names and tod
 
 ## Backups
 
-If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings. Documents are included too. Android's cloud backup holds at most 25 MB per app and skips Paweo's backup entirely if its data is larger, so with many large documents, also keep a backup file (see below).
+If backup is turned on in your device settings, Android may include the app's data in your device backup in your Google account, so it can be restored on a new phone. Paweo allows this only when the backup is end-to-end encrypted with your device's screen lock (PIN, pattern or password); without a screen lock, the app's data is not backed up to the cloud. Encrypted this way, the backup can't be read by us, by Google or by anyone else. You can also move the data directly to a new phone when you set it up. You can turn backup off in your device settings. Documents are included too. Android's cloud backup holds at most 25 MB per app and skips Paweo's backup entirely if its data is larger, so with many large documents, also keep a backup file (see below). The album's photos are left out of the cloud backup, since they would soon fill this space; they move with the direct transfer to a new phone and in a backup file.
 
 ## Exporting your data
 
-In the app, "Back up and restore" saves all your pets' data, photos and documents into one file in a place you choose, for example Google Drive or your computer, and can restore them from such a file on this or another phone. The file is created only when you ask for it, and we never receive it. If you protect it with a password, it is encrypted (AES-256) and can only be opened with that password, which we never see and can't recover. Without a password the file is not encrypted, so keep it somewhere safe. Restoring a file replaces the data in the app.
+In the app, "Back up and restore" saves all your pets' data, photos and documents into one file in a place you choose, for example Google Drive or your computer, and can restore them from such a file on this or another phone. The file is created only when you ask for it, and we never receive it. If you protect it with a password, it is encrypted (AES-256) and can only be opened with that password, which we never see and can't recover. Without a password the file is not encrypted, so keep it somewhere safe. Restoring a file replaces the data in the app. The album's photos are included.
 
 ## How long data is kept, and how to delete it
 
-Your data stays on your device until you delete it. You can delete a pet (together with its reminders, daily log, health log and documents) in the app, clear the app's data in Android settings, or uninstall the app. Copies in a device backup follow your backup settings.
+Your data stays on your device until you delete it. You can delete a pet (together with its reminders, daily log, health log and documents) in the app, clear the app's data in Android settings, or uninstall the app. Copies in a device backup follow your backup settings. Deleting a pet also deletes its album.
 
 ## Your rights
 

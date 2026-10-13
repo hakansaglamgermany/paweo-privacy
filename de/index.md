@@ -2,7 +2,7 @@
 
 [English](../) · Deutsch · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Stand: 12. Oktober 2026
+Stand: 13. Oktober 2026
 
 Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Tagebuch, Gesundheitseinträge, Dokumente und PDF-Berichte. Diese Erklärung beschreibt, was mit den Angaben passiert, die du eingibst.
 
@@ -23,8 +23,10 @@ Die App speichert nur, was du selbst eingibst, in einer Datenbank auf deinem Ger
 - **Kontakte, die du hinzufügst:** deine Telefonnummer sowie Name und Telefonnummer deines Tierarztes oder deiner Tierklinik.
 - **Erinnerungen:** Art, Titel, Zeitplan und wann du sie als erledigt markiert hast.
 - **Tagebuch:** Gassirunden, Futter, Pipi und Kot, Symptome wie Erbrechen oder Durchfall, Medikamente und Notizen, jeweils mit der Uhrzeit, zu der du sie erfasst hast.
-- **Gesundheitseinträge:** Gewichtseinträge, Angaben zur Körperkondition und Notizen.
+- **Gesundheitseinträge:** Gewichtseinträge, Angaben zur Körperkondition, Körpertemperaturen, ob ein Eintrag ein Tierarztbesuch war, und Notizen.
 - **Dokumente:** Fotos und PDFs, die du einem Tier hinzufügst, zum Beispiel Impfpass, Laborbefunde oder Rechnungen, mit dem Titel, der Art, dem Datum und der Notiz, die du ihnen gibst.
+- **Album:** Fotos, die du dem Album eines Tiers hinzufügst, jeweils mit dem Tag der Aufnahme.
+- **Futter:** das Futter in deinem Haushalt mit dem Vorrat, die Portion jeder Fütterungserinnerung und die Menge einer erfassten Mahlzeit.
 
 Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. Wir können sie weder einsehen noch abrufen oder wiederherstellen.
 
@@ -33,7 +35,7 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 - Sie legt kein Konto an und fragt nicht nach deinem Namen oder deiner E-Mail-Adresse.
 - Sie verbindet sich nicht mit dem Internet (sie hat keine Internetberechtigung).
 - Sie nutzt keine Werbung, keine Analyse und keine Absturzberichte. Die einzigen Drittanbieter-Komponenten sind der Dokumentenscanner und die Texterkennung von Google, die nur genutzt werden, wenn du „Dokument scannen“ oder „Impfungen auslesen“ wählst (siehe unten).
-- Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und kann weder deine Kamera nutzen noch deine Fotos und Dateien durchsuchen: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit deiner Kamera-App oder dem Dokumentenscanner von Google auf oder wählst es in der Foto- oder Dateiauswahl von Android aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert.
+- Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und kann weder deine Kamera nutzen noch deine Fotos und Dateien durchsuchen: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit deiner Kamera-App oder dem Dokumentenscanner von Google auf oder wählst es in der Foto- oder Dateiauswahl von Android aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert. Fotos fürs Album kommen auf dieselbe Weise hinein.
 
 ## Berechtigungen
 
@@ -61,15 +63,15 @@ Wenn du ein Paweo-Widget auf deinem Startbildschirm hinzufügst, zeigt es dort d
 
 ## Sicherungen
 
-Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten. Dokumente sind ebenfalls enthalten. Die Cloud-Sicherung von Android speichert höchstens 25 MB pro App und lässt die Sicherung von Paweo ganz aus, wenn die Daten größer sind; bewahre bei vielen großen Dokumenten daher zusätzlich eine Sicherungsdatei auf (siehe unten).
+Wenn die Sicherung in deinen Geräteeinstellungen aktiviert ist, kann Android die Daten der App in die Gerätesicherung in deinem Google-Konto aufnehmen, damit sie auf einem neuen Smartphone wiederhergestellt werden können. Paweo erlaubt das nur, wenn die Sicherung mit der Displaysperre deines Geräts (PIN, Muster oder Passwort) Ende-zu-Ende-verschlüsselt ist; ohne Displaysperre werden die Daten der App nicht in der Cloud gesichert. So verschlüsselt kann die Sicherung weder von uns noch von Google noch von anderen gelesen werden. Du kannst die Daten bei der Einrichtung eines neuen Smartphones auch direkt übertragen. Die Sicherung kannst du in den Geräteeinstellungen abschalten. Dokumente sind ebenfalls enthalten. Die Cloud-Sicherung von Android speichert höchstens 25 MB pro App und lässt die Sicherung von Paweo ganz aus, wenn die Daten größer sind; bewahre bei vielen großen Dokumenten daher zusätzlich eine Sicherungsdatei auf (siehe unten). Die Fotos des Albums sind nicht in der Cloud-Sicherung, weil sie diesen Platz bald füllen würden; sie wandern bei der direkten Übertragung auf ein neues Smartphone und in einer Sicherungsdatei mit.
 
 ## Deine Daten exportieren
 
-In der App speichert „Sichern und wiederherstellen“ alle Daten, Fotos und Dokumente deiner Tiere in einer Datei an einem Ort deiner Wahl, zum Beispiel in Google Drive oder auf deinem Computer, und kann sie aus einer solchen Datei auf diesem oder einem anderen Smartphone wiederherstellen. Die Datei entsteht nur, wenn du das möchtest, und wir erhalten sie nie. Wenn du sie mit einem Passwort schützt, wird sie verschlüsselt (AES-256) und lässt sich nur mit diesem Passwort öffnen, das wir nie sehen und nicht wiederherstellen können. Ohne Passwort ist die Datei nicht verschlüsselt, bewahre sie also sicher auf. Beim Wiederherstellen werden die Daten in der App ersetzt.
+In der App speichert „Sichern und wiederherstellen“ alle Daten, Fotos und Dokumente deiner Tiere in einer Datei an einem Ort deiner Wahl, zum Beispiel in Google Drive oder auf deinem Computer, und kann sie aus einer solchen Datei auf diesem oder einem anderen Smartphone wiederherstellen. Die Datei entsteht nur, wenn du das möchtest, und wir erhalten sie nie. Wenn du sie mit einem Passwort schützt, wird sie verschlüsselt (AES-256) und lässt sich nur mit diesem Passwort öffnen, das wir nie sehen und nicht wiederherstellen können. Ohne Passwort ist die Datei nicht verschlüsselt, bewahre sie also sicher auf. Beim Wiederherstellen werden die Daten in der App ersetzt. Die Fotos des Albums sind darin enthalten.
 
 ## Wie lange Daten gespeichert werden und wie du sie löschst
 
-Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App ein Tier löschen (zusammen mit seinen Erinnerungen, seinem Tagebuch, seinen Gesundheitseinträgen und Dokumenten), die Daten der App in den Android-Einstellungen löschen oder die App deinstallieren. Kopien in einer Gerätesicherung richten sich nach deinen Sicherungseinstellungen.
+Deine Daten bleiben auf deinem Gerät, bis du sie löschst. Du kannst in der App ein Tier löschen (zusammen mit seinen Erinnerungen, seinem Tagebuch, seinen Gesundheitseinträgen und Dokumenten), die Daten der App in den Android-Einstellungen löschen oder die App deinstallieren. Kopien in einer Gerätesicherung richten sich nach deinen Sicherungseinstellungen. Wenn du ein Tier löschst, wird auch sein Album gelöscht.
 
 ## Deine Rechte
 

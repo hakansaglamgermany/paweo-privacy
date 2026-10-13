@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · Français · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Date d'entrée en vigueur : 12 octobre 2026
+Date d'entrée en vigueur : 13 octobre 2026
 
 Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé, documents et rapports PDF. Cette politique explique ce que deviennent les informations que vous saisissez.
 
@@ -23,8 +23,10 @@ L'application enregistre uniquement ce que vous y saisissez, dans une base de do
 - **Contacts que vous ajoutez :** votre numéro de téléphone, ainsi que le nom et le numéro de votre vétérinaire ou de votre clinique.
 - **Rappels :** leur type, leur titre, leur programmation et le moment où vous les avez marqués comme faits.
 - **Suivi quotidien :** promenades, repas, pipi et selles, symptômes comme les vomissements ou la diarrhée, médicaments et notes, avec l'heure à laquelle vous les avez saisis.
-- **Suivi santé :** poids, évaluations de l'état corporel et notes.
+- **Suivi santé :** poids, évaluations de l'état corporel, températures corporelles, le fait qu'une entrée soit une visite chez le vétérinaire, et notes.
 - **Documents :** photos et PDF que vous ajoutez à un animal, par exemple un carnet de vaccination, des résultats d'analyses ou des factures, avec le titre, le type, la date et la note que vous leur donnez.
+- **Album :** les photos que vous ajoutez à l'album d'un animal, chacune avec le jour où elle a été prise.
+- **Nourriture :** les nourritures de la maison et ce qu'il en reste, la portion de chaque rappel de repas et la quantité d'un repas que vous notez.
 
 Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo, et nous ne les recevons jamais. Nous ne pouvons ni les voir, ni y accéder, ni les récupérer.
 
@@ -33,7 +35,7 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (elle n'a pas l'autorisation Internet).
 - Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage. Les seuls composants tiers sont le scanner de documents et la reconnaissance de texte de Google, utilisés uniquement lorsque vous choisissez « Scanner un document » ou « Lire les vaccinations » (voir ci-dessous).
-- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le scanner de documents de Google, ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil.
+- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne peut ni utiliser votre appareil photo ni parcourir vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec votre application Appareil photo ou le scanner de documents de Google, ou le choisissez dans le sélecteur de photos ou de fichiers d'Android, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil. Les photos de l'album arrivent de la même façon.
 
 ## Autorisations
 
@@ -61,15 +63,15 @@ Si vous ajoutez un widget Paweo à votre écran d'accueil, il y affiche le nom d
 
 ## Sauvegardes
 
-Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil. Les documents sont également inclus. La sauvegarde cloud d'Android conserve au plus 25 Mo par application et ignore entièrement la sauvegarde de Paweo si ses données dépassent cette taille ; si vous avez beaucoup de documents volumineux, conservez donc aussi un fichier de sauvegarde (voir ci-dessous).
+Si la sauvegarde est activée dans les paramètres de votre appareil, Android peut inclure les données de l'application dans la sauvegarde de votre appareil dans votre compte Google, afin de les restaurer sur un nouveau téléphone. Paweo ne l'autorise que si la sauvegarde est chiffrée de bout en bout avec le verrouillage de l'écran de votre appareil (code PIN, schéma ou mot de passe) ; sans verrouillage de l'écran, les données de l'application ne sont pas sauvegardées dans le cloud. Chiffrée de cette façon, la sauvegarde ne peut être lue ni par nous, ni par Google, ni par personne d'autre. Vous pouvez aussi transférer les données directement sur un nouveau téléphone lors de sa configuration. Vous pouvez désactiver la sauvegarde dans les paramètres de votre appareil. Les documents sont également inclus. La sauvegarde cloud d'Android conserve au plus 25 Mo par application et ignore entièrement la sauvegarde de Paweo si ses données dépassent cette taille ; si vous avez beaucoup de documents volumineux, conservez donc aussi un fichier de sauvegarde (voir ci-dessous). Les photos de l'album sont exclues de la sauvegarde cloud, car elles rempliraient vite cet espace ; elles suivent lors du transfert direct vers un nouveau téléphone et dans un fichier de sauvegarde.
 
 ## Exporter vos données
 
-Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données, photos et documents de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Si vous le protégez par un mot de passe, il est chiffré (AES-256) et ne peut être ouvert qu'avec ce mot de passe, que nous ne voyons jamais et ne pouvons pas récupérer. Sans mot de passe, le fichier n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application.
+Dans l'application, « Sauvegarder et restaurer » enregistre toutes les données, photos et documents de vos animaux dans un seul fichier, à l'endroit de votre choix, par exemple Google Drive ou votre ordinateur, et peut les restaurer à partir d'un tel fichier sur ce téléphone ou un autre. Le fichier n'est créé qu'à votre demande, et nous ne le recevons jamais. Si vous le protégez par un mot de passe, il est chiffré (AES-256) et ne peut être ouvert qu'avec ce mot de passe, que nous ne voyons jamais et ne pouvons pas récupérer. Sans mot de passe, le fichier n'est pas chiffré : conservez-le en lieu sûr. La restauration d'un fichier remplace les données de l'application. Les photos de l'album y sont incluses.
 
 ## Durée de conservation et suppression
 
-Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels, son suivi quotidien, son suivi santé et ses documents) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde.
+Vos données restent sur votre appareil jusqu'à ce que vous les supprimiez. Vous pouvez supprimer un animal (avec ses rappels, son suivi quotidien, son suivi santé et ses documents) dans l'application, effacer les données de l'application dans les paramètres d'Android ou désinstaller l'application. Les copies présentes dans une sauvegarde de l'appareil suivent vos paramètres de sauvegarde. Supprimer un animal supprime aussi son album.
 
 ## Vos droits
 
