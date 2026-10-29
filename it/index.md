@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · Italiano · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Data di entrata in vigore: 13 ottobre 2026
+Data di entrata in vigore: 29 ottobre 2026
 
-Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute, documenti e resoconti in PDF. Questa informativa spiega cosa succede alle informazioni che inserisci.
+Paweo è un'app per seguire la cura dei tuoi animali: profili, promemoria, un diario giornaliero, un diario della salute, documenti e resoconti in PDF. È disponibile per Android e per iPhone; questa informativa riguarda entrambi e indica dove differiscono. Spiega cosa succede alle informazioni che inserisci.
 
 **In breve: tutto ciò che inserisci resta sul tuo dispositivo. Paweo non ha account, server, pubblicità, analisi né tracciamento. L'app non ha nemmeno l'autorizzazione ad accedere a Internet.**
 
-Le uniche eccezioni sono facoltative: se usi «Scansiona documento» o «Leggi le vaccinazioni», lo scanner di documenti o il riconoscimento del testo di Google inviano a Google informazioni tecniche sul loro utilizzo (vedi «Scanner di documenti e riconoscimento del testo» più sotto).
+Le uniche eccezioni sono facoltative e solo su Android: se usi «Scansiona documento» o «Leggi le vaccinazioni», lo scanner di documenti o il riconoscimento del testo di Google inviano a Google informazioni tecniche sul loro utilizzo (vedi «Scanner di documenti e riconoscimento del testo» più sotto). Su iPhone lo scanner di documenti non invia nulla.
 
 ## Titolare
 
@@ -33,45 +33,59 @@ Queste informazioni non lasciano mai il tuo dispositivo tramite Paweo e noi non 
 ## Cosa non fa l'app
 
 - Non crea account e non chiede il tuo nome o il tuo indirizzo email.
-- Non si connette a Internet (non ha l'autorizzazione Internet).
-- Non usa pubblicità, analisi né segnalazioni di arresti anomali. Gli unici componenti di terze parti sono lo scanner di documenti e il riconoscimento del testo di Google, usati solo quando scegli «Scansiona documento» o «Leggi le vaccinazioni» (vedi sotto).
-- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non può usare la fotocamera né sfogliare le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la tua app Fotocamera o con lo scanner di documenti di Google, o lo scegli nel selettore di foto o di file di Android, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo. Le foto dell'album arrivano allo stesso modo.
+- Non si connette a Internet (su Android non ha l'autorizzazione Internet; su iPhone non effettua connessioni di rete).
+- Non usa pubblicità, analisi né segnalazioni di arresti anomali. Su Android, gli unici componenti di terze parti sono lo scanner di documenti e il riconoscimento del testo di Google, usati solo quando scegli «Scansiona documento» o «Leggi le vaccinazioni» (vedi sotto). Su iPhone non ce n'è nessuno che invii qualcosa.
+- Non usa l'ID pubblicità, la tua posizione o i tuoi contatti, e non sfoglia le tue foto e i tuoi file: se aggiungi una foto del tuo animale o un documento, lo scatti con la fotocamera o con lo scanner di documenti, o lo scegli nel selettore di foto o di file del sistema, e solo ciò che scegli viene copiato nello spazio dell'app sul tuo dispositivo. Le foto dell'album arrivano allo stesso modo.
 
 ## Autorizzazioni
 
+Su entrambi:
+
 - **Notifiche:** per mostrare i tuoi promemoria.
+
+Su Android:
+
 - **Sveglie e promemoria (sveglie esatte):** perché i promemoria arrivino all'ora impostata. Puoi disattivare questa autorizzazione nelle impostazioni del dispositivo; in quel caso i promemoria possono arrivare più tardi.
 - **Avvio all'accensione:** dopo il riavvio del dispositivo l'app reimposta i tuoi promemoria, perché Android cancella le sveglie programmate al riavvio.
+
+Su iPhone:
+
+- **Fotocamera:** richiesta la prima volta che scatti la foto del tuo animale o scansioni un documento. L'immagine resta sul tuo dispositivo.
+- **Aggiorna app in background:** iOS può riattivare l'app di tanto in tanto per impostare i tuoi prossimi promemoria, perché ne conserva solo un numero limitato alla volta. Non viene inviato nulla. Puoi disattivarlo nelle impostazioni del dispositivo; in quel caso i promemoria vengono impostati ogni volta che apri l'app.
 
 Il pulsante di chiamata accanto a un numero apre l'app Telefono con il numero già inserito. Paweo non effettua chiamate da sola.
 
 ## Scanner di documenti e riconoscimento del testo
 
-«Scansiona documento» apre lo scanner di documenti di Google, che fa parte dei servizi Google Play sul tuo telefono. Trova i bordi della pagina e ripulisce l'immagine sul dispositivo; le pagine scansionate tornano in Paweo quando termini la scansione e non vengono inviate a Google. I servizi Google Play possono scaricare lo scanner al primo utilizzo. Mentre lo usi, invia a Google informazioni tecniche sul suo utilizzo: modello del dispositivo e versione di Android, nome del pacchetto e versione di Paweo, dati sulle prestazioni, codici di errore e identificatori del dispositivo e dell'installazione, per diagnostica e statistiche d'uso. Google cripta queste informazioni durante il trasferimento e non le condivide con terze parti (informativa sui dati di ML Kit di Google: developers.google.com/ml-kit/android-data-disclosure). Paweo non ne riceve nessuna. Se preferisci evitarlo, aggiungi le pagine con «Scatta una foto», «Scegli dalla galleria» o «Scegli un file».
+Su iPhone, «Scansiona documento» apre lo scanner di documenti di Apple, che fa parte di iOS. Trova i bordi della pagina e ripulisce l'immagine sul dispositivo, e le pagine scansionate tornano in Paweo; lo scanner non invia nulla né ad Apple né a noi. «Leggi le vaccinazioni» non è ancora disponibile su iPhone.
 
-«Leggi le vaccinazioni», in un documento di vaccinazione, usa il riconoscimento del testo di Google, anch'esso parte di Google Play Services, per trovare i nomi dei vaccini e le date nelle pagine del documento. Il riconoscimento avviene sul tuo dispositivo: né le pagine né il testo letto vengono inviati a Google, e nulla viene salvato prima che tu l'abbia controllato. Google Play Services potrebbe prima scaricare il modello di riconoscimento. Mentre funziona, il riconoscimento del testo invia a Google lo stesso tipo di informazioni tecniche dello scanner, alle stesse condizioni. Se preferisci evitarlo, inserisci le vaccinazioni a mano.
+Su Android, «Scansiona documento» apre lo scanner di documenti di Google, che fa parte dei servizi Google Play sul tuo telefono. Trova i bordi della pagina e ripulisce l'immagine sul dispositivo; le pagine scansionate tornano in Paweo quando termini la scansione e non vengono inviate a Google. I servizi Google Play possono scaricare lo scanner al primo utilizzo. Mentre lo usi, invia a Google informazioni tecniche sul suo utilizzo: modello del dispositivo e versione di Android, nome del pacchetto e versione di Paweo, dati sulle prestazioni, codici di errore e identificatori del dispositivo e dell'installazione, per diagnostica e statistiche d'uso. Google cripta queste informazioni durante il trasferimento e non le condivide con terze parti (informativa sui dati di ML Kit di Google: developers.google.com/ml-kit/android-data-disclosure). Paweo non ne riceve nessuna. Se preferisci evitarlo, aggiungi le pagine con «Scatta una foto», «Scegli dalla galleria» o «Scegli un file».
+
+Su Android, «Leggi le vaccinazioni», in un documento di vaccinazione, usa il riconoscimento del testo di Google, anch'esso parte di Google Play Services, per trovare i nomi dei vaccini e le date nelle pagine del documento. Il riconoscimento avviene sul tuo dispositivo: né le pagine né il testo letto vengono inviati a Google, e nulla viene salvato prima che tu l'abbia controllato. Google Play Services potrebbe prima scaricare il modello di riconoscimento. Mentre funziona, il riconoscimento del testo invia a Google lo stesso tipo di informazioni tecniche dello scanner, alle stesse condizioni. Se preferisci evitarlo, inserisci le vaccinazioni a mano.
 
 ## Condividere un resoconto sanitario, una scheda per il pet sitter o un documento
 
-Quando tocchi "Condividi il resoconto sanitario" o "Scheda per il pet sitter", l'app crea un PDF sul tuo dispositivo e apre il menu di condivisione di Android. Il PDF va solo dove scegli di inviarlo, per esempio al tuo veterinario o al tuo pet sitter via email. Da quel momento, l'app o la persona con cui lo hai condiviso lo gestisce secondo le proprie condizioni. Il PDF resta nella memoria temporanea dell'app, che Android può svuotare in qualsiasi momento.
+Quando tocchi "Condividi il resoconto sanitario", "Scheda per il pet sitter" o "Cartello animale smarrito", l'app crea un PDF sul tuo dispositivo e apre il menu di condivisione del sistema. Il PDF va solo dove scegli di inviarlo, per esempio al tuo veterinario o al tuo pet sitter via email. Da quel momento, l'app o la persona con cui lo hai condiviso lo gestisce secondo le proprie condizioni. Il PDF resta nella memoria temporanea dell'app, che il sistema può svuotare in qualsiasi momento.
 
 Quando condividi un documento, l'app mette copie delle sue pagine nella stessa memoria temporanea e apre il menu di condivisione; anche queste vanno solo dove scegli di inviarle.
 
 ## Widget nella schermata Home
 
-Se aggiungi un widget di Paweo alla schermata Home, lì compaiono i nomi dei tuoi animali e i promemoria di oggi o i conteggi del diario giornaliero, quindi chiunque veda il tuo schermo sbloccato può vederli. I widget leggono i dati sul tuo dispositivo; non viene inviato nulla.
+I widget di Paweo sono disponibili su Android. Se aggiungi un widget di Paweo alla schermata Home, lì compaiono i nomi dei tuoi animali e i promemoria di oggi o i conteggi del diario giornaliero, quindi chiunque veda il tuo schermo sbloccato può vederli. I widget leggono i dati sul tuo dispositivo; non viene inviato nulla.
 
 ## Backup
 
-Se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo. Anche i documenti sono inclusi. Il backup nel cloud di Android conserva al massimo 25 MB per app e salta del tutto il backup di Paweo se i dati occupano di più; con molti documenti grandi, conserva quindi anche un file di backup (vedi sotto). Le foto dell'album restano fuori dal backup nel cloud, perché riempirebbero presto quello spazio; passano con il trasferimento diretto a un nuovo telefono e in un file di backup.
+Su Android: se il backup è attivo nelle impostazioni del dispositivo, Android può includere i dati dell'app nel backup del dispositivo nel tuo account Google, per poterli ripristinare su un nuovo telefono. Paweo lo consente solo quando il backup è crittografato end-to-end con il blocco schermo del dispositivo (PIN, sequenza o password); senza blocco schermo, i dati dell'app non vengono salvati nel cloud. Crittografato in questo modo, il backup non può essere letto né da noi, né da Google, né da nessun altro. Puoi anche trasferire i dati direttamente su un nuovo telefono durante la configurazione. Puoi disattivare il backup nelle impostazioni del dispositivo. Anche i documenti sono inclusi. Il backup nel cloud di Android conserva al massimo 25 MB per app e salta del tutto il backup di Paweo se i dati occupano di più; con molti documenti grandi, conserva quindi anche un file di backup (vedi sotto). Le foto dell'album restano fuori dal backup nel cloud, perché riempirebbero presto quello spazio; passano con il trasferimento diretto a un nuovo telefono e in un file di backup.
+
+Su iPhone: se Backup di iCloud è attivo nelle impostazioni del dispositivo, iOS include i dati dell'app (il database, le foto degli animali, i documenti e le foto dell'album) nel tuo backup di iCloud, per poterli ripristinare su un nuovo iPhone. Apple crittografa i backup di iCloud; se attivi la Protezione avanzata dei dati nel tuo account Apple, sono crittografati end-to-end e solo i tuoi dispositivi possono leggerli. A differenza di Android, l'app non può sapere se è attiva, quindi non limita il backup. Noi non riceviamo mai questo backup. Puoi disattivare Backup di iCloud nelle impostazioni del dispositivo, oppure conservare invece un file di backup (vedi sotto).
 
 ## Esportare i tuoi dati
 
-Nell'app, "Backup e ripristino" salva tutti i dati, le foto e i documenti dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Se lo proteggi con una password, viene crittografato (AES-256) e si può aprire solo con quella password, che non vediamo mai e non possiamo recuperare. Senza password il file non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app. Le foto dell'album sono incluse.
+Nell'app, "Backup e ripristino" salva tutti i dati, le foto e i documenti dei tuoi animali in un unico file, nel posto che scegli, per esempio Google Drive, iCloud Drive o il computer, e può ripristinarli da un file del genere su questo o su un altro telefono. Il file è lo stesso su Android e su iPhone, quindi permette anche di trasferire i tuoi dati dall'uno all'altro. Il file viene creato solo quando lo chiedi e noi non lo riceviamo mai. Se lo proteggi con una password, viene crittografato (AES-256) e si può aprire solo con quella password, che non vediamo mai e non possiamo recuperare. Senza password il file non è crittografato, quindi conservalo in un luogo sicuro. Il ripristino di un file sostituisce i dati nell'app. Le foto dell'album sono incluse.
 
 ## Per quanto tempo restano i dati e come eliminarli
 
-I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria, al suo diario giornaliero, al suo diario della salute e ai suoi documenti) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup. Eliminando un animale si elimina anche il suo album.
+I tuoi dati restano sul dispositivo finché non li elimini. Puoi eliminare un animale (insieme ai suoi promemoria, al suo diario giornaliero, al suo diario della salute e ai suoi documenti) nell'app, cancellare i dati dell'app nelle impostazioni di Android o disinstallare (su iPhone: eliminare) l'app. Le copie in un backup del dispositivo seguono le tue impostazioni di backup. Eliminando un animale si elimina anche il suo album.
 
 ## I tuoi diritti
 

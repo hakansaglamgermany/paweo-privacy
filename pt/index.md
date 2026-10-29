@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · Português
 
-Data de entrada em vigor: 13 de outubro de 2026
+Data de entrada em vigor: 29 de outubro de 2026
 
-O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo diário, um registo de saúde, documentos e relatórios em PDF. Esta política explica o que acontece às informações que insere.
+O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo diário, um registo de saúde, documentos e relatórios em PDF. Está disponível para Android e para iPhone; esta política abrange ambos e indica onde diferem. Explica o que acontece às informações que insere.
 
 **Em resumo: tudo o que insere fica no seu dispositivo. O Paweo não tem conta, servidores, anúncios, análises nem rastreio. A app nem sequer tem permissão de acesso à internet.**
 
-As únicas exceções são opcionais: se usar "Digitalizar documento" ou "Ler vacinas", o digitalizador de documentos ou o reconhecimento de texto da Google enviam à Google informações técnicas sobre a sua utilização (ver "Digitalizador de documentos e reconhecimento de texto" abaixo).
+As únicas exceções são opcionais e apenas no Android: se usar "Digitalizar documento" ou "Ler vacinas", o digitalizador de documentos ou o reconhecimento de texto da Google enviam à Google informações técnicas sobre a sua utilização (ver "Digitalizador de documentos e reconhecimento de texto" abaixo). No iPhone, o digitalizador de documentos não envia nada.
 
 ## Responsável
 
@@ -33,45 +33,59 @@ Estas informações nunca saem do seu dispositivo através do Paweo e nós nunca
 ## O que a app não faz
 
 - Não cria nenhuma conta nem pede o seu nome ou e-mail.
-- Não se liga à internet (não tem permissão de internet).
-- Não usa publicidade, análises nem relatórios de falhas. Os únicos componentes de terceiros são o digitalizador de documentos e o reconhecimento de texto da Google, usados apenas quando escolhe "Digitalizar documento" ou "Ler vacinas" (ver abaixo).
-- Não usa o ID de publicidade, a sua localização nem os seus contactos, e não pode usar a câmara nem explorar as suas fotos e ficheiros: se adicionar uma foto do seu animal ou um documento, tira-a com a sua app de câmara ou com o digitalizador de documentos da Google, ou escolhe-a no seletor de fotos ou de ficheiros do Android, e só o que escolher é copiado para o armazenamento da app no seu dispositivo. As fotos do álbum entram da mesma forma.
+- Não se liga à internet (no Android não tem permissão de internet; no iPhone não faz nenhuma ligação de rede).
+- Não usa publicidade, análises nem relatórios de falhas. No Android, os únicos componentes de terceiros são o digitalizador de documentos e o reconhecimento de texto da Google, usados apenas quando escolhe "Digitalizar documento" ou "Ler vacinas" (ver abaixo). No iPhone não há nenhum que envie seja o que for.
+- Não usa o ID de publicidade, a sua localização nem os seus contactos, e não explora as suas fotos e ficheiros: se adicionar uma foto do seu animal ou um documento, tira-a com a câmara ou com o digitalizador de documentos, ou escolhe-a no seletor de fotos ou de ficheiros do sistema, e só o que escolher é copiado para o armazenamento da app no seu dispositivo. As fotos do álbum entram da mesma forma.
 
 ## Permissões
 
+Em ambos:
+
 - **Notificações:** para mostrar os seus lembretes.
+
+No Android:
+
 - **Alarmes e lembretes (alarmes exatos):** para que os lembretes cheguem à hora definida. Pode desativar esta opção nas definições do dispositivo; os lembretes podem então chegar mais tarde.
 - **Executar ao iniciar:** depois de o dispositivo reiniciar, a app volta a programar os seus lembretes, porque o Android apaga os alarmes programados ao reiniciar.
+
+No iPhone:
+
+- **Câmara:** pedida na primeira vez que tira uma foto do seu animal ou digitaliza um documento. A imagem fica no seu dispositivo.
+- **Atualização em segundo plano:** o iOS pode ativar a app de vez em quando para programar os seus próximos lembretes, já que só guarda um número limitado deles de cada vez. Nada é enviado. Pode desativar esta opção nas definições do dispositivo; os lembretes passam então a ser programados sempre que abrir a app.
 
 O botão de chamada ao lado de um número de telefone abre a app Telefone com o número já escrito. O Paweo não faz chamadas sozinho.
 
 ## Digitalizador de documentos e reconhecimento de texto
 
-"Digitalizar documento" abre o digitalizador de documentos da Google, que faz parte dos Serviços do Google Play no seu telefone. Deteta os limites da página e limpa a imagem no seu dispositivo; as páginas digitalizadas voltam ao Paweo quando termina a digitalização e não são enviadas à Google. Os Serviços do Google Play podem transferir o digitalizador na primeira utilização. Enquanto o usa, envia à Google informações técnicas sobre a sua utilização: modelo do dispositivo e versão do Android, nome do pacote e versão do Paweo, dados de desempenho, códigos de erro e identificadores do dispositivo e da instalação, para diagnóstico e estatísticas de utilização. A Google encripta estas informações durante a transmissão e não as partilha com terceiros (divulgação de dados do ML Kit da Google: developers.google.com/ml-kit/android-data-disclosure). O próprio Paweo não recebe nenhuma delas. Se preferir evitar isto, adicione páginas com "Tirar foto", "Escolher da galeria" ou "Escolher ficheiro".
+No iPhone, "Digitalizar documento" abre o digitalizador de documentos da Apple, que faz parte do iOS. Deteta os limites da página e limpa a imagem no seu dispositivo, e as páginas digitalizadas voltam ao Paweo; o digitalizador não envia nada à Apple nem a nós. "Ler vacinas" ainda não está disponível no iPhone.
 
-"Ler vacinas", num documento de vacinação, usa o reconhecimento de texto da Google, que também faz parte dos serviços do Google Play, para encontrar nomes de vacinas e datas nas páginas do documento. O reconhecimento é feito no seu dispositivo: nem as páginas nem o texto lido são enviados à Google, e nada é guardado antes de o verificar. Os serviços do Google Play podem primeiro transferir o modelo de reconhecimento. Enquanto funciona, o reconhecimento de texto envia à Google o mesmo tipo de informações técnicas que o digitalizador, nas mesmas condições. Se preferir evitar isto, introduza as vacinas à mão.
+No Android, "Digitalizar documento" abre o digitalizador de documentos da Google, que faz parte dos Serviços do Google Play no seu telefone. Deteta os limites da página e limpa a imagem no seu dispositivo; as páginas digitalizadas voltam ao Paweo quando termina a digitalização e não são enviadas à Google. Os Serviços do Google Play podem transferir o digitalizador na primeira utilização. Enquanto o usa, envia à Google informações técnicas sobre a sua utilização: modelo do dispositivo e versão do Android, nome do pacote e versão do Paweo, dados de desempenho, códigos de erro e identificadores do dispositivo e da instalação, para diagnóstico e estatísticas de utilização. A Google encripta estas informações durante a transmissão e não as partilha com terceiros (divulgação de dados do ML Kit da Google: developers.google.com/ml-kit/android-data-disclosure). O próprio Paweo não recebe nenhuma delas. Se preferir evitar isto, adicione páginas com "Tirar foto", "Escolher da galeria" ou "Escolher ficheiro".
+
+No Android, "Ler vacinas", num documento de vacinação, usa o reconhecimento de texto da Google, que também faz parte dos serviços do Google Play, para encontrar nomes de vacinas e datas nas páginas do documento. O reconhecimento é feito no seu dispositivo: nem as páginas nem o texto lido são enviados à Google, e nada é guardado antes de o verificar. Os serviços do Google Play podem primeiro transferir o modelo de reconhecimento. Enquanto funciona, o reconhecimento de texto envia à Google o mesmo tipo de informações técnicas que o digitalizador, nas mesmas condições. Se preferir evitar isto, introduza as vacinas à mão.
 
 ## Partilhar um relatório de saúde, uma ficha para o cuidador ou um documento
 
-Quando toca em "Partilhar relatório de saúde" ou "Ficha para o cuidador", a app cria um PDF no seu dispositivo e abre o menu de partilha do Android. O PDF vai apenas para onde escolher enviá-lo, por exemplo para o seu veterinário ou para o cuidador do seu animal por e-mail. A partir daí, a app ou a pessoa com quem o partilhou trata-o segundo as suas próprias condições. O PDF fica no armazenamento temporário da app, que o Android pode limpar a qualquer momento.
+Quando toca em "Partilhar relatório de saúde", "Ficha para o cuidador" ou "Cartaz de animal perdido", a app cria um PDF no seu dispositivo e abre o menu de partilha do sistema. O PDF vai apenas para onde escolher enviá-lo, por exemplo para o seu veterinário ou para o cuidador do seu animal por e-mail. A partir daí, a app ou a pessoa com quem o partilhou trata-o segundo as suas próprias condições. O PDF fica no armazenamento temporário da app, que o sistema pode limpar a qualquer momento.
 
 Quando partilha um documento, a app coloca cópias das suas páginas no mesmo armazenamento temporário e abre o menu de partilha; também elas vão apenas para onde escolher enviá-las.
 
 ## Widgets na página inicial
 
-Se adicionar um widget do Paweo à página inicial do telefone, o widget mostra os nomes dos seus animais e os lembretes de hoje ou as contagens do registo diário, por isso qualquer pessoa que veja o seu telefone desbloqueado pode vê-los. Os widgets leem os dados no seu dispositivo; nada é enviado.
+Os widgets do Paweo estão disponíveis no Android. Se adicionar um widget do Paweo à página inicial do telefone, o widget mostra os nomes dos seus animais e os lembretes de hoje ou as contagens do registo diário, por isso qualquer pessoa que veja o seu telefone desbloqueado pode vê-los. Os widgets leem os dados no seu dispositivo; nada é enviado.
 
 ## Cópias de segurança
 
-Se a cópia de segurança estiver ativada nas definições do dispositivo, o Android pode incluir os dados da app na cópia de segurança do dispositivo na sua conta Google, para que possam ser restaurados num telefone novo. O Paweo só o permite quando a cópia está encriptada de ponta a ponta com o bloqueio do seu dispositivo (PIN, padrão ou palavra-passe); sem bloqueio do dispositivo, os dados da app não são copiados para a nuvem. Encriptada desta forma, a cópia não pode ser lida por nós, pela Google nem por mais ninguém. Também pode transferir os dados diretamente para um telefone novo ao configurá-lo. Pode desativar a cópia de segurança nas definições do dispositivo. Os documentos também são incluídos. A cópia na nuvem do Android guarda no máximo 25 MB por app e ignora por completo a cópia do Paweo se os dados forem maiores; por isso, com muitos documentos grandes, guarde também um ficheiro de cópia de segurança (ver abaixo). As fotos do álbum ficam fora da cópia na nuvem, porque depressa encheriam esse espaço; seguem na transferência direta para um telemóvel novo e num ficheiro de cópia de segurança.
+No Android: se a cópia de segurança estiver ativada nas definições do dispositivo, o Android pode incluir os dados da app na cópia de segurança do dispositivo na sua conta Google, para que possam ser restaurados num telefone novo. O Paweo só o permite quando a cópia está encriptada de ponta a ponta com o bloqueio do seu dispositivo (PIN, padrão ou palavra-passe); sem bloqueio do dispositivo, os dados da app não são copiados para a nuvem. Encriptada desta forma, a cópia não pode ser lida por nós, pela Google nem por mais ninguém. Também pode transferir os dados diretamente para um telefone novo ao configurá-lo. Pode desativar a cópia de segurança nas definições do dispositivo. Os documentos também são incluídos. A cópia na nuvem do Android guarda no máximo 25 MB por app e ignora por completo a cópia do Paweo se os dados forem maiores; por isso, com muitos documentos grandes, guarde também um ficheiro de cópia de segurança (ver abaixo). As fotos do álbum ficam fora da cópia na nuvem, porque depressa encheriam esse espaço; seguem na transferência direta para um telemóvel novo e num ficheiro de cópia de segurança.
+
+No iPhone: se a Cópia de segurança em iCloud estiver ativada nas definições do dispositivo, o iOS inclui os dados da app (a base de dados, as fotos dos animais, os documentos e as fotos do álbum) na sua cópia de segurança em iCloud, para que possam ser restaurados num iPhone novo. A Apple encripta as cópias de segurança em iCloud; se ativar a Proteção avançada de dados na sua conta Apple, são encriptadas de ponta a ponta e só os seus dispositivos as podem ler. Ao contrário do Android, a app não consegue saber se esta opção está ativada, por isso não limita a cópia de segurança. Nós nunca recebemos esta cópia. Pode desativar a Cópia de segurança em iCloud nas definições do dispositivo ou, em vez disso, guardar um ficheiro de cópia de segurança (ver abaixo).
 
 ## Exportar os seus dados
 
-Na app, "Cópia de segurança e restauro" guarda todos os dados, fotos e documentos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro só é criado quando o pede e nós nunca o recebemos. Se o proteger com uma palavra-passe, é encriptado (AES-256) e só pode ser aberto com essa palavra-passe, que nunca vemos nem conseguimos recuperar. Sem palavra-passe, o ficheiro não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app. As fotos do álbum estão incluídas.
+Na app, "Cópia de segurança e restauro" guarda todos os dados, fotos e documentos dos seus animais num só ficheiro, no local que escolher, por exemplo no Google Drive, no iCloud Drive ou no computador, e pode restaurá-los a partir desse ficheiro neste ou noutro telefone. O ficheiro é o mesmo no Android e no iPhone, por isso também transfere os seus dados de um para o outro. O ficheiro só é criado quando o pede e nós nunca o recebemos. Se o proteger com uma palavra-passe, é encriptado (AES-256) e só pode ser aberto com essa palavra-passe, que nunca vemos nem conseguimos recuperar. Sem palavra-passe, o ficheiro não está encriptado, por isso guarde-o num local seguro. Restaurar um ficheiro substitui os dados na app. As fotos do álbum estão incluídas.
 
 ## Durante quanto tempo os dados são guardados e como os apagar
 
-Os seus dados ficam no dispositivo até os apagar. Pode eliminar um animal (com os seus lembretes, o seu registo diário, o seu registo de saúde e os seus documentos) na app, limpar os dados da app nas definições do Android ou desinstalar a app. Os dados incluídos numa cópia de segurança do dispositivo seguem as suas definições de cópia de segurança. Eliminar um animal elimina também o seu álbum.
+Os seus dados ficam no dispositivo até os apagar. Pode eliminar um animal (com os seus lembretes, o seu registo diário, o seu registo de saúde e os seus documentos) na app, limpar os dados da app nas definições do Android ou desinstalar (no iPhone: apagar) a app. Os dados incluídos numa cópia de segurança do dispositivo seguem as suas definições de cópia de segurança. Eliminar um animal elimina também o seu álbum.
 
 ## Os seus direitos
 

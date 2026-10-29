@@ -2,13 +2,13 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · Nederlands · [Polski](../pl/) · [Português](../pt/)
 
-Ingangsdatum: 13 oktober 2026
+Ingangsdatum: 29 oktober 2026
 
-Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Dit beleid legt uit wat er gebeurt met de gegevens die je invoert.
+Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Ze is beschikbaar voor Android en voor iPhone; dit beleid geldt voor beide en vermeldt waar ze verschillen. Het legt uit wat er gebeurt met de gegevens die je invoert.
 
 **Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
 
-De enige uitzonderingen zijn vrijwillig: als je „Document scannen” of „Vaccinaties uitlezen” gebruikt, sturen de documentscanner of de tekstherkenning van Google technische gegevens over het gebruik naar Google (zie „Documentscanner en tekstherkenning” hieronder).
+De enige uitzonderingen zijn vrijwillig en alleen op Android: als je „Document scannen” of „Vaccinaties uitlezen” gebruikt, sturen de documentscanner of de tekstherkenning van Google technische gegevens over het gebruik naar Google (zie „Documentscanner en tekstherkenning” hieronder). Op iPhone verstuurt de documentscanner niets.
 
 ## Verantwoordelijke
 
@@ -33,45 +33,59 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 ## Wat de app niet doet
 
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
-- Ze maakt geen verbinding met internet (ze heeft geen internettoestemming).
-- Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. De enige onderdelen van derden zijn de documentscanner en de tekstherkenning van Google, die alleen worden gebruikt als je „Document scannen” of „Vaccinaties uitlezen” kiest (zie hieronder).
-- Ze gebruikt je advertentie-ID, locatie en contacten niet, en kan je camera niet gebruiken of door je foto's en bestanden bladeren: als je een foto van je dier of een document toevoegt, maak je die met je camera-app of de documentscanner van Google, of kies je die in de foto- of bestandskiezer van Android, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd. Albumfoto's komen er op dezelfde manier in.
+- Ze maakt geen verbinding met internet (op Android heeft ze geen internettoestemming; op iPhone maakt ze geen netwerkverbindingen).
+- Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. Op Android zijn de enige onderdelen van derden zijn de documentscanner en de tekstherkenning van Google, die alleen worden gebruikt als je „Document scannen” of „Vaccinaties uitlezen” kiest (zie hieronder). Op iPhone zijn er geen die iets versturen.
+- Ze gebruikt je advertentie-ID, locatie en contacten niet, en bladert niet door je foto's en bestanden: als je een foto van je dier of een document toevoegt, maak je die met de camera of de documentscanner, of kies je die in de foto- of bestandskiezer van het systeem, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd. Albumfoto's komen er op dezelfde manier in.
 
 ## Toestemmingen
 
+Op beide:
+
 - **Meldingen:** om je herinneringen te tonen.
+
+Op Android:
+
 - **Wekkers en herinneringen (exacte wekkers):** zodat herinneringen op het ingestelde tijdstip komen. Je kunt dit uitzetten in de instellingen van je apparaat; herinneringen kunnen dan later komen.
 - **Uitvoeren bij opstarten:** na een herstart van je apparaat zet de app je herinneringen opnieuw, omdat Android geplande wekkers bij een herstart wist.
+
+Op iPhone:
+
+- **Camera:** gevraagd de eerste keer dat je een foto van je dier maakt of een document scant. De afbeelding blijft op je apparaat.
+- **Ververs op achtergrond:** iOS kan de app af en toe activeren om je komende herinneringen in te stellen, omdat het er maar een beperkt aantal tegelijk bewaart. Er wordt niets verstuurd. Je kunt dit uitzetten in de instellingen van je apparaat; herinneringen worden dan ingesteld telkens als je de app opent.
 
 De belknop naast een telefoonnummer opent je Telefoon-app met het nummer al ingevuld. Paweo belt zelf niet.
 
 ## Documentscanner en tekstherkenning
 
-„Document scannen” opent de documentscanner van Google, die deel uitmaakt van Google Play-services op je telefoon. Hij vindt de randen van de pagina en maakt het beeld op je apparaat schoon; de gescande pagina's komen terug in Paweo als je de scan afrondt en worden niet naar Google gestuurd. Google Play-services kan de scanner downloaden als je hem voor het eerst gebruikt. Terwijl je hem gebruikt, stuurt hij technische gegevens over het gebruik naar Google: apparaatmodel en Android-versie, pakketnaam en versie van Paweo, prestatiecijfers, foutcodes en apparaat- en installatie-ID's, voor diagnose en gebruiksstatistieken. Google versleutelt deze gegevens tijdens het verzenden en deelt ze niet met derden (gegevensverklaring van Google voor ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo zelf ontvangt daar niets van. Wil je dat liever niet, voeg pagina's dan toe met „Foto maken”, „Kiezen uit galerij” of „Bestand kiezen”.
+Op iPhone opent „Document scannen” de documentscanner van Apple, die deel uitmaakt van iOS. Hij vindt de randen van de pagina en maakt het beeld op je apparaat schoon, en de gescande pagina's komen terug in Paweo; de scanner stuurt niets naar Apple of naar ons. „Vaccinaties uitlezen” is nog niet beschikbaar op iPhone.
 
-„Vaccinaties uitlezen” bij een vaccinatiedocument gebruikt de tekstherkenning van Google, eveneens onderdeel van Google Play-services, om namen van vaccins en datums op de pagina's van het document te vinden. De herkenning gebeurt op je apparaat: de pagina's en de gelezen tekst worden niet naar Google gestuurd, en er wordt niets opgeslagen voordat je het hebt gecontroleerd. Google Play-services downloadt mogelijk eerst het herkenningsmodel. Tijdens het gebruik stuurt de tekstherkenning Google dezelfde soort technische gegevens als de scanner, onder dezelfde voorwaarden. Wil je dat liever vermijden, voer vaccinaties dan met de hand in.
+Op Android opent „Document scannen” de documentscanner van Google, die deel uitmaakt van Google Play-services op je telefoon. Hij vindt de randen van de pagina en maakt het beeld op je apparaat schoon; de gescande pagina's komen terug in Paweo als je de scan afrondt en worden niet naar Google gestuurd. Google Play-services kan de scanner downloaden als je hem voor het eerst gebruikt. Terwijl je hem gebruikt, stuurt hij technische gegevens over het gebruik naar Google: apparaatmodel en Android-versie, pakketnaam en versie van Paweo, prestatiecijfers, foutcodes en apparaat- en installatie-ID's, voor diagnose en gebruiksstatistieken. Google versleutelt deze gegevens tijdens het verzenden en deelt ze niet met derden (gegevensverklaring van Google voor ML Kit: developers.google.com/ml-kit/android-data-disclosure). Paweo zelf ontvangt daar niets van. Wil je dat liever niet, voeg pagina's dan toe met „Foto maken”, „Kiezen uit galerij” of „Bestand kiezen”.
+
+Op Android gebruikt „Vaccinaties uitlezen” bij een vaccinatiedocument de tekstherkenning van Google, eveneens onderdeel van Google Play-services, om namen van vaccins en datums op de pagina's van het document te vinden. De herkenning gebeurt op je apparaat: de pagina's en de gelezen tekst worden niet naar Google gestuurd, en er wordt niets opgeslagen voordat je het hebt gecontroleerd. Google Play-services downloadt mogelijk eerst het herkenningsmodel. Tijdens het gebruik stuurt de tekstherkenning Google dezelfde soort technische gegevens als de scanner, onder dezelfde voorwaarden. Wil je dat liever vermijden, voer vaccinaties dan met de hand in.
 
 ## Een gezondheidsrapport, oppasblad of document delen
 
-Als je op "Gezondheidsrapport delen" of "Oppasblad" tikt, maakt de app een pdf op je apparaat en opent ze het deelmenu van Android. De pdf gaat alleen naar de bestemming die jij kiest, bijvoorbeeld per e-mail naar je dierenarts of je oppas. Vanaf dat moment gaat de app of de persoon met wie je de pdf deelde ermee om volgens de eigen voorwaarden. De pdf staat in de tijdelijke opslag van de app, die Android op elk moment kan leegmaken.
+Als je op "Gezondheidsrapport delen", "Oppasblad" of "Vermist-poster" tikt, maakt de app een pdf op je apparaat en opent ze het deelmenu van het systeem. De pdf gaat alleen naar de bestemming die jij kiest, bijvoorbeeld per e-mail naar je dierenarts of je oppas. Vanaf dat moment gaat de app of de persoon met wie je de pdf deelde ermee om volgens de eigen voorwaarden. De pdf staat in de tijdelijke opslag van de app, die het systeem op elk moment kan leegmaken.
 
 Als je een document deelt, zet de app kopieën van de pagina's in dezelfde tijdelijke opslag en opent ze het deelmenu; ook die gaan alleen naar de bestemming die jij kiest.
 
 ## Widgets op het startscherm
 
-Als je een Paweo-widget aan je startscherm toevoegt, toont die daar de namen van je dieren en de herinneringen van vandaag of de aantallen uit het dagboek, dus iedereen die je ontgrendelde scherm kan zien, ziet ze ook. Widgets lezen de gegevens op je apparaat; er wordt niets verstuurd.
+De widgets van Paweo zijn beschikbaar op Android. Als je een Paweo-widget aan je startscherm toevoegt, toont die daar de namen van je dieren en de herinneringen van vandaag of de aantallen uit het dagboek, dus iedereen die je ontgrendelde scherm kan zien, ziet ze ook. Widgets lezen de gegevens op je apparaat; er wordt niets verstuurd.
 
 ## Back-ups
 
-Als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat. Ook documenten gaan mee. De cloudback-up van Android bewaart maximaal 25 MB per app en slaat de back-up van Paweo helemaal over als de gegevens groter zijn; bewaar bij veel grote documenten dus ook een back-upbestand (zie hieronder). De foto's van het album blijven buiten de cloudback-up, omdat ze die ruimte snel zouden vullen; ze gaan mee bij de directe overzetting naar een nieuwe telefoon en in een back-upbestand.
+Op Android: als back-up aanstaat in de instellingen van je apparaat, kan Android de gegevens van de app opnemen in de back-up van je apparaat in je Google-account, zodat ze op een nieuwe telefoon kunnen worden teruggezet. Paweo staat dit alleen toe als de back-up end-to-end versleuteld is met de schermvergrendeling van je apparaat (pincode, patroon of wachtwoord); zonder schermvergrendeling wordt er geen back-up van de appgegevens in de cloud gemaakt. Zo versleuteld kan de back-up niet worden gelezen door ons, door Google of door wie dan ook. Je kunt de gegevens bij het instellen van een nieuwe telefoon ook rechtstreeks overzetten. Je kunt back-ups uitzetten in de instellingen van je apparaat. Ook documenten gaan mee. De cloudback-up van Android bewaart maximaal 25 MB per app en slaat de back-up van Paweo helemaal over als de gegevens groter zijn; bewaar bij veel grote documenten dus ook een back-upbestand (zie hieronder). De foto's van het album blijven buiten de cloudback-up, omdat ze die ruimte snel zouden vullen; ze gaan mee bij de directe overzetting naar een nieuwe telefoon en in een back-upbestand.
+
+Op iPhone: als iCloud-reservekopie aanstaat in de instellingen van je apparaat, neemt iOS de gegevens van de app (de database, dierfoto's, documenten en albumfoto's) op in je iCloud-reservekopie, zodat ze op een nieuwe iPhone kunnen worden teruggezet. Apple versleutelt iCloud-reservekopieën; als je Geavanceerde databescherming aanzet in je Apple-account, zijn ze end-to-end versleuteld en kunnen alleen je apparaten ze lezen. Anders dan op Android kan de app niet zien of dat aanstaat, dus beperkt ze de back-up niet. Wij ontvangen deze back-up nooit. Je kunt iCloud-reservekopie uitzetten in de instellingen van je apparaat, of in plaats daarvan een back-upbestand bewaren (zie hieronder).
 
 ## Je gegevens exporteren
 
-In de app slaat "Back-up en terugzetten" alle gegevens, foto's en documenten van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app. De foto's van het album zitten erin.
+In de app slaat "Back-up en terugzetten" alle gegevens, foto's en documenten van je dieren op in één bestand, op een plek die jij kiest, bijvoorbeeld Google Drive, iCloud Drive of je computer, en kan ze uit zo'n bestand terugzetten op deze of een andere telefoon. Het bestand is hetzelfde op Android en iPhone, dus je zet er ook je gegevens mee over van het ene naar het andere. Het bestand wordt alleen gemaakt als jij daarom vraagt, en wij ontvangen het nooit. Als je het met een wachtwoord beveiligt, wordt het versleuteld (AES-256) en kan het alleen met dat wachtwoord worden geopend; wij zien dat wachtwoord nooit en kunnen het niet herstellen. Zonder wachtwoord is het bestand niet versleuteld, dus bewaar het op een veilige plek. Een bestand terugzetten vervangt de gegevens in de app. De foto's van het album zitten erin.
 
 ## Hoe lang gegevens bewaard blijven en hoe je ze verwijdert
 
-Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen, het dagboek, het gezondheidslogboek en de documenten), de appgegevens wissen in de Android-instellingen of de app verwijderen. Kopieën in een back-up van je apparaat volgen je back-upinstellingen. Als je een dier verwijdert, wordt ook zijn album verwijderd.
+Je gegevens blijven op je apparaat totdat je ze verwijdert. Je kunt in de app een dier verwijderen (samen met de herinneringen, het dagboek, het gezondheidslogboek en de documenten), de appgegevens wissen in de Android-instellingen of de app de-installeren (op iPhone: verwijderen). Kopieën in een back-up van je apparaat volgen je back-upinstellingen. Als je een dier verwijdert, wordt ook zijn album verwijderd.
 
 ## Je rechten
 
