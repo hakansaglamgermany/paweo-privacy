@@ -6,7 +6,7 @@ Data de entrada em vigor: 29 de outubro de 2026
 
 O Paweo é uma app para acompanhar os cuidados dos seus animais: perfis, lembretes, um registo diário, um registo de saúde, documentos e relatórios em PDF. Está disponível para Android e para iPhone; esta política abrange ambos e indica onde diferem. Explica o que acontece às informações que insere.
 
-**Em resumo: tudo o que insere fica no seu dispositivo. O Paweo não tem conta, servidores, anúncios, análises nem rastreio. A app nem sequer tem permissão de acesso à internet.**
+**Em resumo: tudo o que insere fica no seu dispositivo. O Paweo não tem conta, servidores, anúncios, análises nem rastreio. A app não se liga à internet; no Android nem sequer tem permissão para isso.**
 
 As únicas exceções são opcionais e apenas no Android: se usar "Digitalizar documento" ou "Ler vacinas", o digitalizador de documentos ou o reconhecimento de texto da Google enviam à Google informações técnicas sobre a sua utilização (ver "Digitalizador de documentos e reconhecimento de texto" abaixo). No iPhone, o digitalizador de documentos não envia nada.
 

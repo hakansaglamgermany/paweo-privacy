@@ -6,7 +6,7 @@ Ingangsdatum: 29 oktober 2026
 
 Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Ze is beschikbaar voor Android en voor iPhone; dit beleid geldt voor beide en vermeldt waar ze verschillen. Het legt uit wat er gebeurt met de gegevens die je invoert.
 
-**Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app heeft niet eens toestemming om internet te gebruiken.**
+**Kort gezegd: alles wat je invoert, blijft op je apparaat. Paweo heeft geen account, geen servers, geen advertenties, geen analyse en geen tracking. De app maakt geen verbinding met internet; op Android heeft ze daar niet eens toestemming voor.**
 
 De enige uitzonderingen zijn vrijwillig en alleen op Android: als je „Document scannen” of „Vaccinaties uitlezen” gebruikt, sturen de documentscanner of de tekstherkenning van Google technische gegevens over het gebruik naar Google (zie „Documentscanner en tekstherkenning” hieronder). Op iPhone verstuurt de documentscanner niets.
 

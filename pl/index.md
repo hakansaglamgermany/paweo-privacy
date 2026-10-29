@@ -6,7 +6,7 @@ Data wejścia w życie: 29 października 2026 r.
 
 Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypomnienia, codzienne wpisy, dziennik zdrowia, dokumenty i raporty w formacie PDF. Jest dostępna na Androida i na iPhone'a; ta polityka obejmuje obie wersje i wskazuje, czym się różnią. Wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
-**W skrócie: wszystko, co wprowadzasz, zostaje na twoim urządzeniu. Paweo nie ma konta, serwerów, reklam, analityki ani śledzenia. Aplikacja nie ma nawet uprawnienia do korzystania z internetu.**
+**W skrócie: wszystko, co wprowadzasz, zostaje na twoim urządzeniu. Paweo nie ma konta, serwerów, reklam, analityki ani śledzenia. Aplikacja nie łączy się z internetem; na Androidzie nie ma nawet takiego uprawnienia.**
 
 Jedyne wyjątki są dobrowolne i dotyczą tylko Androida: jeśli użyjesz „Zeskanuj dokument” lub „Odczytaj szczepienia”, skaner dokumentów lub rozpoznawanie tekstu Google wysyłają do Google informacje techniczne o swoim użyciu (patrz „Skaner dokumentów i rozpoznawanie tekstu” poniżej). Na iPhonie skaner dokumentów niczego nie wysyła.
 

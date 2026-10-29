@@ -6,7 +6,7 @@ Stand: 29. Oktober 2026
 
 Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Tagebuch, Gesundheitseinträge, Dokumente und PDF-Berichte. Es gibt sie für Android und für das iPhone; diese Erklärung gilt für beide und sagt, wo sie sich unterscheiden. Sie beschreibt, was mit den Angaben passiert, die du eingibst.
 
-**Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App hat nicht einmal die Berechtigung, auf das Internet zuzugreifen.**
+**Kurz gesagt: Alles, was du eingibst, bleibt auf deinem Gerät. Paweo hat kein Konto, keine Server, keine Werbung, keine Analyse und kein Tracking. Die App verbindet sich nicht mit dem Internet; unter Android hat sie nicht einmal die Berechtigung dazu.**
 
 Die einzigen Ausnahmen sind freiwillig und betreffen nur Android: Wenn du „Dokument scannen“ oder „Impfungen auslesen“ nutzt, senden der Dokumentenscanner bzw. die Texterkennung von Google technische Angaben zu ihrer Nutzung an Google (siehe „Dokumentenscanner und Texterkennung“ unten). Auf dem iPhone sendet der Dokumentenscanner nichts.
 

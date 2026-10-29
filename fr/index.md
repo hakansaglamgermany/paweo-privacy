@@ -6,7 +6,7 @@ Date d'entrée en vigueur : 29 octobre 2026
 
 Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé, documents et rapports PDF. Elle est disponible sur Android et sur iPhone ; cette politique couvre les deux et indique où ils diffèrent. Elle explique ce que deviennent les informations que vous saisissez.
 
-**En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application n'a même pas l'autorisation d'accéder à Internet.**
+**En bref : tout ce que vous saisissez reste sur votre appareil. Paweo n'a ni compte, ni serveur, ni publicité, ni mesure d'audience, ni traçage. L'application ne se connecte pas à Internet ; sur Android, elle n'en a même pas l'autorisation.**
 
 Les seules exceptions sont facultatives et ne concernent qu'Android : si vous utilisez « Scanner un document » ou « Lire les vaccinations », le scanner de documents ou la reconnaissance de texte de Google envoient à Google des informations techniques sur leur utilisation (voir « Scanner de documents et reconnaissance de texte » ci-dessous). Sur iPhone, le scanner de documents n'envoie rien.
 

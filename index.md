@@ -6,7 +6,7 @@ Effective date: October 29, 2026
 
 Paweo is an app for keeping track of your pets' care: profiles, reminders, a daily log, a health log, documents and PDF reports. It is available for Android and for iPhone; this policy covers both, and says where they differ. It explains what happens to the information you enter.
 
-**In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not even have permission to access the internet.**
+**In short: everything you enter stays on your device. Paweo has no account, no servers, no ads, no analytics and no tracking. The app does not connect to the internet; on Android it does not even have permission to.**
 
 The only exceptions are optional and only on Android: if you use "Scan document" or "Read vaccinations", Google's document scanner or text recognition sends Google technical information about its use (see "Document scanner and text recognition" below). On iPhone, the document scanner sends nothing.
 

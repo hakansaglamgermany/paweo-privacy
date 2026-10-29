@@ -6,7 +6,7 @@ Yürürlük tarihi: 29 Ekim 2026
 
 Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü, belgeler ve PDF raporlar. Android ve iPhone için mevcut; bu politika ikisini de kapsar ve nerede farklılaştıklarını belirtir. Girdiğin bilgilere ne olduğunu açıklıyor.
 
-**Kısacası: Girdiğin her şey cihazında kalır. Paweo'nun hesabı, sunucusu, reklamı, analizi ve takibi yok. Uygulamanın internete erişme izni bile yok.**
+**Kısacası: Girdiğin her şey cihazında kalır. Paweo'nun hesabı, sunucusu, reklamı, analizi ve takibi yok. Uygulama internete bağlanmaz; Android'de buna izni bile yok.**
 
 Tek istisnalar isteğe bağlı ve yalnızca Android'de: "Belge tara"yı ya da "Aşıları oku"yu kullanırsan Google'ın belge tarayıcısı ya da metin tanıması, kullanımıyla ilgili teknik bilgileri Google'a gönderir (aşağıda "Belge tarayıcı ve metin tanıma"ya bak). iPhone'da belge tarayıcı hiçbir şey göndermez.
 
