@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · Nederlands · [Polski](../pl/) · [Português](../pt/)
 
-Ingangsdatum: 29 oktober 2026
+Ingangsdatum: 17 november 2026
 
 Paweo is een app waarmee je de verzorging van je dieren bijhoudt: profielen, herinneringen, een dagboek, een gezondheidslogboek, documenten en pdf-rapporten. Ze is beschikbaar voor Android en voor iPhone; dit beleid geldt voor beide en vermeldt waar ze verschillen. Het legt uit wat er gebeurt met de gegevens die je invoert.
 
@@ -35,13 +35,14 @@ Deze gegevens verlaten je apparaat nooit via Paweo, en wij ontvangen ze nooit. W
 - Ze maakt geen account aan en vraagt niet om je naam of e-mailadres.
 - Ze maakt geen verbinding met internet (op Android heeft ze geen internettoestemming; op iPhone maakt ze geen netwerkverbindingen).
 - Ze gebruikt geen advertenties, geen analyse en geen crashrapporten. Op Android zijn de enige onderdelen van derden zijn de documentscanner en de tekstherkenning van Google, die alleen worden gebruikt als je „Document scannen” of „Vaccinaties uitlezen” kiest (zie hieronder). Op iPhone zijn er geen die iets versturen.
-- Ze gebruikt je advertentie-ID, locatie en contacten niet, en bladert niet door je foto's en bestanden: als je een foto van je dier of een document toevoegt, maak je die met de camera of de documentscanner, of kies je die in de foto- of bestandskiezer van het systeem, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd. Albumfoto's komen er op dezelfde manier in.
+- Ze gebruikt je advertentie-ID en contacten niet, je locatie alleen terwijl je een wandeling meet (zie Toestemmingen), en bladert niet door je foto's en bestanden: als je een foto van je dier of een document toevoegt, maak je die met de camera of de documentscanner, of kies je die in de foto- of bestandskiezer van het systeem, en wordt alleen wat je kiest naar de opslag van de app op je apparaat gekopieerd. Albumfoto's komen er op dezelfde manier in.
 
 ## Toestemmingen
 
 Op beide:
 
 - **Meldingen:** om je herinneringen te tonen.
+- **Locatie:** gevraagd wanneer je voor het eerst een wandeling start, en alleen gebruikt terwijl een wandeling gemeten wordt, om de afstand op te tellen. Alleen de afstand en de duur worden opgeslagen; je posities en route worden niet bewaard en verlaten je apparaat nooit. Paweo gebruikt je locatie op geen enkel ander moment. Op Android is tijdens het meten een melding te zien.
 
 Op Android:
 

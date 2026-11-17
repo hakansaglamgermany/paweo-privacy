@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · Polski · [Português](../pt/)
 
-Data wejścia w życie: 29 października 2026 r.
+Data wejścia w życie: 17 listopada 2026 r.
 
 Paweo to aplikacja do śledzenia opieki nad twoimi zwierzętami: profile, przypomnienia, codzienne wpisy, dziennik zdrowia, dokumenty i raporty w formacie PDF. Jest dostępna na Androida i na iPhone'a; ta polityka obejmuje obie wersje i wskazuje, czym się różnią. Wyjaśnia, co dzieje się z informacjami, które wprowadzasz.
 
@@ -35,13 +35,14 @@ Te informacje nigdy nie opuszczają twojego urządzenia za pośrednictwem Paweo 
 - Nie zakłada konta i nie pyta o twoje imię ani adres e-mail.
 - Nie łączy się z internetem (na Androidzie nie ma uprawnienia do internetu; na iPhonie nie nawiązuje żadnych połączeń sieciowych).
 - Nie używa reklam, analityki ani raportów o awariach. Na Androidzie jedynymi zewnętrznymi komponentami są skaner dokumentów i rozpoznawanie tekstu Google, używane tylko wtedy, gdy wybierzesz „Zeskanuj dokument” lub „Odczytaj szczepienia” (patrz poniżej). Na iPhonie nie ma żadnych, które cokolwiek wysyłają.
-- Nie używa identyfikatora reklamowego, twojej lokalizacji ani kontaktów i nie przegląda twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je aparatem lub skanerem dokumentów albo wybierasz w systemowym selektorze zdjęć lub plików i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu. Zdjęcia do albumu dodaje się w ten sam sposób.
+- Nie używa identyfikatora reklamowego ani kontaktów, twojej lokalizacji używa tylko podczas mierzenia spaceru (zob. Uprawnienia) i nie przegląda twoich zdjęć i plików: jeśli dodasz zdjęcie zwierzęcia lub dokument, robisz je aparatem lub skanerem dokumentów albo wybierasz w systemowym selektorze zdjęć lub plików i tylko to, co wybierzesz, jest kopiowane do pamięci aplikacji na twoim urządzeniu. Zdjęcia do albumu dodaje się w ten sam sposób.
 
 ## Uprawnienia
 
 Na obu:
 
 - **Powiadomienia:** aby wyświetlać twoje przypomnienia.
+- **Lokalizacja:** pytamy o nią przy pierwszym rozpoczęciu spaceru i używamy jej tylko podczas mierzenia spaceru, aby zsumować dystans. Zapisywane są tylko dystans i czas trwania; twoje pozycje i trasa nie są przechowywane i nigdy nie opuszczają urządzenia. Paweo nie używa twojej lokalizacji w żadnym innym momencie. Na Androidzie podczas pomiaru widoczne jest powiadomienie.
 
 Na Androidzie:
 

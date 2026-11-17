@@ -2,7 +2,7 @@
 
 [English](../) · Deutsch · [Türkçe](../tr/) · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Stand: 29. Oktober 2026
+Stand: 17. November 2026
 
 Paweo ist eine App, mit der du die Pflege deiner Tiere im Blick behältst: Profile, Erinnerungen, ein Tagebuch, Gesundheitseinträge, Dokumente und PDF-Berichte. Es gibt sie für Android und für das iPhone; diese Erklärung gilt für beide und sagt, wo sie sich unterscheiden. Sie beschreibt, was mit den Angaben passiert, die du eingibst.
 
@@ -35,13 +35,14 @@ Diese Angaben verlassen dein Gerät über Paweo nie, und wir erhalten sie nie. W
 - Sie legt kein Konto an und fragt nicht nach deinem Namen oder deiner E-Mail-Adresse.
 - Sie verbindet sich nicht mit dem Internet (unter Android hat sie keine Internetberechtigung; auf dem iPhone baut sie keine Netzwerkverbindungen auf).
 - Sie nutzt keine Werbung, keine Analyse und keine Absturzberichte. Unter Android sind die einzigen Drittanbieter-Komponenten der Dokumentenscanner und die Texterkennung von Google, die nur genutzt werden, wenn du „Dokument scannen“ oder „Impfungen auslesen“ wählst (siehe unten). Auf dem iPhone gibt es keine, die etwas senden.
-- Sie nutzt weder die Werbe-ID noch deinen Standort oder deine Kontakte und durchsucht deine Fotos und Dateien nicht: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit der Kamera oder dem Dokumentenscanner auf oder wählst es in der Foto- oder Dateiauswahl des Systems aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert. Fotos fürs Album kommen auf dieselbe Weise hinein.
+- Sie nutzt weder die Werbe-ID noch deine Kontakte, deinen Standort nur, während du einen Spaziergang misst (siehe Berechtigungen), und sie durchsucht deine Fotos und Dateien nicht: Wenn du ein Foto deines Tiers oder ein Dokument hinzufügst, nimmst du es mit der Kamera oder dem Dokumentenscanner auf oder wählst es in der Foto- oder Dateiauswahl des Systems aus, und nur das Ausgewählte wird in den Speicher der App auf deinem Gerät kopiert. Fotos fürs Album kommen auf dieselbe Weise hinein.
 
 ## Berechtigungen
 
 Auf beiden:
 
 - **Benachrichtigungen:** um deine Erinnerungen anzuzeigen.
+- **Standort:** wird beim ersten Start eines Spaziergangs erfragt und nur genutzt, während ein Spaziergang gemessen wird, um die Strecke zusammenzuzählen. Gespeichert werden nur Strecke und Dauer; deine Positionen und die Route werden nicht gespeichert und verlassen dein Gerät nie. Zu keiner anderen Zeit nutzt Paweo deinen Standort. Unter Android ist während der Messung eine Benachrichtigung zu sehen.
 
 Unter Android:
 

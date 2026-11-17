@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · [Türkçe](../tr/) · Français · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Date d'entrée en vigueur : 29 octobre 2026
+Date d'entrée en vigueur : 17 novembre 2026
 
 Paweo est une application pour suivre les soins de vos animaux : profils, rappels, suivi quotidien, suivi santé, documents et rapports PDF. Elle est disponible sur Android et sur iPhone ; cette politique couvre les deux et indique où ils diffèrent. Elle explique ce que deviennent les informations que vous saisissez.
 
@@ -35,13 +35,14 @@ Ces informations ne quittent jamais votre appareil par l'intermédiaire de Paweo
 - Elle ne crée pas de compte et ne demande ni votre nom ni votre adresse e-mail.
 - Elle ne se connecte pas à Internet (sur Android, elle n'a pas l'autorisation Internet ; sur iPhone, elle n'établit aucune connexion réseau).
 - Elle n'utilise ni publicité, ni outil de mesure d'audience, ni rapports de plantage. Sur Android, les seuls composants tiers sont le scanner de documents et la reconnaissance de texte de Google, utilisés uniquement lorsque vous choisissez « Scanner un document » ou « Lire les vaccinations » (voir ci-dessous). Sur iPhone, il n'y en a aucun qui envoie quoi que ce soit.
-- Elle n'utilise ni l'identifiant publicitaire, ni votre position, ni vos contacts, et elle ne parcourt pas vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec l'appareil photo ou le scanner de documents, ou le choisissez dans le sélecteur de photos ou de fichiers du système, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil. Les photos de l'album arrivent de la même façon.
+- Elle n'utilise ni l'identifiant publicitaire ni vos contacts, n'utilise votre position que pendant que vous mesurez une promenade (voir Autorisations), et elle ne parcourt pas vos photos et fichiers : si vous ajoutez une photo de votre animal ou un document, vous le prenez avec l'appareil photo ou le scanner de documents, ou le choisissez dans le sélecteur de photos ou de fichiers du système, et seul ce que vous choisissez est copié dans le stockage de l'application sur votre appareil. Les photos de l'album arrivent de la même façon.
 
 ## Autorisations
 
 Sur les deux :
 
 - **Notifications :** pour afficher vos rappels.
+- **Position :** demandée la première fois que vous démarrez une promenade, et utilisée uniquement pendant qu'une promenade est mesurée, pour en additionner la distance. Seules la distance et la durée sont enregistrées ; vos positions et votre itinéraire ne sont pas conservés et ne quittent jamais votre appareil. Paweo n'utilise votre position à aucun autre moment. Sur Android, une notification s'affiche pendant la mesure.
 
 Sur Android :
 

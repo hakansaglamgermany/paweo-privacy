@@ -2,7 +2,7 @@
 
 [English](../) · [Deutsch](../de/) · Türkçe · [Français](../fr/) · [Español](../es/) · [Italiano](../it/) · [Nederlands](../nl/) · [Polski](../pl/) · [Português](../pt/)
 
-Yürürlük tarihi: 29 Ekim 2026
+Yürürlük tarihi: 17 Kasım 2026
 
 Paweo, evcil hayvanlarının bakımını takip etmen için bir uygulama: profiller, hatırlatıcılar, günlük kayıtlar, bir sağlık günlüğü, belgeler ve PDF raporlar. Android ve iPhone için mevcut; bu politika ikisini de kapsar ve nerede farklılaştıklarını belirtir. Girdiğin bilgilere ne olduğunu açıklıyor.
 
@@ -35,13 +35,14 @@ Bu bilgiler Paweo üzerinden cihazından asla çıkmaz ve bize hiçbir zaman ula
 - Hesap oluşturmaz, adını ya da e-posta adresini sormaz.
 - İnternete bağlanmaz (Android'de internet izni yoktur; iPhone'da hiçbir ağ bağlantısı kurmaz).
 - Reklam, analiz ya da çökme raporlama kullanmaz. Android'de tek üçüncü taraf bileşenler Google'ın belge tarayıcısı ve metin tanımasıdır; yalnızca "Belge tara"yı ya da "Aşıları oku"yu seçtiğinde kullanılırlar (aşağıya bak). iPhone'da bir şey gönderen hiçbir üçüncü taraf bileşen yoktur.
-- Reklam kimliğini, konumunu ya da rehberini kullanmaz; fotoğraflarına ve dosyalarına göz atmaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamerayla ya da belge tarayıcısıyla çekersin ya da sistemin fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır. Albüm fotoğrafları da aynı yolla eklenir.
+- Reklam kimliğini ya da rehberini kullanmaz, konumunu yalnızca bir yürüyüşü ölçerken kullanır (bkz. İzinler); fotoğraflarına ve dosyalarına göz atmaz: Hayvanının fotoğrafını ya da bir belge eklersen onu kamerayla ya da belge tarayıcısıyla çekersin ya da sistemin fotoğraf veya dosya seçicisinde sen seçersin ve yalnızca seçtiğin, cihazında uygulamanın klasörüne kopyalanır. Albüm fotoğrafları da aynı yolla eklenir.
 
 ## İzinler
 
 İkisinde de:
 
 - **Bildirimler:** hatırlatıcılarını göstermek için.
+- **Konum:** ilk kez bir yürüyüş başlattığında sorulur ve yalnızca yürüyüş ölçülürken, mesafeyi toplamak için kullanılır. Yalnızca mesafe ve süre kaydedilir; konumların ve rotan saklanmaz ve cihazından hiç çıkmaz. Paweo konumunu başka hiçbir zaman kullanmaz. Android'de yürüyüş ölçülürken bir bildirim görünür.
 
 Android'de:
 

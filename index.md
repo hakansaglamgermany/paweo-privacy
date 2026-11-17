@@ -2,7 +2,7 @@
 
 English · [Deutsch](de/) · [Türkçe](tr/) · [Français](fr/) · [Español](es/) · [Italiano](it/) · [Nederlands](nl/) · [Polski](pl/) · [Português](pt/)
 
-Effective date: October 29, 2026
+Effective date: November 17, 2026
 
 Paweo is an app for keeping track of your pets' care: profiles, reminders, a daily log, a health log, documents and PDF reports. It is available for Android and for iPhone; this policy covers both, and says where they differ. It explains what happens to the information you enter.
 
@@ -35,13 +35,14 @@ This information never leaves your device through Paweo, and we never receive it
 - It does not create an account or ask for your name or email.
 - It does not connect to the internet (on Android it has no internet permission; on iPhone it makes no network connections).
 - It does not use advertising, analytics or crash reporting. On Android, the only third-party components are Google's document scanner and text recognition, used only when you choose "Scan document" or "Read vaccinations" (see below). On iPhone there are none that send anything.
-- It does not use the advertising ID, your location or your contacts, and it doesn't browse your photos and files: if you add a photo of your pet or a document, you take it with the camera or the document scanner, or pick it in the system's photo picker or file picker, and only what you pick is copied into the app's storage on your device. Album photos come in the same way.
+- It does not use the advertising ID or your contacts, uses your location only while you measure a walk (see Permissions), and it doesn't browse your photos and files: if you add a photo of your pet or a document, you take it with the camera or the document scanner, or pick it in the system's photo picker or file picker, and only what you pick is copied into the app's storage on your device. Album photos come in the same way.
 
 ## Permissions
 
 On both:
 
 - **Notifications:** to show your reminders.
+- **Location:** asked the first time you start a walk, and used only while a walk is being measured, to add up its distance. Only the distance and the duration are saved; your positions and route are not stored and never leave your device. Paweo does not use your location at any other time. On Android, a notification shows while a walk is being measured.
 
 On Android:
 
